@@ -1,0 +1,12 @@
+{
+  "name": "iwvb2bproducts",
+  "version": "1.0.0",
+  "description": "Update product data from Google Sheets",
+  "main": "updateSheetData.js",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  },
+  "scripts": {
+    "update": "node updateSheetData.js"
+  }
+}
