@@ -19,6 +19,12 @@ This project automatically updates product data from Google Sheets for the IWV B
    ```
 3. Set up a Personal Access Token (PAT) in GitHub with repo access
 4. Add the PAT as a repository secret named `PAT`
+5. Set up Google Sheets API access:
+   - Go to the Google Cloud Console and create a new project
+   - Enable the Google Sheets API for your project
+   - Create credentials (Service Account Key) for the Sheets API
+   - Download the JSON key file
+   - Add the content of the JSON key file as a repository secret named `GOOGLE_SHEETS_API_KEY`
 
 ## Usage
 
@@ -37,3 +43,10 @@ To manually trigger an update:
 - `.github/workflows/update-sheet-data.yml`: GitHub Actions workflow configuration
 - `whole list/products.json`: Full product list
 - `fruits list/products.json`: Fruits-only product list
+
+## Environment Variables
+
+Ensure the following environment variables are set in your GitHub repository secrets:
+
+- `PAT`: Personal Access Token for GitHub
+- `GOOGLE_SHEETS_API_KEY`: JSON key for Google Sheets API access
