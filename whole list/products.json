@@ -6,37 +6,19 @@
     "indent": false
   },
   {
-    "productName": "Apple China Fuji 中国富士苹果 100PCS",
+    "productName": "Apple China Fuji 中国富士苹果 100/113PCS",
     "unitOfMeasure": "/CTN",
     "salesPrice": "$59.00",
     "indent": false
   },
   {
-    "productName": "Apple China Fuji 中国富士苹果 113PCS",
+    "productName": "Apple China Fuji 中国富士苹果 80/88PCS",
     "unitOfMeasure": "/CTN",
     "salesPrice": "$59.00",
     "indent": false
   },
   {
-    "productName": "Apple China Fuji 中国富士苹果 64PCS",
-    "unitOfMeasure": "/CTN",
-    "salesPrice": "$59.00",
-    "indent": false
-  },
-  {
-    "productName": "Apple China Fuji 中国富士苹果 72PCS",
-    "unitOfMeasure": "/CTN",
-    "salesPrice": "$59.00",
-    "indent": false
-  },
-  {
-    "productName": "Apple China Fuji 中国富士苹果 80PCS",
-    "unitOfMeasure": "/CTN",
-    "salesPrice": "$59.00",
-    "indent": false
-  },
-  {
-    "productName": "Apple China Fuji 中国富士苹果 88PCS",
+    "productName": "Apple China Fuji 中国富士苹果 64/72PCS",
     "unitOfMeasure": "/CTN",
     "salesPrice": "$59.00",
     "indent": false
@@ -63,6 +45,18 @@
     "productName": "Apple Envy New Zealand 爱妃新西兰苹果",
     "unitOfMeasure": "/PCS",
     "salesPrice": "$2.00",
+    "indent": false
+  },
+  {
+    "productName": "Apple Green 青苹果",
+    "unitOfMeasure": "/PCS",
+    "salesPrice": "$0.45",
+    "indent": false
+  },
+  {
+    "productName": "Apple Green 青苹果 120/135PCS",
+    "unitOfMeasure": "/CTN",
+    "salesPrice": "$54.00",
     "indent": false
   },
   {
@@ -774,24 +768,6 @@
     "indent": false
   },
   {
-    "productName": "Green Apple 青苹果",
-    "unitOfMeasure": "/PCS",
-    "salesPrice": "$0.45",
-    "indent": false
-  },
-  {
-    "productName": "Green Apple 青苹果 120PCS",
-    "unitOfMeasure": "/CTN",
-    "salesPrice": "$54.00",
-    "indent": false
-  },
-  {
-    "productName": "Green Apple 青苹果 135PCS",
-    "unitOfMeasure": "/CTN",
-    "salesPrice": "$54.00",
-    "indent": false
-  },
-  {
     "productName": "Guava Luohan 罗汉番石榴",
     "unitOfMeasure": "/PCS",
     "salesPrice": "$13.00",
@@ -1218,57 +1194,33 @@
     "indent": false
   },
   {
-    "productName": "Orange Navel/Valencia 橙 100PCS",
+    "productName": "Orange Navel/Valencia 橙 100/113PCS",
     "unitOfMeasure": "/CTN",
     "salesPrice": "$38.00",
     "indent": false
   },
   {
-    "productName": "Orange Navel/Valencia 橙 113PCS",
+    "productName": "Orange Navel/Valencia 橙 72/80/88PCS",
     "unitOfMeasure": "/CTN",
     "salesPrice": "$38.00",
-    "indent": false
-  },
-  {
-    "productName": "Orange Navel/Valencia 橙 32PCS",
-    "unitOfMeasure": "/CTN",
-    "salesPrice": "$21.00",
-    "indent": false
-  },
-  {
-    "productName": "Orange Navel/Valencia 橙 40PCS",
-    "unitOfMeasure": "/CTN",
-    "salesPrice": "$36.00",
-    "indent": false
-  },
-  {
-    "productName": "Orange Navel/Valencia 橙 45PCS",
-    "unitOfMeasure": "/KG",
-    "salesPrice": "$43.00",
     "indent": false
   },
   {
     "productName": "Orange Navel/Valencia 橙 64PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$35.00",
-    "indent": false
-  },
-  {
-    "productName": "Orange Navel/Valencia 橙 72PCS",
-    "unitOfMeasure": "/CTN",
-    "salesPrice": "$35.00",
-    "indent": false
-  },
-  {
-    "productName": "Orange Navel/Valencia 橙 80PCS",
-    "unitOfMeasure": "/CTN",
-    "salesPrice": "$35.00",
-    "indent": false
-  },
-  {
-    "productName": "Orange Navel/Valencia 橙 88PCS",
-    "unitOfMeasure": "/CTN",
     "salesPrice": "$38.00",
+    "indent": false
+  },
+  {
+    "productName": "Orange Navel/Valencia 橙 40/45PCS",
+    "unitOfMeasure": "/CTN",
+    "salesPrice": "$43.00",
+    "indent": false
+  },
+  {
+    "productName": "Orange Navel/Valencia 橙 32PCS",
+    "unitOfMeasure": "/CTN",
+    "salesPrice": "$35.00",
     "indent": false
   },
   {
@@ -1585,12 +1537,6 @@
   },
   {
     "productName": "Rosemary 迷迭香 50G",
-    "unitOfMeasure": "/PKT",
-    "salesPrice": "$3.80",
-    "indent": true
-  },
-  {
-    "productName": "Sage 智者 50G",
     "unitOfMeasure": "/PKT",
     "salesPrice": "$3.80",
     "indent": true
