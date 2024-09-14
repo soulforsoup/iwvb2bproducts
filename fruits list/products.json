@@ -150,14 +150,20 @@
     "indent": false
   },
   {
-    "productName": "Blueberries Jumbo 蓝莓珍宝",
-    "unitOfMeasure": "/BOX",
-    "salesPrice": "$4.00",
+    "productName": "Blueberries Jumbo 蓝莓珍宝 125G",
+    "unitOfMeasure": "/PUN",
+    "salesPrice": "$4.30",
+    "indent": false
+  },
+  {
+    "productName": "Blueberries Jumbo 蓝莓珍宝 150G",
+    "unitOfMeasure": "/PUN",
+    "salesPrice": "$5.20",
     "indent": false
   },
   {
     "productName": "Blueberries 蓝莓 125G",
-    "unitOfMeasure": "/PKT",
+    "unitOfMeasure": "/PUN",
     "salesPrice": "$3.20",
     "indent": false
   },
