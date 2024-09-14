@@ -428,13 +428,13 @@
   {
     "productName": "Chili Padi Green Stemless 去头青米椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$9.30",
+    "salesPrice": "$8.00",
     "indent": false
   },
   {
     "productName": "Chili Padi Green 青米椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$7.30",
+    "salesPrice": "$6.00",
     "indent": false
   },
   {
@@ -506,7 +506,7 @@
   {
     "productName": "Coriander Thai 泰国芫茜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$9.00",
+    "salesPrice": "$9.90",
     "indent": false
   },
   {
@@ -536,13 +536,13 @@
   {
     "productName": "Cucumber Japanese 日本青瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.90",
+    "salesPrice": "$2.70",
     "indent": false
   },
   {
     "productName": "Cucumber Japanese 日本青瓜 10KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$38.50",
+    "salesPrice": "$26.50",
     "indent": false
   },
   {
@@ -920,7 +920,7 @@
   {
     "productName": "Leek 青蒜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.60",
+    "salesPrice": "$5.60",
     "indent": false
   },
   {
@@ -962,7 +962,7 @@
   {
     "productName": "Lettuce Iceberg 玻璃生菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.65",
+    "salesPrice": "$4.90",
     "indent": false
   },
   {
@@ -1010,7 +1010,7 @@
   {
     "productName": "Mango Green 青芒果",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.20",
+    "salesPrice": "$3.70",
     "indent": false
   },
   {
@@ -1040,7 +1040,7 @@
   {
     "productName": "Mango Thai 泰芒果",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.00",
+    "salesPrice": "$5.20",
     "indent": false
   },
   {
