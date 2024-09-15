@@ -26,7 +26,7 @@ jobs:
         env:
           WHOLE_LIST_SHEET_URL: ${{ secrets.WHOLE_LIST_SHEET_URL }}
           FRUITS_LIST_SHEET_URL: ${{ secrets.FRUITS_LIST_SHEET_URL }}
-        run: node updateSheetData.js
+        run: node updateSheetData.mjs
       - name: Commit and push if changed
         run: |
           git config --global user.name 'GitHub Action'

@@ -1,7 +1,11 @@
-const fs = require("fs");
-const path = require("path");
-const fetch = require("node-fetch");
-const crypto = require("crypto");
+import fs from "fs";
+import path from "path";
+import fetch from "node-fetch";
+import crypto from "crypto";
+import { fileURLToPath } from "url";
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
 // Check for required environment variables
 const WHOLE_LIST_SHEET_URL = process.env.WHOLE_LIST_SHEET_URL;
@@ -64,7 +68,7 @@ async function fetchSheetData(url, folder) {
         : false,
     }));
 
-    const filePath = path.join(folder, "products.json");
+    const filePath = path.join(__dirname, folder, "products.json");
     const oldData = fs.existsSync(filePath)
       ? fs.readFileSync(filePath, "utf8")
       : "";
@@ -90,8 +94,10 @@ async function updateAllSheets() {
   }
 }
 
-updateAllSheets().catch((error) => {
+try {
+  await updateAllSheets();
+} catch (error) {
   secureLog("An error occurred during the update process:", true);
   secureLog(error.message);
   process.exit(1);
-});
+}
