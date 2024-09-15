@@ -3,7 +3,25 @@ const path = require("path");
 const fetch = require("node-fetch");
 const crypto = require("crypto");
 
+// Check for required environment variables
+const WHOLE_LIST_SHEET_URL = process.env.WHOLE_LIST_SHEET_URL;
+const FRUITS_LIST_SHEET_URL = process.env.FRUITS_LIST_SHEET_URL;
+
+if (!WHOLE_LIST_SHEET_URL || !FRUITS_LIST_SHEET_URL) {
+  console.error(
+    "Error: Missing required environment variables. Please set WHOLE_LIST_SHEET_URL and FRUITS_LIST_SHEET_URL.",
+  );
+  process.exit(1);
+}
+
+const sheets = [
+  { url: WHOLE_LIST_SHEET_URL, folder: "whole list" },
+  { url: FRUITS_LIST_SHEET_URL, folder: "fruits list" },
+];
+
 function sanitizeInput(input) {
+  // This regex will only remove control characters and other potentially dangerous characters
+  // while preserving Unicode characters, spaces, and common punctuation
   return input.replace(/[\u0000-\u001F\u007F-\u009F<>]/g, "");
 }
 
@@ -13,7 +31,11 @@ function checksum(str) {
 
 function secureLog(message, sensitiveInfo = false) {
   if (sensitiveInfo) {
-    console.log("Sensitive information logged. Check secure logs.");
+    // Use GitHub Actions syntax to create a warning annotation
+    console.log(`::warning::Sensitive information logged`);
+    // Mask the sensitive information in the log
+    console.log(`::add-mask::${message}`);
+    console.log(message);
   } else {
     console.log(message);
   }
@@ -21,6 +43,7 @@ function secureLog(message, sensitiveInfo = false) {
 
 async function fetchSheetData(url, folder) {
   try {
+    secureLog(`Fetching data for ${folder}`);
     const response = await fetch(url);
     if (!response.ok) {
       throw new Error(`HTTP error! status: ${response.status}`);
@@ -60,12 +83,6 @@ async function fetchSheetData(url, folder) {
     secureLog(error.message);
   }
 }
-
-// Use environment variables for sheet URLs
-const sheets = [
-  { url: process.env.WHOLE_LIST_SHEET_URL, folder: "whole list" },
-  { url: process.env.FRUITS_LIST_SHEET_URL, folder: "fruits list" },
-];
 
 async function updateAllSheets() {
   for (const sheet of sheets) {

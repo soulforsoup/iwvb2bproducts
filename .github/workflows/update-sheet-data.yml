@@ -2,8 +2,8 @@ name: Update Sheet Data
 
 on:
   schedule:
-    - cron: "0 6,15 * * *" # Runs at 6 AM and 3 PM UTC (2 PM and 11 PM Singapore time)
-  workflow_dispatch: # Allows manual triggering
+    - cron: "0 6,15 * * *"
+  workflow_dispatch:
   push:
     branches:
       - main
@@ -23,6 +23,9 @@ jobs:
       - name: Install dependencies
         run: npm install
       - name: Run update script
+        env:
+          WHOLE_LIST_SHEET_URL: ${{ secrets.WHOLE_LIST_SHEET_URL }}
+          FRUITS_LIST_SHEET_URL: ${{ secrets.FRUITS_LIST_SHEET_URL }}
         run: node updateSheetData.js
       - name: Commit and push if changed
         run: |
