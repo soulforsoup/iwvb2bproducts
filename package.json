@@ -4,7 +4,7 @@
   "description": "Update product data from Google Sheets",
   "main": "updateSheetData.js",
   "dependencies": {
-    "node-fetch": "^2.6.1"
+    "node-fetch": "^3.3.2"
   },
   "scripts": {
     "update": "node updateSheetData.js"
