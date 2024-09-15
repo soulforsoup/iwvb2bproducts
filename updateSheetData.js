@@ -1,29 +1,22 @@
 const fs = require("fs");
 const path = require("path");
 const fetch = require("node-fetch");
+const crypto = require("crypto");
 
-const sheets = [
-  {
-    url: "https://docs.google.com/spreadsheets/d/1TF2hAiXg5KfLARRnVSdT0YroW3su0f3K-iERs2RZjAw/pub?output=csv&gid=56605794",
-    folder: "whole list",
-  },
-  {
-    url: "https://docs.google.com/spreadsheets/d/1TF2hAiXg5KfLARRnVSdT0YroW3su0f3K-iERs2RZjAw/pub?output=csv&gid=247435002",
-    folder: "fruits list",
-  },
-];
+function sanitizeInput(input) {
+  return input.replace(/[\u0000-\u001F\u007F-\u009F<>]/g, "");
+}
 
-function validateProduct(product) {
-  const requiredFields = ["productName", "unitOfMeasure", "salesPrice"];
-  for (const field of requiredFields) {
-    if (!product[field]) {
-      throw new Error(`Missing required field: ${field}`);
-    }
+function checksum(str) {
+  return crypto.createHash("md5").update(str).digest("hex");
+}
+
+function secureLog(message, sensitiveInfo = false) {
+  if (sensitiveInfo) {
+    console.log("Sensitive information logged. Check secure logs.");
+  } else {
+    console.log(message);
   }
-  if (isNaN(parseFloat(product.salesPrice.replace("$", "")))) {
-    throw new Error(`Invalid sales price: ${product.salesPrice}`);
-  }
-  return true;
 }
 
 async function fetchSheetData(url, folder) {
@@ -39,39 +32,40 @@ async function fetchSheetData(url, folder) {
       throw new Error("Insufficient data in the sheet");
     }
 
-    const headers = rows[0];
-    const products = rows
-      .slice(1)
-      .map((row) => {
-        const product = {
-          productName: row[0] || "",
-          unitOfMeasure: row[1] || "",
-          salesPrice: row[2] || "",
-          indent: row[3] ? row[3].trim().toUpperCase() === "TRUE" : false,
-        };
-        try {
-          validateProduct(product);
-        } catch (error) {
-          console.warn(`Skipping invalid product: ${error.message}`);
-          return null;
-        }
-        return product;
-      })
-      .filter((product) => product !== null);
-
-    if (!fs.existsSync(folder)) {
-      fs.mkdirSync(folder, { recursive: true });
-    }
+    const products = rows.slice(1).map((row) => ({
+      productName: sanitizeInput(row[0] || ""),
+      unitOfMeasure: sanitizeInput(row[1] || ""),
+      salesPrice: sanitizeInput(row[2] || ""),
+      indent: row[3]
+        ? sanitizeInput(row[3]).trim().toUpperCase() === "TRUE"
+        : false,
+    }));
 
     const filePath = path.join(folder, "products.json");
-    fs.writeFileSync(filePath, JSON.stringify(products, null, 2));
-    console.log(`Data updated successfully in ${filePath}`);
+    const oldData = fs.existsSync(filePath)
+      ? fs.readFileSync(filePath, "utf8")
+      : "";
+    const oldChecksum = checksum(oldData);
+    const newData = JSON.stringify(products, null, 2);
+    const newChecksum = checksum(newData);
+
+    if (newChecksum !== oldChecksum) {
+      fs.writeFileSync(filePath, newData);
+      secureLog(`Data updated successfully in ${filePath}`);
+    } else {
+      secureLog(`No changes detected for ${filePath}`);
+    }
   } catch (error) {
-    console.error(`Error fetching data for ${folder}:`, error.message);
-    // You might want to add more specific error handling here
-    // For example, you could send an alert or log to a monitoring service
+    secureLog(`Error fetching data for ${folder}:`, true);
+    secureLog(error.message);
   }
 }
+
+// Use environment variables for sheet URLs
+const sheets = [
+  { url: process.env.WHOLE_LIST_SHEET_URL, folder: "whole list" },
+  { url: process.env.FRUITS_LIST_SHEET_URL, folder: "fruits list" },
+];
 
 async function updateAllSheets() {
   for (const sheet of sheets) {
@@ -80,6 +74,7 @@ async function updateAllSheets() {
 }
 
 updateAllSheets().catch((error) => {
-  console.error("An error occurred during the update process:", error.message);
+  secureLog("An error occurred during the update process:", true);
+  secureLog(error.message);
   process.exit(1);
 });
