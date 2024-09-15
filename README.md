@@ -1,52 +1,162 @@
 # IWV B2B Products Updater
 
-This project automatically updates product data from Google Sheets for the IWV B2B platform.
+## What This Project Does
 
-## Features
+This project automatically updates product information for the IWV B2B (Business-to-Business) platform. It fetches the latest product data from Google Sheets and makes it available in an easy-to-use format for the platform.
 
-- Fetches product data from specified Google Sheets
-- Converts CSV data to structured JSON
-- Saves updated product lists to separate folders
-- Runs on a schedule via GitHub Actions
-- Supports manual triggering of updates
+## Key Features
 
-## Setup
+- Automatically retrieves up-to-date product information from Google Sheets
+- Converts the data into a structured JSON format, which is easier for computers to process
+- Creates two separate product lists: a complete list and a fruits-only list
+- Updates the product information regularly without manual intervention
+- Allows for manual updates when needed
 
-1. Clone the repository
-2. Install dependencies:
-   ```
-   npm install
-   ```
-3. Set up a Personal Access Token (PAT) in GitHub with repo access
-4. Add the PAT as a repository secret named `PAT`
-5. Set up Google Sheets API access:
-   - Go to the Google Cloud Console and create a new project
-   - Enable the Google Sheets API for your project
-   - Create credentials (Service Account Key) for the Sheets API
-   - Download the JSON key file
-   - Add the content of the JSON key file as a repository secret named `GOOGLE_SHEETS_API_KEY`
+## Why It's Useful
 
-## Usage
+- Ensures that the B2B platform always has the most current product information
+- Saves time by automating what would otherwise be a manual update process
+- Reduces the chance of errors that can occur with manual data entry
+- Provides flexibility with both scheduled and on-demand updates
 
-The update process runs automatically on the following schedule:
-- 6 AM and 3 PM UTC (2 PM and 11 PM Singapore time) daily
-- On every push to `main` or `dev` branches
+## How It Works
 
-To manually trigger an update:
-1. Go to the "Actions" tab in the GitHub repository
-2. Select the "Update Sheet Data" workflow
-3. Click "Run workflow"
+1. The system connects to specified Google Sheets containing product data
+2. It reads the information from these sheets
+3. The data is processed and organized into a structured format
+4. Two separate files are created and updated:
+   - A complete list of all products
+   - A list containing only fruit products
+5. These files are then saved in the project repository
 
-## File Structure
+## Update Schedule
 
-- `updateSheetData.js`: Main script for fetching and processing data
-- `.github/workflows/update-sheet-data.yml`: GitHub Actions workflow configuration
-- `whole list/products.json`: Full product list
-- `fruits list/products.json`: Fruits-only product list
+The product information is automatically updated based on a defined schedule. Currently, it's set to run:
 
-## Environment Variables
+- Every 6 hours (4 times a day)
+- Whenever changes are pushed to the `main` or `dev` branches of the project
+- When manually triggered by a project maintainer
 
-Ensure the following environment variables are set in your GitHub repository secrets:
+### Understanding and Modifying the Update Schedule
 
-- `PAT`: Personal Access Token for GitHub
-- `GOOGLE_SHEETS_API_KEY`: JSON key for Google Sheets API access
+The update schedule is controlled by a cron expression in the GitHub Actions workflow file. Here's how it works:
+
+1. The schedule is defined in `.github/workflows/update-sheet-data.yml`
+2. The current cron expression is: `0 */6 * * *`
+
+What this means:
+- `0`: At minute 0 (top of the hour)
+- `*/6`: Every 6th hour
+- `* * *`: Every day, every month, every day of the week
+
+To modify the schedule:
+
+1. Open `.github/workflows/update-sheet-data.yml`
+2. Find the `schedule` section under `on:`
+3. Modify the `cron` expression
+
+Common cron examples:
+- Every hour: `0 * * * *`
+- Twice daily (6 AM and 6 PM UTC): `0 6,18 * * *`
+- Once daily at midnight UTC: `0 0 * * *`
+- Every 3 hours: `0 */3 * * *`
+
+Note: Increasing the frequency will use more of your GitHub Actions minutes. Ensure you stay within your account's limits.
+
+## Step-by-Step Guide to Using This Repository
+
+### For Users
+
+1. Accessing Updated Product Data:
+   - The latest product data is always available in two JSON files:
+     - `whole list/products.json`: Complete product list
+     - `fruits list/products.json`: Fruits-only product list
+   - You can view these files directly on GitHub or download them for use in your applications
+
+2. Checking Update History:
+   - Go to the repository's main page
+   - Click on the "Commits" link near the top
+   - This shows a history of all updates, including when product data was last refreshed
+
+3. Verifying Automatic Updates:
+   - Click on the "Actions" tab in the repository
+   - Look for the "Update Sheet Data" workflow
+   - You'll see a list of recent runs, showing when the data was last updated automatically
+
+4. Requesting a Manual Update:
+   - Go to the "Actions" tab
+   - Click on "Update Sheet Data" workflow
+   - Press the "Run workflow" button
+   - Select the branch (usually 'main') and click "Run workflow"
+
+### For Contributors and Developers
+
+1. Setting Up the Project Locally:
+   a. Clone the repository:
+      ```
+      git clone https://github.com/[username]/iwvb2bproducts.git
+      cd iwvb2bproducts
+      ```
+   b. Install dependencies:
+      ```
+      npm install
+      ```
+
+2. Configuring Google Sheets API:
+   a. Go to Google Cloud Console and create a new project
+   b. Enable Google Sheets API for your project
+   c. Create a Service Account Key for the Sheets API
+   d. Download the JSON key file
+
+3. Setting Up GitHub Secrets:
+   a. In the repository, go to Settings > Secrets
+   b. Add a new secret named `GOOGLE_SHEETS_API_KEY`
+   c. Paste the content of your Google Sheets API JSON key file as the value
+
+4. Creating a Personal Access Token (PAT):
+   a. In GitHub, go to Settings > Developer settings > Personal access tokens
+   b. Generate a new token with 'repo' access
+   c. Add this token as a secret named `PAT` in the repository settings
+
+5. Modifying the Update Script:
+   - If needed, edit `updateSheetData.js` to change how data is processed
+
+6. Changing the Update Schedule:
+   a. Open `.github/workflows/update-sheet-data.yml`
+   b. Modify the `cron` expression under the `schedule` section
+
+7. Testing Changes:
+   a. Make your changes in a new branch
+   b. Push the branch and create a pull request
+   c. GitHub Actions will run automatically on the pull request
+
+8. Deploying Changes:
+   - Once your pull request is approved and merged, the changes will be active on the main branch
+
+9. Monitoring Updates:
+   - Regularly check the "Actions" tab to ensure updates are running successfully
+   - Review the generated JSON files to verify data accuracy
+
+### Troubleshooting
+
+- If updates fail, check the Actions log for error messages
+- Ensure your Google Sheets API key and PAT are up to date
+- Verify that the Google Sheet's sharing settings allow access to your service account
+
+## Important Files
+
+- `updateSheetData.js`: The main script that fetches and processes the data
+- `.github/workflows/update-sheet-data.yml`: Configures when and how the update process runs
+- `whole list/products.json`: Contains the complete product list
+- `fruits list/products.json`: Contains the fruits-only product list
+
+## Detailed Setup for Google Sheets API
+
+1. Go to the [Google Cloud Console](https://console.cloud.google.com/)
+2. Create a new project
+3. Enable the Google Sheets API for your project
+4. Create credentials (Service Account Key) for the Sheets API
+5. Download the JSON key file
+6. In your GitHub repository, go to Settings > Secrets
+7. Add a new secret named `GOOGLE_SHEETS_API_KEY`
+8. Paste the entire content of the JSON key file as the value of this secret
