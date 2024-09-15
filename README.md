@@ -33,7 +33,7 @@ This project automatically updates product information for the IWV B2B (Business
 
 The product information is automatically updated based on a defined schedule. Currently, it's set to run:
 
-- Every 6 hours (4 times a day)
+- Twice daily at 6 AM and 3 PM UTC
 - Whenever changes are pushed to the `main` or `dev` branches of the project
 - When manually triggered by a project maintainer
 
@@ -42,11 +42,11 @@ The product information is automatically updated based on a defined schedule. Cu
 The update schedule is controlled by a cron expression in the GitHub Actions workflow file. Here's how it works:
 
 1. The schedule is defined in `.github/workflows/update-sheet-data.yml`
-2. The current cron expression is: `0 */6 * * *`
+2. The current cron expression is: `0 6,15 * * *`
 
 What this means:
 - `0`: At minute 0 (top of the hour)
-- `*/6`: Every 6th hour
+- `6,15`: At 6 AM and 3 PM UTC
 - `* * *`: Every day, every month, every day of the week
 
 To modify the schedule:
@@ -119,7 +119,7 @@ Note: Increasing the frequency will use more of your GitHub Actions minutes. Ens
    c. Add this token as a secret named `PAT` in the repository settings
 
 5. Modifying the Update Script:
-   - If needed, edit `updateSheetData.js` to change how data is processed
+   - If needed, edit `updateSheetData.mjs` to change how data is processed
 
 6. Changing the Update Schedule:
    a. Open `.github/workflows/update-sheet-data.yml`
@@ -145,7 +145,7 @@ Note: Increasing the frequency will use more of your GitHub Actions minutes. Ens
 
 ## Important Files
 
-- `updateSheetData.js`: The main script that fetches and processes the data
+- `updateSheetData.mjs`: The main script that fetches and processes the data
 - `.github/workflows/update-sheet-data.yml`: Configures when and how the update process runs
 - `whole list/products.json`: Contains the complete product list
 - `fruits list/products.json`: Contains the fruits-only product list
