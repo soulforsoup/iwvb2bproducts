@@ -160,3 +160,39 @@ Note: Increasing the frequency will use more of your GitHub Actions minutes. Ens
 6. In your GitHub repository, go to Settings > Secrets
 7. Add a new secret named `GOOGLE_SHEETS_API_KEY`
 8. Paste the entire content of the JSON key file as the value of this secret
+
+## Data Sanitization and Security
+
+This project implements several security measures to ensure the integrity and safety of the data:
+
+1. Input Sanitization:
+   - All input data from the Google Sheets is sanitized before processing.
+   - A custom sanitization function removes potentially dangerous characters while preserving Unicode characters, spaces, and common punctuation.
+   - The sanitization regex used is: `/[\u0000-\u001F\u007F-\u009F<>]/g`
+   - This approach helps prevent XSS (Cross-Site Scripting) and other injection attacks.
+
+2. Secure Logging:
+   - The project uses a custom `secureLog` function to handle logging.
+   - Sensitive information is masked in logs to prevent accidental exposure.
+   - GitHub Actions syntax is used to create warning annotations for sensitive logs.
+
+3. Checksum Verification:
+   - Before updating the JSON files, the script calculates an MD5 checksum of the new data.
+   - This checksum is compared with the checksum of the existing data to determine if an update is necessary.
+   - This approach reduces unnecessary commits and helps maintain data integrity.
+
+4. Environment Variable Security:
+   - Sensitive information such as API keys and URLs are stored as GitHub Secrets.
+   - These secrets are accessed via environment variables in the GitHub Actions workflow.
+
+5. Error Handling:
+   - The script includes comprehensive error handling to catch and log issues without exposing sensitive details.
+
+## Current Implementation Details
+
+- The script (`updateSheetData.mjs`) is written in modern JavaScript (ES6+) and runs in a Node.js environment.
+- It uses the `node-fetch` library to make HTTP requests to the Google Sheets.
+- The script processes two separate sheets: a complete product list and a fruits-only list.
+- Data is fetched, sanitized, processed, and then saved as JSON files in the repository.
+- The GitHub Actions workflow (`update-sheet-data.yml`) is set to run on a schedule, on pushes to main/dev branches, and can be manually triggered.
+- The workflow uses a Personal Access Token (PAT) for authentication to allow for pushing changes back to the repository.
