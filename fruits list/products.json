@@ -12,13 +12,13 @@
     "indent": false
   },
   {
-    "productName": "Apple China Fuji 中国富士苹果 80/88PCS",
+    "productName": "Apple China Fuji 中国富士苹果 64/72PCS",
     "unitOfMeasure": "/CTN",
     "salesPrice": "$59.00",
     "indent": false
   },
   {
-    "productName": "Apple China Fuji 中国富士苹果 64/72PCS",
+    "productName": "Apple China Fuji 中国富士苹果 80/88PCS",
     "unitOfMeasure": "/CTN",
     "salesPrice": "$59.00",
     "indent": false
@@ -420,15 +420,9 @@
     "indent": false
   },
   {
-    "productName": "Orange Navel/Valencia 橙 72/80/88PCS",
+    "productName": "Orange Navel/Valencia 橙 32PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$38.00",
-    "indent": false
-  },
-  {
-    "productName": "Orange Navel/Valencia 橙 64PCS",
-    "unitOfMeasure": "/CTN",
-    "salesPrice": "$38.00",
+    "salesPrice": "$35.00",
     "indent": false
   },
   {
@@ -438,9 +432,15 @@
     "indent": false
   },
   {
-    "productName": "Orange Navel/Valencia 橙 32PCS",
+    "productName": "Orange Navel/Valencia 橙 64PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$35.00",
+    "salesPrice": "$38.00",
+    "indent": false
+  },
+  {
+    "productName": "Orange Navel/Valencia 橙 72/80/88PCS",
+    "unitOfMeasure": "/CTN",
+    "salesPrice": "$38.00",
     "indent": false
   },
   {
