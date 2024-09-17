@@ -92,13 +92,13 @@
   {
     "productName": "Asparagus 大芦笋",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$21.00",
+    "salesPrice": "$18.00",
     "indent": false
   },
   {
     "productName": "Asparagus 大芦笋 5KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$102.00",
+    "salesPrice": "$87.00",
     "indent": false
   },
   {
@@ -218,7 +218,7 @@
   {
     "productName": "Bean Long 菜豆",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.60",
+    "salesPrice": "$4.00",
     "indent": false
   },
   {
@@ -332,7 +332,7 @@
   {
     "productName": "Capsicum 羊角椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.90",
+    "salesPrice": "$5.20",
     "indent": false
   },
   {
@@ -416,7 +416,7 @@
   {
     "productName": "Chicory Red 红菊苣",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$7.50",
+    "salesPrice": "$8.00",
     "indent": true
   },
   {
@@ -428,7 +428,7 @@
   {
     "productName": "Chili Padi Green Stemless 去头青米椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$8.00",
+    "salesPrice": "$7.50",
     "indent": false
   },
   {
@@ -506,7 +506,7 @@
   {
     "productName": "Coriander Thai 泰国芫茜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$9.90",
+    "salesPrice": "$10.50",
     "indent": false
   },
   {
@@ -1142,7 +1142,7 @@
   {
     "productName": "Nai Bai 奶白",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$6.10",
+    "salesPrice": "$6.70",
     "indent": false
   },
   {
