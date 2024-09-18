@@ -812,7 +812,7 @@
   {
     "productName": "Kailan Hong Kong 香港芥兰",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.90",
+    "salesPrice": "$5.30",
     "indent": false
   },
   {
@@ -1160,7 +1160,7 @@
   {
     "productName": "Onion Spring 青葱",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$6.00",
+    "salesPrice": "$5.30",
     "indent": false
   },
   {
@@ -1520,13 +1520,13 @@
   {
     "productName": "Radish White 白萝卜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$1.50",
+    "salesPrice": "$2.00",
     "indent": false
   },
   {
     "productName": "Radish White 白萝卜 10KG",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$14.00",
+    "salesPrice": "$19.00",
     "indent": false
   },
   {
