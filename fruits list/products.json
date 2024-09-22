@@ -80,19 +80,19 @@
   {
     "productName": "Avocados Hass Australian 澳洲牛油果 26-30PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$48.00",
+    "salesPrice": "$50.00",
     "indent": false
   },
   {
     "productName": "Avocados Hass Mexico 墨西哥牛油果",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$2.10",
+    "salesPrice": "$1.90",
     "indent": false
   },
   {
     "productName": "Avocados Hass Mexico 墨西哥牛油果 20-26PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$50.00",
+    "salesPrice": "#N/A",
     "indent": false
   },
   {
@@ -188,13 +188,13 @@
   {
     "productName": "Coconut Thai Young 泰国椰子",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$2.10",
+    "salesPrice": "$2.00",
     "indent": false
   },
   {
     "productName": "Coconut Thai Young 泰国椰子 30PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$60.00",
+    "salesPrice": "$57.00",
     "indent": false
   },
   {
