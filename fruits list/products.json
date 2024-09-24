@@ -60,6 +60,12 @@
     "indent": false
   },
   {
+    "productName": "Apple Red Gala 红苹果 135/150PCS",
+    "unitOfMeasure": "/CTN",
+    "salesPrice": "$65.00",
+    "indent": false
+  },
+  {
     "productName": "Apple Rockit 5S 新西兰苹果",
     "unitOfMeasure": "/BOX",
     "salesPrice": "$8.20",
@@ -206,7 +212,7 @@
   {
     "productName": "Dragon Fruit White 白火龙果",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.50",
+    "salesPrice": "$2.80",
     "indent": false
   },
   {
@@ -296,7 +302,7 @@
   {
     "productName": "Kiwifruit Green Zespri 佳沛青奇异果 70/74PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$84.00",
+    "salesPrice": "$86.00",
     "indent": false
   },
   {
@@ -495,6 +501,12 @@
     "productName": "Pear Fragrant 香梨 CTN",
     "unitOfMeasure": "/CTN",
     "salesPrice": "$38.00",
+    "indent": false
+  },
+  {
+    "productName": "Pear Packham 青杷 70/90PCS",
+    "unitOfMeasure": "/CTN",
+    "salesPrice": "$45.00",
     "indent": false
   },
   {
