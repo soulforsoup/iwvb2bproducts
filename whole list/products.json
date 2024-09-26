@@ -98,13 +98,13 @@
   {
     "productName": "Asparagus 大芦笋",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$18.00",
+    "salesPrice": "$17.00",
     "indent": false
   },
   {
     "productName": "Asparagus 大芦笋 5KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$87.00",
+    "salesPrice": "$82.00",
     "indent": false
   },
   {
@@ -1520,7 +1520,7 @@
   {
     "productName": "Radish Cherry Belle 樱桃萝卜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$8.50",
+    "salesPrice": "$6.50",
     "indent": false
   },
   {
