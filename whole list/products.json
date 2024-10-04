@@ -314,7 +314,7 @@
   {
     "productName": "Cabbage Red 红包菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.00",
+    "salesPrice": "$1.80",
     "indent": false
   },
   {
@@ -470,7 +470,7 @@
   {
     "productName": "Chye Sim Cameron 金马伦菜芯",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.30",
+    "salesPrice": "$3.00",
     "indent": false
   },
   {
@@ -1070,7 +1070,7 @@
   {
     "productName": "Melon Winter China 中国冬瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.40",
+    "salesPrice": "$2.70",
     "indent": false
   },
   {
@@ -1362,13 +1362,13 @@
     "indent": true
   },
   {
-    "productName": "Pineapple Del Monte/Dole 蜜糖黄梨",
+    "productName": "Pineapple Sunpride/Del Monte/Dole 蜜糖黄梨",
     "unitOfMeasure": "/PCS",
     "salesPrice": "$4.50",
     "indent": false
   },
   {
-    "productName": "Pineapple Honey Malaysia 马来西亚蜂蜜黄梨",
+    "productName": "Pineapple Honey 水晶蜂蜜黄梨",
     "unitOfMeasure": "/PCS",
     "salesPrice": "$2.10",
     "indent": false
@@ -1383,12 +1383,6 @@
     "productName": "Pineapple Sarawak 砂拉越黄梨",
     "unitOfMeasure": "/PCS",
     "salesPrice": "$7.00",
-    "indent": false
-  },
-  {
-    "productName": "Pineapple Sweet 水晶黄梨",
-    "unitOfMeasure": "/PCS",
-    "salesPrice": "$2.30",
     "indent": false
   },
   {
@@ -1784,7 +1778,7 @@
   {
     "productName": "Tomatoes Cherry Red 红樱桃番茄",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.50",
+    "salesPrice": "$4.90",
     "indent": false
   },
   {
@@ -1832,7 +1826,7 @@
   {
     "productName": "Xiao Bai Chye 小白菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.90",
+    "salesPrice": "$3.00",
     "indent": false
   },
   {
@@ -1850,7 +1844,7 @@
   {
     "productName": "You Mai Cai 油麦菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.50",
+    "salesPrice": "$4.00",
     "indent": false
   },
   {
