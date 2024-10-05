@@ -522,13 +522,13 @@
     "indent": false
   },
   {
-    "productName": "Pineapple Del Monte/Dole 蜜糖黄梨",
+    "productName": "Pineapple Sunpride/Del Monte/Dole 蜜糖黄梨",
     "unitOfMeasure": "/PCS",
     "salesPrice": "$4.50",
     "indent": false
   },
   {
-    "productName": "Pineapple Honey Malaysia 马来西亚蜂蜜黄梨",
+    "productName": "Pineapple Honey 水晶蜂蜜黄梨",
     "unitOfMeasure": "/PCS",
     "salesPrice": "$2.10",
     "indent": false
@@ -543,12 +543,6 @@
     "productName": "Pineapple Sarawak 砂拉越黄梨",
     "unitOfMeasure": "/PCS",
     "salesPrice": "$7.00",
-    "indent": false
-  },
-  {
-    "productName": "Pineapple Sweet 水晶黄梨",
-    "unitOfMeasure": "/PCS",
-    "salesPrice": "$2.30",
     "indent": false
   },
   {
