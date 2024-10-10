@@ -8,7 +8,7 @@
   {
     "productName": "Apple China Fuji 中国富士苹果 100/113PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$45.00",
+    "salesPrice": "$49.00",
     "indent": false
   },
   {
@@ -69,6 +69,12 @@
     "productName": "Apple Rockit 5S 新西兰苹果 16ROLLS",
     "unitOfMeasure": "/CTN",
     "salesPrice": "$130.00",
+    "indent": false
+  },
+  {
+    "productName": "Apple Strawberry 草莓苹果 16x450G",
+    "unitOfMeasure": "/CTN",
+    "salesPrice": "$48.00",
     "indent": false
   },
   {
@@ -272,7 +278,7 @@
   {
     "productName": "Honeydew 甘露",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.30",
+    "salesPrice": "$2.10",
     "indent": false
   },
   {
@@ -357,6 +363,12 @@
     "productName": "Mango R2E2/Keitt Australian 澳洲芒果 9KG",
     "unitOfMeasure": "/CTN",
     "salesPrice": "$60.00",
+    "indent": false
+  },
+  {
+    "productName": "Mango Thai Gold 泰国金芒果",
+    "unitOfMeasure": "/KG",
+    "salesPrice": "$7.90",
     "indent": false
   },
   {
