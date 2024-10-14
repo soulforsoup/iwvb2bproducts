@@ -224,7 +224,7 @@
   {
     "productName": "Bean Long 菜豆",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.90",
+    "salesPrice": "$4.70",
     "indent": false
   },
   {
@@ -266,7 +266,7 @@
   {
     "productName": "Bittergourd 苦瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.50",
+    "salesPrice": "$4.20",
     "indent": false
   },
   {
@@ -332,7 +332,7 @@
   {
     "productName": "Calamansi 小酸甘",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.00",
+    "salesPrice": "$4.10",
     "indent": false
   },
   {
@@ -368,7 +368,7 @@
   {
     "productName": "Cauliflower China 散菜花",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.10",
+    "salesPrice": "$5.50",
     "indent": false
   },
   {
@@ -398,7 +398,7 @@
   {
     "productName": "Celery English 西芹",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.90",
+    "salesPrice": "$3.20",
     "indent": false
   },
   {
@@ -434,13 +434,13 @@
   {
     "productName": "Chili Padi Green Stemless 去头青米椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$7.50",
+    "salesPrice": "$8.10",
     "indent": false
   },
   {
     "productName": "Chili Padi Green 青米椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$6.00",
+    "salesPrice": "$7.10",
     "indent": false
   },
   {
@@ -1016,7 +1016,7 @@
   {
     "productName": "Mango Green 青芒果",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.70",
+    "salesPrice": "$3.90",
     "indent": false
   },
   {
@@ -1334,13 +1334,13 @@
   {
     "productName": "Peas Snow 荷兰豆 100G",
     "unitOfMeasure": "/PKT",
-    "salesPrice": "$1.20",
+    "salesPrice": "$1.45",
     "indent": false
   },
   {
     "productName": "Peas Sweet 甜豆 100G",
     "unitOfMeasure": "/PKT",
-    "salesPrice": "$1.20",
+    "salesPrice": "$1.45",
     "indent": false
   },
   {
@@ -1370,7 +1370,7 @@
   {
     "productName": "Petai 臭豆 100G",
     "unitOfMeasure": "/PKT",
-    "salesPrice": "$5.20",
+    "salesPrice": "$5.30",
     "indent": true
   },
   {
