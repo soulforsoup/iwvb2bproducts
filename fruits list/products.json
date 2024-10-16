@@ -2,7 +2,7 @@
   {
     "productName": "Apple China Fuji 中国富士苹果",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$1.30",
+    "salesPrice": "$1.40",
     "indent": false
   },
   {
@@ -278,7 +278,7 @@
   {
     "productName": "Honeydew 甘露",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.10",
+    "salesPrice": "$2.00",
     "indent": false
   },
   {
@@ -458,13 +458,13 @@
   {
     "productName": "Papaya Green 青木瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.50",
+    "salesPrice": "$1.90",
     "indent": false
   },
   {
     "productName": "Papaya Local 本地木瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.40",
+    "salesPrice": "$2.30",
     "indent": false
   },
   {
@@ -542,7 +542,7 @@
   {
     "productName": "Pineapple Honey 水晶蜂蜜黄梨",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$2.10",
+    "salesPrice": "$2.00",
     "indent": false
   },
   {
@@ -644,7 +644,7 @@
   {
     "productName": "Watermelon 西瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.20",
+    "salesPrice": "$2.10",
     "indent": false
   }
 ]
