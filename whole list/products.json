@@ -2,7 +2,7 @@
   {
     "productName": "Apple China Fuji 中国富士苹果",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$1.30",
+    "salesPrice": "$1.40",
     "indent": false
   },
   {
@@ -482,7 +482,7 @@
   {
     "productName": "Chye Sim Hong Kong 香港菜心",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.90",
+    "salesPrice": "$4.25",
     "indent": false
   },
   {
@@ -512,7 +512,7 @@
   {
     "productName": "Coriander Thai 泰国芫茜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$11.50",
+    "salesPrice": "$9.90",
     "indent": false
   },
   {
@@ -554,13 +554,13 @@
   {
     "productName": "Cucumber Local 本地青瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$1.40",
+    "salesPrice": "$1.30",
     "indent": false
   },
   {
     "productName": "Cucumber Old 老黄瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.80",
+    "salesPrice": "$1.90",
     "indent": false
   },
   {
@@ -818,7 +818,7 @@
   {
     "productName": "Kailan Hong Kong 香港芥兰",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.30",
+    "salesPrice": "$4.80",
     "indent": false
   },
   {
@@ -1250,7 +1250,7 @@
   {
     "productName": "Papaya Green 青木瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.50",
+    "salesPrice": "$1.90",
     "indent": false
   },
   {
@@ -1502,7 +1502,7 @@
   {
     "productName": "Potatoes White Washed Australia 澳洲白马铃薯",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.90",
+    "salesPrice": "$3.30",
     "indent": false
   },
   {
@@ -1640,7 +1640,7 @@
   {
     "productName": "Spinach Chinese 中国菠菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$7.00",
+    "salesPrice": "$7.80",
     "indent": false
   },
   {
