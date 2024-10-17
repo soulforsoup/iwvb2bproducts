@@ -174,6 +174,12 @@
     "indent": false
   },
   {
+    "productName": "Blueberries 蓝莓 12x125G",
+    "unitOfMeasure": "/CTN",
+    "salesPrice": "$35.00",
+    "indent": false
+  },
+  {
     "productName": "Cherries 樱桃",
     "unitOfMeasure": "/KG",
     "salesPrice": "$25.00",
@@ -210,9 +216,21 @@
     "indent": false
   },
   {
+    "productName": "Dragon Fruit Red 红肉火龙果 16-24PCS",
+    "unitOfMeasure": "/CTN",
+    "salesPrice": "$29.00",
+    "indent": false
+  },
+  {
     "productName": "Dragon Fruit White 白火龙果",
     "unitOfMeasure": "/KG",
     "salesPrice": "$2.80",
+    "indent": false
+  },
+  {
+    "productName": "Dragon Fruit White 白火龙果 14-18PCS",
+    "unitOfMeasure": "/CTN",
+    "salesPrice": "$28.00",
     "indent": false
   },
   {
@@ -318,7 +336,7 @@
     "indent": false
   },
   {
-    "productName": "Lemon 柠檬 80/100PCS",
+    "productName": "Lemon 柠檬 80/88/100PCS",
     "unitOfMeasure": "/CTN",
     "salesPrice": "$42.00",
     "indent": false
@@ -351,6 +369,12 @@
     "productName": "Mango Honey China 中国蜂蜜芒果",
     "unitOfMeasure": "/KG",
     "salesPrice": "$4.80",
+    "indent": false
+  },
+  {
+    "productName": "Mango Honey China 中国蜂蜜芒果 20-24PCS",
+    "unitOfMeasure": "/CTN",
+    "salesPrice": "$52.00",
     "indent": false
   },
   {
@@ -492,6 +516,12 @@
     "indent": false
   },
   {
+    "productName": "Pear Fengshui 风水梨 16-24PCS",
+    "unitOfMeasure": "/CTN",
+    "salesPrice": "$35.00",
+    "indent": false
+  },
+  {
     "productName": "Pear Forelle Blush 红耙梨 60PCS",
     "unitOfMeasure": "/CTN",
     "salesPrice": "$60.00",
@@ -534,12 +564,6 @@
     "indent": false
   },
   {
-    "productName": "Pineapple Sunpride/Del Monte/Dole 蜜糖黄梨",
-    "unitOfMeasure": "/PCS",
-    "salesPrice": "$4.50",
-    "indent": false
-  },
-  {
     "productName": "Pineapple Honey 水晶蜂蜜黄梨",
     "unitOfMeasure": "/PCS",
     "salesPrice": "$2.00",
@@ -555,6 +579,12 @@
     "productName": "Pineapple Sarawak 砂拉越黄梨",
     "unitOfMeasure": "/PCS",
     "salesPrice": "$7.00",
+    "indent": false
+  },
+  {
+    "productName": "Pineapple Sunpride/Del Monte/Dole 蜜糖黄梨",
+    "unitOfMeasure": "/PCS",
+    "salesPrice": "$4.50",
     "indent": false
   },
   {
