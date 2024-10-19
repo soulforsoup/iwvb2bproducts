@@ -150,8 +150,8 @@
     "indent": false
   },
   {
-    "productName": "Blackberries 黑莓 170G",
-    "unitOfMeasure": "/BOX",
+    "productName": "Blackberries 黑莓",
+    "unitOfMeasure": "/PUN",
     "salesPrice": "$8.50",
     "indent": false
   },
@@ -624,8 +624,8 @@
     "indent": false
   },
   {
-    "productName": "Raspberries 覆盆子 170G",
-    "unitOfMeasure": "/BOX",
+    "productName": "Raspberries 覆盆子",
+    "unitOfMeasure": "/PUN",
     "salesPrice": "$7.80",
     "indent": false
   },
