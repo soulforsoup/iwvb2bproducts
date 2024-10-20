@@ -200,7 +200,7 @@
   {
     "productName": "Bean Broad 扁豆",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$6.35",
+    "salesPrice": "$6.90",
     "indent": false
   },
   {
@@ -212,7 +212,7 @@
   {
     "productName": "Bean French 四季豆",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.70",
+    "salesPrice": "$6.50",
     "indent": false
   },
   {
@@ -314,7 +314,7 @@
   {
     "productName": "Cabbage Beijing 北京包菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$1.90",
+    "salesPrice": "$2.00",
     "indent": false
   },
   {
@@ -992,7 +992,7 @@
   {
     "productName": "Lettuce Iceberg 玻璃生菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.90",
+    "salesPrice": "$5.20",
     "indent": false
   },
   {
@@ -1238,7 +1238,7 @@
   {
     "productName": "Orange Navel/Valencia 橙",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$1.80",
+    "salesPrice": "$0.70",
     "indent": false
   },
   {
@@ -1550,7 +1550,7 @@
   {
     "productName": "Qing Long Cai 青龙菜 150G",
     "unitOfMeasure": "/PKT",
-    "salesPrice": "$1.40",
+    "salesPrice": "$1.50",
     "indent": false
   },
   {
