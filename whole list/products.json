@@ -224,7 +224,7 @@
   {
     "productName": "Bean Long 菜豆",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.70",
+    "salesPrice": "$3.40",
     "indent": false
   },
   {
@@ -398,7 +398,7 @@
   {
     "productName": "Celery Chinese 芹菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.40",
+    "salesPrice": "$3.00",
     "indent": false
   },
   {
@@ -482,7 +482,7 @@
   {
     "productName": "Chye Sim Cameron 金马伦菜芯",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.10",
+    "salesPrice": "$3.20",
     "indent": false
   },
   {
@@ -560,13 +560,13 @@
   {
     "productName": "Cucumber Local 本地青瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$1.30",
+    "salesPrice": "$1.50",
     "indent": false
   },
   {
     "productName": "Cucumber Old 老黄瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$1.90",
+    "salesPrice": "$2.20",
     "indent": false
   },
   {
@@ -1022,7 +1022,7 @@
   {
     "productName": "Lotus Root 莲藕",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.70",
+    "salesPrice": "$5.10",
     "indent": false
   },
   {
@@ -1202,7 +1202,7 @@
   {
     "productName": "Onion Spring 青葱",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$6.00",
+    "salesPrice": "$5.50",
     "indent": false
   },
   {
@@ -1622,7 +1622,7 @@
   {
     "productName": "Scallion - Bei Chong 北葱",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$6.30",
+    "salesPrice": "$5.20",
     "indent": false
   },
   {
@@ -1676,7 +1676,7 @@
   {
     "productName": "Spinach Chinese 中国菠菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$7.80",
+    "salesPrice": "$7.20",
     "indent": false
   },
   {
@@ -1874,7 +1874,7 @@
   {
     "productName": "Xiao Bai Chye 小白菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.90",
+    "salesPrice": "$3.20",
     "indent": false
   },
   {
@@ -1898,7 +1898,7 @@
   {
     "productName": "Zucchini Green 青夏南瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.50",
+    "salesPrice": "$4.75",
     "indent": false
   }
 ]
