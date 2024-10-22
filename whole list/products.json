@@ -332,7 +332,7 @@
   {
     "productName": "Cabbage Round 印尼包菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$1.30",
+    "salesPrice": "$1.20",
     "indent": false
   },
   {
@@ -344,7 +344,7 @@
   {
     "productName": "Capsicum 羊角椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.20",
+    "salesPrice": "$5.50",
     "indent": false
   },
   {
@@ -854,7 +854,7 @@
   {
     "productName": "Kale 羽衣甘兰",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$12.00",
+    "salesPrice": "$13.50",
     "indent": true
   },
   {
@@ -950,7 +950,7 @@
   {
     "productName": "Leek 青蒜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.80",
+    "salesPrice": "$5.90",
     "indent": false
   },
   {
@@ -1022,7 +1022,7 @@
   {
     "productName": "Lotus Root 莲藕",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.10",
+    "salesPrice": "$4.80",
     "indent": false
   },
   {
@@ -1046,7 +1046,7 @@
   {
     "productName": "Mango Honey China 中国蜂蜜芒果",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.80",
+    "salesPrice": "$4.90",
     "indent": false
   },
   {
@@ -1622,7 +1622,7 @@
   {
     "productName": "Scallion - Bei Chong 北葱",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.20",
+    "salesPrice": "$5.50",
     "indent": false
   },
   {
@@ -1676,7 +1676,7 @@
   {
     "productName": "Spinach Chinese 中国菠菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$7.20",
+    "salesPrice": "$7.50",
     "indent": false
   },
   {
@@ -1898,7 +1898,7 @@
   {
     "productName": "Zucchini Green 青夏南瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.75",
+    "salesPrice": "$5.10",
     "indent": false
   }
 ]
