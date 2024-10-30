@@ -224,7 +224,7 @@
   {
     "productName": "Bean Long 菜豆",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.40",
+    "salesPrice": "$3.55",
     "indent": false
   },
   {
@@ -398,7 +398,7 @@
   {
     "productName": "Celery Chinese 芹菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.00",
+    "salesPrice": "$4.00",
     "indent": false
   },
   {
@@ -656,7 +656,7 @@
   {
     "productName": "Eggplant 红茄",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.10",
+    "salesPrice": "$3.35",
     "indent": false
   },
   {
@@ -992,7 +992,7 @@
   {
     "productName": "Lettuce Iceberg 玻璃生菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.50",
+    "salesPrice": "$3.90",
     "indent": false
   },
   {
@@ -1028,7 +1028,7 @@
   {
     "productName": "Luffa 角瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.40",
+    "salesPrice": "$2.60",
     "indent": false
   },
   {
@@ -1202,7 +1202,7 @@
   {
     "productName": "Onion Spring 青葱",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.50",
+    "salesPrice": "$5.10",
     "indent": false
   },
   {
