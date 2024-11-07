@@ -326,7 +326,7 @@
   {
     "productName": "Cabbage Red 红包菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$1.80",
+    "salesPrice": "$2.00",
     "indent": false
   },
   {
@@ -338,7 +338,7 @@
   {
     "productName": "Calamansi 小酸甘",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.50",
+    "salesPrice": "$3.60",
     "indent": false
   },
   {
@@ -398,7 +398,7 @@
   {
     "productName": "Celery Chinese 芹菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.60",
+    "salesPrice": "$5.20",
     "indent": false
   },
   {
@@ -434,7 +434,7 @@
   {
     "productName": "Chili Green 青辣椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$6.60",
+    "salesPrice": "$6.90",
     "indent": false
   },
   {
@@ -464,7 +464,7 @@
   {
     "productName": "Chili Red 红辣椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.90",
+    "salesPrice": "$6.40",
     "indent": false
   },
   {
@@ -482,7 +482,7 @@
   {
     "productName": "Chye Sim Cameron 金马伦菜芯",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.30",
+    "salesPrice": "$2.90",
     "indent": false
   },
   {
@@ -548,13 +548,13 @@
   {
     "productName": "Cucumber Japanese 日本青瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.90",
+    "salesPrice": "$3.50",
     "indent": false
   },
   {
     "productName": "Cucumber Japanese 日本青瓜 10KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$38.50",
+    "salesPrice": "$34.50",
     "indent": false
   },
   {
@@ -992,13 +992,13 @@
   {
     "productName": "Lettuce Iceberg 玻璃生菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.90",
+    "salesPrice": "$3.40",
     "indent": false
   },
   {
     "productName": "Lettuce Romaine 罗门生菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.20",
+    "salesPrice": "$4.60",
     "indent": false
   },
   {
@@ -1196,7 +1196,7 @@
   {
     "productName": "Onion Bombay 红葱",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.25",
+    "salesPrice": "$2.90",
     "indent": false
   },
   {
@@ -1418,7 +1418,7 @@
   {
     "productName": "Pineapple Honey 水晶蜂蜜黄梨",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$2.00",
+    "salesPrice": "$2.10",
     "indent": false
   },
   {
@@ -1634,7 +1634,7 @@
   {
     "productName": "Shallot Peeled 葱肉",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.00",
+    "salesPrice": "$3.80",
     "indent": false
   },
   {
@@ -1880,7 +1880,7 @@
   {
     "productName": "Xiao Bai Chye 小白菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.20",
+    "salesPrice": "$2.60",
     "indent": false
   },
   {
