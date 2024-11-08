@@ -1,6 +1,12 @@
 [
   {
-    "productName": "Apple China Fuji 中国富士苹果",
+    "productName": "Apple China Fuji 中国富士苹果 (S) Size",
+    "unitOfMeasure": "/PCS",
+    "salesPrice": "$0.70",
+    "indent": false
+  },
+  {
+    "productName": "Apple China Fuji 中国富士苹果 (L) Size",
     "unitOfMeasure": "/PCS",
     "salesPrice": "$1.40",
     "indent": false
@@ -404,7 +410,7 @@
   {
     "productName": "Mango Thai 泰芒果",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.50",
+    "salesPrice": "$5.20",
     "indent": false
   },
   {
@@ -444,9 +450,15 @@
     "indent": true
   },
   {
-    "productName": "Orange Navel/Valencia 橙",
+    "productName": "Orange Navel/Valencia 橙 (S) Size",
     "unitOfMeasure": "/PCS",
     "salesPrice": "$0.70",
+    "indent": false
+  },
+  {
+    "productName": "Orange Navel/Valencia 橙 (L) Size",
+    "unitOfMeasure": "/PCS",
+    "salesPrice": "$1.30",
     "indent": false
   },
   {
