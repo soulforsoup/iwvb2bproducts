@@ -230,7 +230,7 @@
   {
     "productName": "Bean Long 菜豆",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.00",
+    "salesPrice": "$4.60",
     "indent": false
   },
   {
@@ -1178,7 +1178,7 @@
   {
     "productName": "Mushroom Shiitake 新香菇",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$9.35",
+    "salesPrice": "$8.30",
     "indent": false
   },
   {
@@ -1646,13 +1646,13 @@
   {
     "productName": "Shallot Peeled 葱肉",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.80",
+    "salesPrice": "$4.00",
     "indent": false
   },
   {
     "productName": "Shallot 小葱头",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.90",
+    "salesPrice": "$5.50",
     "indent": false
   },
   {
@@ -1694,7 +1694,7 @@
   {
     "productName": "Spinach Chinese 中国菠菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$7.50",
+    "salesPrice": "$6.50",
     "indent": false
   },
   {
