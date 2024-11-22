@@ -230,7 +230,7 @@
   {
     "productName": "Bean Long 菜豆",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.75",
+    "salesPrice": "$5.10",
     "indent": false
   },
   {
@@ -585,7 +585,7 @@
     "productName": "Dou Miao 豆苗",
     "unitOfMeasure": "/KG",
     "salesPrice": "$6.40",
-    "indent": false
+    "indent": true
   },
   {
     "productName": "Dragon Fruit Red 红肉火龙果",
@@ -662,7 +662,7 @@
   {
     "productName": "Eggplant 红茄",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.00",
+    "salesPrice": "$3.90",
     "indent": false
   },
   {
@@ -902,7 +902,7 @@
   {
     "productName": "Lady's Finger 角豆",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.50",
+    "salesPrice": "$3.90",
     "indent": false
   },
   {
@@ -1010,7 +1010,7 @@
   {
     "productName": "Lime 青柠",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.20",
+    "salesPrice": "$3.50",
     "indent": false
   },
   {
@@ -1220,7 +1220,7 @@
   {
     "productName": "Onion Yellow 黄洋葱",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$1.35",
+    "salesPrice": "$1.40",
     "indent": false
   },
   {
