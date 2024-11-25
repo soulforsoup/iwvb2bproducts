@@ -554,13 +554,13 @@
   {
     "productName": "Cucumber Japanese 日本青瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.80",
+    "salesPrice": "$3.90",
     "indent": false
   },
   {
     "productName": "Cucumber Japanese 日本青瓜 10KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$37.50",
+    "salesPrice": "$38.50",
     "indent": false
   },
   {
@@ -662,7 +662,7 @@
   {
     "productName": "Eggplant 红茄",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.90",
+    "salesPrice": "$3.20",
     "indent": false
   },
   {
@@ -902,7 +902,7 @@
   {
     "productName": "Lady's Finger 角豆",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.90",
+    "salesPrice": "$4.15",
     "indent": false
   },
   {
@@ -1850,7 +1850,7 @@
   {
     "productName": "Tomatoes Cherry Red 红樱桃番茄",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.50",
+    "salesPrice": "$4.80",
     "indent": false
   },
   {
