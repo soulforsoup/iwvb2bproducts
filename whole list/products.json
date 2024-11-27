@@ -272,7 +272,7 @@
   {
     "productName": "Bittergourd 苦瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.30",
+    "salesPrice": "$3.70",
     "indent": false
   },
   {
@@ -308,7 +308,7 @@
   {
     "productName": "Broccoli 西兰花",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.80",
+    "salesPrice": "$4.50",
     "indent": false
   },
   {
@@ -386,7 +386,7 @@
   {
     "productName": "Cauliflower 菜花",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.80",
+    "salesPrice": "$3.30",
     "indent": false
   },
   {
@@ -404,7 +404,7 @@
   {
     "productName": "Celery Chinese 芹菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.15",
+    "salesPrice": "$4.50",
     "indent": false
   },
   {
@@ -690,7 +690,7 @@
     "indent": false
   },
   {
-    "productName": "Garlic Peeled Malaysia 真空蒜肉",
+    "productName": "Garlic Peeled Malaysia 马来西亚去皮蒜",
     "unitOfMeasure": "/KG",
     "salesPrice": "$5.20",
     "indent": false
@@ -860,7 +860,7 @@
   {
     "productName": "Kale 羽衣甘兰",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$13.50",
+    "salesPrice": "$12.90",
     "indent": true
   },
   {
@@ -902,7 +902,7 @@
   {
     "productName": "Lady's Finger 角豆",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.15",
+    "salesPrice": "$4.50",
     "indent": false
   },
   {
@@ -998,7 +998,7 @@
   {
     "productName": "Lettuce Iceberg 玻璃生菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.00",
+    "salesPrice": "$3.20",
     "indent": false
   },
   {
@@ -1266,7 +1266,7 @@
     "indent": false
   },
   {
-    "productName": "Orange Navel/Valencia 橙 40/45PCS",
+    "productName": "Orange Navel/Valencia 橙 45/50/55PCS",
     "unitOfMeasure": "/CTN",
     "salesPrice": "$45.00",
     "indent": false
@@ -1652,7 +1652,7 @@
   {
     "productName": "Shallot Peeled 葱肉",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.00",
+    "salesPrice": "$4.20",
     "indent": false
   },
   {
@@ -1850,19 +1850,19 @@
   {
     "productName": "Tomatoes Cherry Red 红樱桃番茄",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.80",
+    "salesPrice": "$4.90",
     "indent": false
   },
   {
     "productName": "Tomatoes Local 本地番茄",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.20",
+    "salesPrice": "$2.70",
     "indent": false
   },
   {
     "productName": "Tomatoes Local 本地番茄 10KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$21.00",
+    "salesPrice": "$26.00",
     "indent": false
   },
   {
@@ -1890,9 +1890,9 @@
     "indent": false
   },
   {
-    "productName": "Wawa Cai 娃娃菜 200G",
+    "productName": "Wawa Cai 娃娃菜 500G",
     "unitOfMeasure": "/PKT",
-    "salesPrice": "#N/A",
+    "salesPrice": "$1.90",
     "indent": false
   },
   {
@@ -1922,7 +1922,7 @@
   {
     "productName": "Zucchini Green 青夏南瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.10",
+    "salesPrice": "$4.90",
     "indent": false
   }
 ]
