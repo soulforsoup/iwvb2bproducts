@@ -356,13 +356,13 @@
   {
     "productName": "Carrot Baby with Leaves 萝卜仔和叶子",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$17.00",
+    "salesPrice": "$18.00",
     "indent": true
   },
   {
     "productName": "Carrot Baby with Leaves 萝卜仔和叶子 12KG",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$170.00",
+    "salesPrice": "$180.00",
     "indent": true
   },
   {
@@ -470,7 +470,7 @@
   {
     "productName": "Chili Red 红辣椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$7.10",
+    "salesPrice": "$7.50",
     "indent": false
   },
   {
@@ -488,7 +488,7 @@
   {
     "productName": "Chye Sim Cameron 金马伦菜芯",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.90",
+    "salesPrice": "$3.40",
     "indent": false
   },
   {
@@ -524,7 +524,7 @@
   {
     "productName": "Coriander Thai 泰国芫茜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$10.80",
+    "salesPrice": "$9.90",
     "indent": false
   },
   {
@@ -944,7 +944,7 @@
   {
     "productName": "Leaf Mustard 大芥菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.00",
+    "salesPrice": "$3.80",
     "indent": false
   },
   {
@@ -998,13 +998,13 @@
   {
     "productName": "Lettuce Iceberg 玻璃生菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.20",
+    "salesPrice": "$3.60",
     "indent": false
   },
   {
     "productName": "Lettuce Romaine 罗门生菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.60",
+    "salesPrice": "$4.00",
     "indent": false
   },
   {
@@ -1046,7 +1046,7 @@
   {
     "productName": "Mango Green 青芒果",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.90",
+    "salesPrice": "$3.60",
     "indent": false
   },
   {
@@ -1658,7 +1658,7 @@
   {
     "productName": "Shallot 小葱头",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.50",
+    "salesPrice": "$6.20",
     "indent": false
   },
   {
@@ -1856,13 +1856,13 @@
   {
     "productName": "Tomatoes Local 本地番茄",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.70",
+    "salesPrice": "$2.90",
     "indent": false
   },
   {
     "productName": "Tomatoes Local 本地番茄 10KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$26.00",
+    "salesPrice": "$28.00",
     "indent": false
   },
   {
@@ -1898,7 +1898,7 @@
   {
     "productName": "Xiao Bai Chye 小白菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.00",
+    "salesPrice": "$3.30",
     "indent": false
   },
   {
