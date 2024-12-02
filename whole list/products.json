@@ -104,13 +104,13 @@
   {
     "productName": "Asparagus 大芦笋",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$17.00",
+    "salesPrice": "$20.00",
     "indent": false
   },
   {
     "productName": "Asparagus 大芦笋 5KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$82.00",
+    "salesPrice": "$97.00",
     "indent": false
   },
   {
@@ -356,13 +356,13 @@
   {
     "productName": "Carrot Baby with Leaves 萝卜仔和叶子",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$18.00",
+    "salesPrice": "$14.00",
     "indent": true
   },
   {
     "productName": "Carrot Baby with Leaves 萝卜仔和叶子 12KG",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$180.00",
+    "salesPrice": "$132.00",
     "indent": true
   },
   {
@@ -404,7 +404,7 @@
   {
     "productName": "Celery Chinese 芹菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.50",
+    "salesPrice": "$5.20",
     "indent": false
   },
   {
@@ -434,7 +434,7 @@
   {
     "productName": "Chicory Red 红菊苣",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$7.90",
+    "salesPrice": "$7.50",
     "indent": true
   },
   {
@@ -854,13 +854,13 @@
   {
     "productName": "Kale Loose Leaves 散叶羽衣甘蓝",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$22.00",
+    "salesPrice": "$21.60",
     "indent": true
   },
   {
     "productName": "Kale 羽衣甘兰",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$12.90",
+    "salesPrice": "$10.80",
     "indent": true
   },
   {
@@ -1706,7 +1706,7 @@
   {
     "productName": "Spinach Leaf Baby 婴儿菠菜叶",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$27.00",
+    "salesPrice": "$24.00",
     "indent": true
   },
   {
@@ -1880,7 +1880,7 @@
   {
     "productName": "Watercress 西洋菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$8.80",
+    "salesPrice": "$7.00",
     "indent": false
   },
   {
@@ -1910,7 +1910,7 @@
   {
     "productName": "Yam Thai 泰国芋头",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.90",
+    "salesPrice": "$5.70",
     "indent": false
   },
   {
