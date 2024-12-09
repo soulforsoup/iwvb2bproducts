@@ -206,7 +206,7 @@
   {
     "productName": "Bean Broad 扁豆",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.60",
+    "salesPrice": "$6.40",
     "indent": false
   },
   {
@@ -218,7 +218,7 @@
   {
     "productName": "Bean French 四季豆",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$6.50",
+    "salesPrice": "$7.60",
     "indent": false
   },
   {
@@ -230,7 +230,7 @@
   {
     "productName": "Bean Long 菜豆",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.10",
+    "salesPrice": "$4.20",
     "indent": false
   },
   {
@@ -572,7 +572,7 @@
   {
     "productName": "Cucumber Old 老黄瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.90",
+    "salesPrice": "$3.10",
     "indent": false
   },
   {
