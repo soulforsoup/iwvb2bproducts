@@ -992,7 +992,7 @@
   {
     "productName": "Lettuce Coral Red 红生菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.50",
+    "salesPrice": "$7.20",
     "indent": false
   },
   {
@@ -1088,7 +1088,7 @@
   {
     "productName": "Mango Thai 泰芒果",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.20",
+    "salesPrice": "$4.60",
     "indent": false
   },
   {
@@ -1922,7 +1922,7 @@
   {
     "productName": "Zucchini Green 青夏南瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.90",
+    "salesPrice": "$4.50",
     "indent": false
   }
 ]
