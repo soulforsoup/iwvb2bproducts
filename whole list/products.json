@@ -116,13 +116,13 @@
   {
     "productName": "Avocados Hass Australian 澳洲牛油果",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$2.20",
+    "salesPrice": "$2.30",
     "indent": false
   },
   {
     "productName": "Avocados Hass Australian 澳洲牛油果 25-30PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$53.00",
+    "salesPrice": "$52.00",
     "indent": false
   },
   {
@@ -212,7 +212,7 @@
   {
     "productName": "Bean French Baby 四季豆苗 150G",
     "unitOfMeasure": "/PKT",
-    "salesPrice": "$1.55",
+    "salesPrice": "$1.60",
     "indent": false
   },
   {
@@ -308,7 +308,7 @@
   {
     "productName": "Broccoli 西兰花",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.50",
+    "salesPrice": "$3.90",
     "indent": false
   },
   {
@@ -332,7 +332,7 @@
   {
     "productName": "Cabbage Red 红包菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.00",
+    "salesPrice": "$2.20",
     "indent": false
   },
   {
@@ -404,7 +404,7 @@
   {
     "productName": "Celery Chinese 芹菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$7.00",
+    "salesPrice": "$7.60",
     "indent": false
   },
   {
@@ -662,7 +662,7 @@
   {
     "productName": "Eggplant 红茄",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.20",
+    "salesPrice": "$2.90",
     "indent": false
   },
   {
@@ -866,7 +866,7 @@
   {
     "productName": "Kang Kong 空心菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.20",
+    "salesPrice": "$3.70",
     "indent": false
   },
   {
@@ -1550,7 +1550,7 @@
   {
     "productName": "Potatoes Sweet Orange 红心番薯",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.50",
+    "salesPrice": "$3.00",
     "indent": false
   },
   {
@@ -1658,7 +1658,7 @@
   {
     "productName": "Shallot 小葱头",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$6.20",
+    "salesPrice": "$5.90",
     "indent": false
   },
   {
@@ -1850,7 +1850,7 @@
   {
     "productName": "Tomatoes Cherry Red 红樱桃番茄",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.90",
+    "salesPrice": "$5.30",
     "indent": false
   },
   {
@@ -1892,7 +1892,7 @@
   {
     "productName": "Wawa Cai 娃娃菜 400G",
     "unitOfMeasure": "/PKT",
-    "salesPrice": "$1.90",
+    "salesPrice": "$1.80",
     "indent": false
   },
   {
