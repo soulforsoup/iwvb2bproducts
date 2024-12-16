@@ -920,7 +920,7 @@
   {
     "productName": "Leaf Laksa 拉沙叶",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.30",
+    "salesPrice": "$5.00",
     "indent": false
   },
   {
@@ -1740,21 +1740,15 @@
     "indent": false
   },
   {
-    "productName": "Strawberries USA/AUS/SF 美国/澳洲/非洲草莓 250G",
+    "productName": "Strawberries USA/AUS/SF/EGY 美国/澳洲/非洲/埃及草莓 250G",
     "unitOfMeasure": "/BOX",
     "salesPrice": "$4.90",
     "indent": false
   },
   {
-    "productName": "Strawberries USA/AUS/SF 美国/澳洲/非洲草莓 500G",
+    "productName": "Strawberries USA/AUS/SF/EGY 美国/澳洲/非洲/埃及草莓 500G",
     "unitOfMeasure": "/BOX",
     "salesPrice": "$9.80",
-    "indent": false
-  },
-  {
-    "productName": "Strawberries 优质草莓 250G",
-    "unitOfMeasure": "/BOX",
-    "salesPrice": "$4.50",
     "indent": false
   },
   {
