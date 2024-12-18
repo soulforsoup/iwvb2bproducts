@@ -576,7 +576,7 @@
     "indent": false
   },
   {
-    "productName": "Dill 莳萝 100G",
+    "productName": "Dill 茴香苗 100G",
     "unitOfMeasure": "/PKT",
     "salesPrice": "$3.50",
     "indent": true
@@ -634,6 +634,12 @@
     "unitOfMeasure": "/CAN",
     "salesPrice": "$5.80",
     "indent": true
+  },
+  {
+    "productName": "Egg Kampung 甘榜鸡蛋 Grade B 30PCS",
+    "unitOfMeasure": "/TRAY",
+    "salesPrice": "$11.40",
+    "indent": false
   },
   {
     "productName": "Egg 鸡蛋 Grade AA 30PCS",
@@ -1088,7 +1094,7 @@
   {
     "productName": "Mango Thai 泰芒果",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.60",
+    "salesPrice": "$5.20",
     "indent": false
   },
   {
