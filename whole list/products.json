@@ -554,13 +554,13 @@
   {
     "productName": "Cucumber Japanese 日本青瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.70",
+    "salesPrice": "$3.90",
     "indent": false
   },
   {
     "productName": "Cucumber Japanese 日本青瓜 10KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$46.50",
+    "salesPrice": "$38.00",
     "indent": false
   },
   {
@@ -1004,7 +1004,7 @@
   {
     "productName": "Lettuce Iceberg 玻璃生菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.00",
+    "salesPrice": "$5.80",
     "indent": false
   },
   {
@@ -1304,7 +1304,7 @@
   {
     "productName": "Papaya Green 青木瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$1.90",
+    "salesPrice": "$1.60",
     "indent": false
   },
   {
@@ -1598,13 +1598,13 @@
   {
     "productName": "Radish White 白萝卜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$1.90",
+    "salesPrice": "$1.40",
     "indent": false
   },
   {
     "productName": "Radish White 白萝卜 10KG",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$18.00",
+    "salesPrice": "$13.00",
     "indent": false
   },
   {
@@ -1856,13 +1856,13 @@
   {
     "productName": "Tomatoes Local 本地番茄",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.90",
+    "salesPrice": "$2.40",
     "indent": false
   },
   {
     "productName": "Tomatoes Local 本地番茄 10KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$28.00",
+    "salesPrice": "$23.00",
     "indent": false
   },
   {
@@ -1898,7 +1898,7 @@
   {
     "productName": "Xiao Bai Chye 小白菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.40",
+    "salesPrice": "$3.50",
     "indent": false
   },
   {
