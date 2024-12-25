@@ -86,7 +86,7 @@
   {
     "productName": "Arugula Australian 澳洲火箭菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$26.00",
+    "salesPrice": "$19.50",
     "indent": true
   },
   {
@@ -104,13 +104,13 @@
   {
     "productName": "Asparagus 大芦笋",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$20.00",
+    "salesPrice": "$20.50",
     "indent": false
   },
   {
     "productName": "Asparagus 大芦笋 5KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$97.00",
+    "salesPrice": "$99.50",
     "indent": false
   },
   {
@@ -1712,7 +1712,7 @@
   {
     "productName": "Spinach Leaf Baby 婴儿菠菜叶",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$21.00",
+    "salesPrice": "$19.50",
     "indent": true
   },
   {
