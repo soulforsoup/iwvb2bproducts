@@ -846,6 +846,12 @@
     "indent": false
   },
   {
+    "productName": "Herb Leaf Holy Basil Thai 泰国金不换",
+    "unitOfMeasure": "/KG",
+    "salesPrice": "$11.00",
+    "indent": false
+  },
+  {
     "productName": "Herb Oregano 牛至 50G",
     "unitOfMeasure": "/PKT",
     "salesPrice": "$3.80",
@@ -910,12 +916,6 @@
     "unitOfMeasure": "/KG",
     "salesPrice": "$4.80",
     "indent": false
-  },
-  {
-    "productName": "Kale Loose Leaves 散叶羽衣甘蓝",
-    "unitOfMeasure": "/KG",
-    "salesPrice": "$21.60",
-    "indent": true
   },
   {
     "productName": "Kale 羽衣甘兰",
