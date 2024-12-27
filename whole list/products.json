@@ -530,13 +530,13 @@
   {
     "productName": "Cucumber Japanese 日本青瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.90",
+    "salesPrice": "$2.30",
     "indent": false
   },
   {
     "productName": "Cucumber Japanese 日本青瓜 10KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$38.00",
+    "salesPrice": "$22.00",
     "indent": false
   },
   {
@@ -962,7 +962,7 @@
   {
     "productName": "Lady's Finger 角豆",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.20",
+    "salesPrice": "$2.80",
     "indent": false
   },
   {
@@ -1458,9 +1458,9 @@
     "indent": true
   },
   {
-    "productName": "Petai 臭豆 100G",
+    "productName": "Petai 臭豆 120G",
     "unitOfMeasure": "/PKT",
-    "salesPrice": "$5.30",
+    "salesPrice": "$6.00",
     "indent": true
   },
   {
