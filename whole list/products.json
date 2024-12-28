@@ -206,7 +206,7 @@
   {
     "productName": "Bean French 四季豆 250G",
     "unitOfMeasure": "/PKT",
-    "salesPrice": "$1.80",
+    "salesPrice": "$1.60",
     "indent": false
   },
   {
@@ -422,7 +422,7 @@
   {
     "productName": "Chili Green 青辣椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$6.50",
+    "salesPrice": "$5.90",
     "indent": false
   },
   {
@@ -800,7 +800,7 @@
   {
     "productName": "Herb Arugula Australian 澳洲火箭菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$19.50",
+    "salesPrice": "$21.00",
     "indent": true
   },
   {
@@ -1544,13 +1544,13 @@
   {
     "productName": "Potatoes Local 本地马铃薯",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$1.20",
+    "salesPrice": "$1.30",
     "indent": false
   },
   {
     "productName": "Potatoes Local 本地马铃薯 10KG",
     "unitOfMeasure": "/SACK",
-    "salesPrice": "$11.50",
+    "salesPrice": "$12.00",
     "indent": false
   },
   {
@@ -1568,7 +1568,7 @@
   {
     "productName": "Potatoes Sweet Japanese S Size 日本番薯 5KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$5.00",
+    "salesPrice": "$5.50",
     "indent": false
   },
   {
