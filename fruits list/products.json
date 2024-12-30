@@ -1,14 +1,14 @@
 [
   {
-    "productName": "Apple China Fuji 中国富士苹果 (S) Size",
-    "unitOfMeasure": "/PCS",
-    "salesPrice": "$0.70",
-    "indent": false
-  },
-  {
     "productName": "Apple China Fuji 中国富士苹果 (L) Size",
     "unitOfMeasure": "/PCS",
     "salesPrice": "$1.35",
+    "indent": false
+  },
+  {
+    "productName": "Apple China Fuji 中国富士苹果 (S) Size",
+    "unitOfMeasure": "/PCS",
+    "salesPrice": "$0.70",
     "indent": false
   },
   {
@@ -162,15 +162,15 @@
     "indent": false
   },
   {
-    "productName": "Blueberries Jumbo 蓝莓珍宝 125G",
-    "unitOfMeasure": "/PUN",
-    "salesPrice": "$4.10",
-    "indent": false
-  },
-  {
     "productName": "Blueberries Jumbo Premium 优质蓝莓珍宝 150G",
     "unitOfMeasure": "/PUN",
     "salesPrice": "$5.20",
+    "indent": false
+  },
+  {
+    "productName": "Blueberries Jumbo 蓝莓珍宝 125G",
+    "unitOfMeasure": "/PUN",
+    "salesPrice": "$4.10",
     "indent": false
   },
   {
@@ -432,9 +432,39 @@
     "indent": false
   },
   {
+    "productName": "Orange Mandarin Hong Mei Ren 红美人柑 8-14PCS",
+    "unitOfMeasure": "/CTN",
+    "salesPrice": "$18.00",
+    "indent": false
+  },
+  {
+    "productName": "Orange Mandarin Lukan 芦柑",
+    "unitOfMeasure": "/KG",
+    "salesPrice": "$4.00",
+    "indent": false
+  },
+  {
+    "productName": "Orange Mandarin Lukan 芦柑 8KG",
+    "unitOfMeasure": "/CTN",
+    "salesPrice": "$24.00",
+    "indent": false
+  },
+  {
     "productName": "Orange Mandarin Mini 小橘子",
     "unitOfMeasure": "/KG",
     "salesPrice": "$4.20",
+    "indent": false
+  },
+  {
+    "productName": "Orange Mandarin Taiwan Ponkan 台湾椪柑",
+    "unitOfMeasure": "/KG",
+    "salesPrice": "$8.00",
+    "indent": false
+  },
+  {
+    "productName": "Orange Mandarin Taiwan Ponkan 台湾椪柑 4KG",
+    "unitOfMeasure": "/CTN",
+    "salesPrice": "$30.00",
     "indent": false
   },
   {
@@ -450,15 +480,15 @@
     "indent": true
   },
   {
-    "productName": "Orange Navel/Valencia 橙 (S) Size",
-    "unitOfMeasure": "/PCS",
-    "salesPrice": "$0.70",
-    "indent": false
-  },
-  {
     "productName": "Orange Navel/Valencia 橙 (L) Size",
     "unitOfMeasure": "/PCS",
     "salesPrice": "$1.20",
+    "indent": false
+  },
+  {
+    "productName": "Orange Navel/Valencia 橙 (S) Size",
+    "unitOfMeasure": "/PCS",
+    "salesPrice": "$0.70",
     "indent": false
   },
   {
