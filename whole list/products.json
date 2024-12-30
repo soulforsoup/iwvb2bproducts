@@ -264,15 +264,15 @@
     "indent": false
   },
   {
-    "productName": "Blueberries Jumbo 蓝莓珍宝 125G",
-    "unitOfMeasure": "/PUN",
-    "salesPrice": "$4.10",
-    "indent": false
-  },
-  {
     "productName": "Blueberries Jumbo Premium 优质蓝莓珍宝 150G",
     "unitOfMeasure": "/PUN",
     "salesPrice": "$5.20",
+    "indent": false
+  },
+  {
+    "productName": "Blueberries Jumbo 蓝莓珍宝 125G",
+    "unitOfMeasure": "/PUN",
+    "salesPrice": "$4.10",
     "indent": false
   },
   {
@@ -834,6 +834,12 @@
     "indent": false
   },
   {
+    "productName": "Herb Leaf Holy Basil Thai 泰国金不换",
+    "unitOfMeasure": "/KG",
+    "salesPrice": "$11.00",
+    "indent": false
+  },
+  {
     "productName": "Herb Leaf Mint 薄荷叶",
     "unitOfMeasure": "/KG",
     "salesPrice": "$9.00",
@@ -844,18 +850,6 @@
     "unitOfMeasure": "/KG",
     "salesPrice": "$7.80",
     "indent": false
-  },
-  {
-    "productName": "Herb Leaf Holy Basil Thai 泰国金不换",
-    "unitOfMeasure": "/KG",
-    "salesPrice": "$11.00",
-    "indent": false
-  },
-  {
-    "productName": "Herb Oregano 牛至 50G",
-    "unitOfMeasure": "/PKT",
-    "salesPrice": "$3.80",
-    "indent": true
   },
   {
     "productName": "Herb Parsley English 西芫茜",
@@ -896,13 +890,13 @@
   {
     "productName": "Jiu Bai Chye 九白菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.30",
+    "salesPrice": "$3.00",
     "indent": false
   },
   {
     "productName": "Jiu Bai Chye 九白菜 10KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$42.00",
+    "salesPrice": "$29.00",
     "indent": false
   },
   {
@@ -1272,9 +1266,39 @@
     "indent": false
   },
   {
+    "productName": "Orange Mandarin Hong Mei Ren 红美人柑 8-14PCS",
+    "unitOfMeasure": "/CTN",
+    "salesPrice": "$18.00",
+    "indent": false
+  },
+  {
+    "productName": "Orange Mandarin Lukan 芦柑",
+    "unitOfMeasure": "/KG",
+    "salesPrice": "$4.00",
+    "indent": false
+  },
+  {
+    "productName": "Orange Mandarin Lukan 芦柑 8KG",
+    "unitOfMeasure": "/CTN",
+    "salesPrice": "$24.00",
+    "indent": false
+  },
+  {
     "productName": "Orange Mandarin Mini 小橘子",
     "unitOfMeasure": "/KG",
     "salesPrice": "$4.20",
+    "indent": false
+  },
+  {
+    "productName": "Orange Mandarin Taiwan Ponkan 台湾椪柑",
+    "unitOfMeasure": "/KG",
+    "salesPrice": "$8.00",
+    "indent": false
+  },
+  {
+    "productName": "Orange Mandarin Taiwan Ponkan 台湾椪柑 4KG",
+    "unitOfMeasure": "/CTN",
+    "salesPrice": "$30.00",
     "indent": false
   },
   {
@@ -1508,7 +1532,7 @@
   {
     "productName": "Pomegranate 石榴",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$3.90",
+    "salesPrice": "$3.30",
     "indent": false
   },
   {
