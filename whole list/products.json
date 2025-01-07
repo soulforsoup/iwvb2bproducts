@@ -218,7 +218,7 @@
   {
     "productName": "Bean Sprout Soya 黄豆芽",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.20",
+    "salesPrice": "$4.15",
     "indent": false
   },
   {
@@ -302,7 +302,7 @@
   {
     "productName": "Cabbage Long Chinese 大白菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$1.60",
+    "salesPrice": "$1.40",
     "indent": false
   },
   {
@@ -392,7 +392,7 @@
   {
     "productName": "Celtuce 莴笋",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.00",
+    "salesPrice": "$3.50",
     "indent": false
   },
   {
@@ -536,7 +536,7 @@
   {
     "productName": "Cucumber Local 本地青瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$1.50",
+    "salesPrice": "$1.00",
     "indent": false
   },
   {
@@ -1808,7 +1808,7 @@
   {
     "productName": "Tang Oh 茼蒿",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$7.50",
+    "salesPrice": "$8.50",
     "indent": false
   },
   {
