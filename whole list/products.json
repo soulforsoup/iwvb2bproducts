@@ -248,7 +248,7 @@
   {
     "productName": "Bittergourd 苦瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.30",
+    "salesPrice": "$3.10",
     "indent": false
   },
   {
@@ -308,7 +308,7 @@
   {
     "productName": "Cabbage Red 红包菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.20",
+    "salesPrice": "$2.30",
     "indent": false
   },
   {
@@ -632,7 +632,7 @@
   {
     "productName": "Eggplant 红茄",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.80",
+    "salesPrice": "$4.25",
     "indent": false
   },
   {
@@ -908,7 +908,7 @@
   {
     "productName": "Kale 羽衣甘兰",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$10.80",
+    "salesPrice": "$10.90",
     "indent": true
   },
   {
@@ -1034,13 +1034,13 @@
   {
     "productName": "Lettuce Iceberg 玻璃生菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$6.20",
+    "salesPrice": "$4.80",
     "indent": false
   },
   {
     "productName": "Lettuce Romaine 罗门生菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.60",
+    "salesPrice": "$5.00",
     "indent": false
   },
   {
@@ -1610,7 +1610,7 @@
   {
     "productName": "Pumpkin Local 本地金瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$1.50",
+    "salesPrice": "$1.70",
     "indent": false
   },
   {
@@ -1874,13 +1874,13 @@
   {
     "productName": "Tomatoes Local 本地番茄",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.00",
+    "salesPrice": "$3.50",
     "indent": false
   },
   {
     "productName": "Tomatoes Local 本地番茄 10KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$29.00",
+    "salesPrice": "$34.00",
     "indent": false
   },
   {
