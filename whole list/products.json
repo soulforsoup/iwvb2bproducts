@@ -212,7 +212,7 @@
   {
     "productName": "Bean Long 菜豆",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.40",
+    "salesPrice": "$3.50",
     "indent": false
   },
   {
@@ -458,7 +458,7 @@
   {
     "productName": "Chives Garlic Thai 泰国韭菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.70",
+    "salesPrice": "$5.40",
     "indent": false
   },
   {
@@ -950,7 +950,7 @@
   {
     "productName": "Lady's Finger 角豆",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.80",
+    "salesPrice": "$3.00",
     "indent": false
   },
   {
@@ -1226,7 +1226,7 @@
   {
     "productName": "Nai Bai 奶白",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$6.70",
+    "salesPrice": "$5.40",
     "indent": false
   },
   {
@@ -1634,13 +1634,13 @@
   {
     "productName": "Radish White 白萝卜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$1.40",
+    "salesPrice": "$1.90",
     "indent": false
   },
   {
     "productName": "Radish White 白萝卜 10KG",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$13.00",
+    "salesPrice": "$18.00",
     "indent": false
   },
   {
@@ -1874,13 +1874,13 @@
   {
     "productName": "Tomatoes Local 本地番茄",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.50",
+    "salesPrice": "$3.90",
     "indent": false
   },
   {
     "productName": "Tomatoes Local 本地番茄 10KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$34.00",
+    "salesPrice": "$38.00",
     "indent": false
   },
   {
