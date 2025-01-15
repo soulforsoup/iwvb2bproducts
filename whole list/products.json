@@ -104,19 +104,19 @@
   {
     "productName": "Avocados Hass Australian 澳洲牛油果",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$2.30",
+    "salesPrice": "$2.40",
     "indent": false
   },
   {
     "productName": "Avocados Hass Australian 澳洲牛油果 25-30PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$52.00",
+    "salesPrice": "$64.00",
     "indent": false
   },
   {
     "productName": "Avocados Hass Mexico 墨西哥牛油果",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$1.80",
+    "salesPrice": "$2.10",
     "indent": false
   },
   {
@@ -692,7 +692,7 @@
   {
     "productName": "Ginger Flower 姜花",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$1.65",
+    "salesPrice": "$1.55",
     "indent": false
   },
   {
