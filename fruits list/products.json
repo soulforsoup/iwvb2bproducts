@@ -410,7 +410,7 @@
   {
     "productName": "Mango Thai 泰芒果",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.80",
+    "salesPrice": "$4.40",
     "indent": false
   },
   {
@@ -582,13 +582,19 @@
     "indent": false
   },
   {
-    "productName": "Pear Fragrant 香梨 CTN",
+    "productName": "Pear Fragrant 香梨 6/7KG",
     "unitOfMeasure": "/CTN",
     "salesPrice": "$38.00",
     "indent": false
   },
   {
-    "productName": "Pear Packham 青杷 70/90PCS",
+    "productName": "Pear Packham 青啤梨",
+    "unitOfMeasure": "/PCS",
+    "salesPrice": "$0.70",
+    "indent": false
+  },
+  {
+    "productName": "Pear Packham 青啤梨 70/90PCS",
     "unitOfMeasure": "/CTN",
     "salesPrice": "$45.00",
     "indent": false
