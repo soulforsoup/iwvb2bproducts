@@ -2,7 +2,7 @@
   {
     "productName": "Apple China Fuji 中国富士苹果 (L) Size",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$1.35",
+    "salesPrice": "$1.00",
     "indent": false
   },
   {
@@ -222,9 +222,9 @@
     "indent": false
   },
   {
-    "productName": "Dragon Fruit Red 红肉火龙果 16-24PCS",
+    "productName": "Dragon Fruit Red 红肉火龙果 12-14PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "#N/A",
+    "salesPrice": "$29.00",
     "indent": false
   },
   {
@@ -350,7 +350,7 @@
   {
     "productName": "Lime 青柠",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.80",
+    "salesPrice": "$2.80",
     "indent": false
   },
   {
@@ -476,7 +476,7 @@
   {
     "productName": "Orange Navel/Valencia 橙 (L) Size",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$1.20",
+    "salesPrice": "$0.90",
     "indent": false
   },
   {
@@ -524,7 +524,7 @@
   {
     "productName": "Papaya Green 青木瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$1.60",
+    "salesPrice": "$1.40",
     "indent": false
   },
   {
@@ -602,7 +602,7 @@
   {
     "productName": "Pear Xin Gao/Golden China 中国新高梨",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$2.00",
+    "salesPrice": "$1.40",
     "indent": false
   },
   {
