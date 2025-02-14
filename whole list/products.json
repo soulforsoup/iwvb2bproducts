@@ -212,7 +212,7 @@
   {
     "productName": "Bean Long 菜豆",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.90",
+    "salesPrice": "$3.70",
     "indent": false
   },
   {
@@ -464,7 +464,7 @@
   {
     "productName": "Chye Sim Hong Kong 香港菜心",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.25",
+    "salesPrice": "$4.60",
     "indent": false
   },
   {
@@ -536,7 +536,7 @@
   {
     "productName": "Cucumber Old 老黄瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$1.50",
+    "salesPrice": "$3.80",
     "indent": false
   },
   {
@@ -1740,7 +1740,7 @@
     "indent": true
   },
   {
-    "productName": "Spinach Baby Ceylon 苋菜苗",
+    "productName": "Spinach Ceylon Baby 苋菜苗",
     "unitOfMeasure": "/KG",
     "salesPrice": "$3.90",
     "indent": false
