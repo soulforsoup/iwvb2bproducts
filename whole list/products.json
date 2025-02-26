@@ -104,13 +104,25 @@
   {
     "productName": "Avocados Hass Australian 澳洲牛油果",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$2.40",
+    "salesPrice": "$2.30",
     "indent": false
   },
   {
     "productName": "Avocados Hass Australian 澳洲牛油果 25-30PCS",
     "unitOfMeasure": "/CTN",
     "salesPrice": "$55.00",
+    "indent": false
+  },
+  {
+    "productName": "Avocados Shepard Australian 优质澳洲牛油果",
+    "unitOfMeasure": "/PCS",
+    "salesPrice": "$2.50",
+    "indent": false
+  },
+  {
+    "productName": "Avocados Shepard Australian 优质澳洲牛油果 28-30PCS",
+    "unitOfMeasure": "/CTN",
+    "salesPrice": "$62.00",
     "indent": false
   },
   {
@@ -345,6 +357,18 @@
     "productName": "Carrot 红萝卜 10KG",
     "unitOfMeasure": "/CTN",
     "salesPrice": "$15.50",
+    "indent": false
+  },
+  {
+    "productName": "Carrot Australian 澳洲红萝卜",
+    "unitOfMeasure": "/KG",
+    "salesPrice": "$1.90",
+    "indent": false
+  },
+  {
+    "productName": "Carrot Australian 澳洲红萝卜 10KG",
+    "unitOfMeasure": "/CTN",
+    "salesPrice": "$18.00",
     "indent": false
   },
   {
@@ -1052,7 +1076,7 @@
   {
     "productName": "Lotus Root Sliced 莲藕片 3KG",
     "unitOfMeasure": "/PKT",
-    "salesPrice": "$13.00",
+    "salesPrice": "$12.00",
     "indent": false
   },
   {
