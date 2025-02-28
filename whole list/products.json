@@ -92,19 +92,19 @@
   {
     "productName": "Asparagus 大芦笋",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$16.50",
+    "salesPrice": "$17.00",
     "indent": false
   },
   {
     "productName": "Asparagus 大芦笋 5KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$79.50",
+    "salesPrice": "$72.00",
     "indent": false
   },
   {
     "productName": "Avocados Hass Australian 澳洲牛油果",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$2.30",
+    "salesPrice": "$2.10",
     "indent": false
   },
   {
@@ -1040,7 +1040,7 @@
   {
     "productName": "Lettuce Coral Green 青生菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.20",
+    "salesPrice": "$5.50",
     "indent": false
   },
   {
@@ -1472,7 +1472,7 @@
   {
     "productName": "Pepper Bell Green 青灯笼椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.20",
+    "salesPrice": "$4.50",
     "indent": false
   },
   {
@@ -1598,13 +1598,13 @@
   {
     "productName": "Potatoes Local 本地马铃薯",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$1.10",
+    "salesPrice": "$1.20",
     "indent": false
   },
   {
     "productName": "Potatoes Local 本地马铃薯 10KG",
     "unitOfMeasure": "/SACK",
-    "salesPrice": "$10.00",
+    "salesPrice": "$11.00",
     "indent": false
   },
   {
