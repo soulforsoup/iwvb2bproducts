@@ -2,7 +2,7 @@
   {
     "productName": "Apple China Fuji 中国富士苹果 (L) Size",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$1.00",
+    "salesPrice": "$1.30",
     "indent": false
   },
   {
@@ -60,9 +60,15 @@
     "indent": false
   },
   {
-    "productName": "Apple Red Gala 红苹果 135/150PCS",
+    "productName": "Apple Red Gala 咔啦苹果",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$65.00",
+    "salesPrice": "$0.55",
+    "indent": false
+  },
+  {
+    "productName": "Apple Red Gala 咔啦苹果 135/150PCS",
+    "unitOfMeasure": "/CTN",
+    "salesPrice": "$58.00",
     "indent": false
   },
   {
@@ -170,13 +176,13 @@
   {
     "productName": "Banana Cavendish Dole 香蕉",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.50",
+    "salesPrice": "$2.60",
     "indent": false
   },
   {
     "productName": "Banana Cavendish Dole 香蕉 13KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$32.00",
+    "salesPrice": "$33.00",
     "indent": false
   },
   {
@@ -188,13 +194,13 @@
   {
     "productName": "Banana Cavendish Sunpride 香蕉 15KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$35.00",
+    "salesPrice": "$36.00",
     "indent": false
   },
   {
     "productName": "Leaf Banana 香蕉叶",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.00",
+    "salesPrice": "$4.50",
     "indent": false
   },
   {
@@ -206,7 +212,7 @@
   {
     "productName": "Bean French Baby 四季豆苗 150G",
     "unitOfMeasure": "/PKT",
-    "salesPrice": "$1.60",
+    "salesPrice": "$1.40",
     "indent": false
   },
   {
@@ -224,7 +230,7 @@
   {
     "productName": "Bean Long 菜豆",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.10",
+    "salesPrice": "$4.00",
     "indent": false
   },
   {
@@ -410,7 +416,7 @@
   {
     "productName": "Celtuce 莴笋",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.30",
+    "salesPrice": "$4.60",
     "indent": false
   },
   {
@@ -440,13 +446,13 @@
   {
     "productName": "Chili Padi Green Stemless 去头青米椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$8.10",
+    "salesPrice": "$7.00",
     "indent": false
   },
   {
     "productName": "Chili Padi Green 青米椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$7.10",
+    "salesPrice": "$5.00",
     "indent": false
   },
   {
@@ -464,7 +470,7 @@
   {
     "productName": "Chili Red 红辣椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$6.60",
+    "salesPrice": "$6.90",
     "indent": false
   },
   {
@@ -506,19 +512,19 @@
   {
     "productName": "Coconut Thai Young 泰国椰子",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$2.00",
+    "salesPrice": "$3.00",
     "indent": false
   },
   {
     "productName": "Coconut Thai Young 泰国椰子 30PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$57.00",
+    "salesPrice": "$65.00",
     "indent": false
   },
   {
     "productName": "Corn Baby 玉米芯 100G",
     "unitOfMeasure": "/PKT",
-    "salesPrice": "$0.90",
+    "salesPrice": "$0.95",
     "indent": false
   },
   {
@@ -536,31 +542,31 @@
   {
     "productName": "Corn Sweet Yellow 黄玉米 2PCS",
     "unitOfMeasure": "/PKT",
-    "salesPrice": "$1.70",
+    "salesPrice": "$1.80",
     "indent": false
   },
   {
     "productName": "Cucumber Japanese 日本青瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.00",
+    "salesPrice": "$2.10",
     "indent": false
   },
   {
     "productName": "Cucumber Japanese 日本青瓜 10KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$19.00",
+    "salesPrice": "$20.00",
     "indent": false
   },
   {
     "productName": "Cucumber Local 本地青瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$1.30",
+    "salesPrice": "$1.00",
     "indent": false
   },
   {
     "productName": "Cucumber Old 老黄瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.80",
+    "salesPrice": "$2.90",
     "indent": false
   },
   {
@@ -644,13 +650,13 @@
   {
     "productName": "Eggplant Thai 泰国青圆茄",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.60",
+    "salesPrice": "$3.20",
     "indent": false
   },
   {
     "productName": "Eggplant 红茄",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.60",
+    "salesPrice": "$4.50",
     "indent": false
   },
   {
@@ -674,25 +680,25 @@
   {
     "productName": "Garlic Chopped 蒜碎",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$6.00",
+    "salesPrice": "$6.20",
     "indent": false
   },
   {
     "productName": "Garlic Peeled Malaysia 马来西亚去皮蒜 1KG",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.90",
+    "salesPrice": "$5.20",
     "indent": false
   },
   {
     "productName": "Garlic Peeled 真空蒜肉 700G",
     "unitOfMeasure": "/PKT",
-    "salesPrice": "$3.40",
+    "salesPrice": "$3.80",
     "indent": false
   },
   {
     "productName": "Garlic Shoot 蒜花",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.90",
+    "salesPrice": "$5.60",
     "indent": false
   },
   {
@@ -704,43 +710,43 @@
   {
     "productName": "Ginger Blue 南姜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.80",
+    "salesPrice": "$3.90",
     "indent": false
   },
   {
     "productName": "Ginger Flower 姜花",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$1.55",
+    "salesPrice": "$1.20",
     "indent": false
   },
   {
     "productName": "Ginger Old 老姜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.80",
+    "salesPrice": "$4.10",
     "indent": true
   },
   {
     "productName": "Ginger Old 老姜 3.5KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$18.00",
+    "salesPrice": "$13.35",
     "indent": true
   },
   {
     "productName": "Ginger Peeled 姜肉 500G",
     "unitOfMeasure": "/PKT",
-    "salesPrice": "$4.00",
+    "salesPrice": "$3.90",
     "indent": true
   },
   {
     "productName": "Ginger Yellow 黄姜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.20",
+    "salesPrice": "$3.40",
     "indent": false
   },
   {
     "productName": "Ginger Young 仔姜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.80",
+    "salesPrice": "$6.00",
     "indent": true
   },
   {
@@ -752,7 +758,7 @@
   {
     "productName": "Gourd Hairy 毛瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$1.90",
+    "salesPrice": "$2.00",
     "indent": false
   },
   {
@@ -830,7 +836,7 @@
   {
     "productName": "Herb Coriander Thai 泰国芫茜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$8.00",
+    "salesPrice": "$6.00",
     "indent": false
   },
   {
@@ -852,9 +858,15 @@
     "indent": false
   },
   {
-    "productName": "Herb Leaf Mint 薄荷叶",
+    "productName": "Herb Leaf Mint Malaysia 马来西亚薄荷叶",
     "unitOfMeasure": "/KG",
     "salesPrice": "$9.00",
+    "indent": false
+  },
+  {
+    "productName": "Herb Leaf Mint Thai 泰国薄荷叶",
+    "unitOfMeasure": "/KG",
+    "salesPrice": "$10.00",
     "indent": false
   },
   {
@@ -866,7 +878,7 @@
   {
     "productName": "Herb Parsley English 西芫茜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$6.00",
+    "salesPrice": "$6.50",
     "indent": false
   },
   {
@@ -932,7 +944,7 @@
   {
     "productName": "Kang Kong 空心菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.80",
+    "salesPrice": "$2.90",
     "indent": false
   },
   {
@@ -963,12 +975,12 @@
     "productName": "Kiwifruit Rubyred Zespri 宝石红奇异果 4-6PCS",
     "unitOfMeasure": "/BOX",
     "salesPrice": "$6.00",
-    "indent": false
+    "indent": true
   },
   {
     "productName": "Lady's Finger 角豆",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.80",
+    "salesPrice": "$3.80",
     "indent": false
   },
   {
@@ -990,9 +1002,9 @@
     "indent": false
   },
   {
-    "productName": "Leaf Lime 酸橙叶",
+    "productName": "Leaf Kaffir Lime 酸橙叶",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$14.00",
+    "salesPrice": "$11.50",
     "indent": false
   },
   {
@@ -1028,7 +1040,7 @@
   {
     "productName": "Lemongrass 香茅",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.20",
+    "salesPrice": "$2.30",
     "indent": false
   },
   {
@@ -1052,19 +1064,19 @@
   {
     "productName": "Lettuce Iceberg 玻璃生菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.90",
+    "salesPrice": "$3.00",
     "indent": false
   },
   {
     "productName": "Lettuce Romaine 罗门生菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.60",
+    "salesPrice": "$3.90",
     "indent": false
   },
   {
     "productName": "Lime 青柠",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.80",
+    "salesPrice": "$3.30",
     "indent": false
   },
   {
@@ -1088,7 +1100,7 @@
   {
     "productName": "Luffa 角瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$1.90",
+    "salesPrice": "$2.90",
     "indent": false
   },
   {
@@ -1100,7 +1112,7 @@
   {
     "productName": "Mango Green 青芒果",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.60",
+    "salesPrice": "$2.90",
     "indent": false
   },
   {
@@ -1130,7 +1142,7 @@
   {
     "productName": "Mango Thai Gold 泰国金芒果",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$7.90",
+    "salesPrice": "$5.90",
     "indent": false
   },
   {
@@ -1172,7 +1184,7 @@
   {
     "productName": "Melon Winter China 中国冬瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.00",
+    "salesPrice": "$2.40",
     "indent": false
   },
   {
@@ -1184,7 +1196,7 @@
   {
     "productName": "Mushroom Abalone 鲍鱼菇 150G",
     "unitOfMeasure": "/PKT",
-    "salesPrice": "$1.30",
+    "salesPrice": "$1.40",
     "indent": false
   },
   {
@@ -1202,7 +1214,7 @@
   {
     "productName": "Mushroom Hon-Shimeji Brown 黑玉菇 150G",
     "unitOfMeasure": "/PKT",
-    "salesPrice": "$0.90",
+    "salesPrice": "$1.00",
     "indent": false
   },
   {
@@ -1214,7 +1226,7 @@
   {
     "productName": "Mushroom King Oyster 小杏鲍菇 200G",
     "unitOfMeasure": "/PKT",
-    "salesPrice": "$0.90",
+    "salesPrice": "$1.00",
     "indent": false
   },
   {
@@ -1232,7 +1244,7 @@
   {
     "productName": "Mushroom Shiitake 新香菇",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$7.80",
+    "salesPrice": "$8.40",
     "indent": false
   },
   {
@@ -1250,7 +1262,7 @@
   {
     "productName": "Onion Bombay Peeled 去皮红葱",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.40",
+    "salesPrice": "$2.50",
     "indent": false
   },
   {
@@ -1262,19 +1274,19 @@
   {
     "productName": "Onion Spring 青葱",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.50",
+    "salesPrice": "$5.00",
     "indent": false
   },
   {
     "productName": "Onion White Peeled 去皮白洋葱",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$1.90",
+    "salesPrice": "$2.00",
     "indent": false
   },
   {
     "productName": "Onion Yellow 黄洋葱",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$1.40",
+    "salesPrice": "$1.50",
     "indent": false
   },
   {
@@ -1322,7 +1334,7 @@
   {
     "productName": "Orange Navel/Valencia 橙 (L) Size",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$0.90",
+    "salesPrice": "$1.00",
     "indent": false
   },
   {
@@ -1376,7 +1388,7 @@
   {
     "productName": "Papaya Local 本地木瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.30",
+    "salesPrice": "$2.10",
     "indent": false
   },
   {
@@ -1424,13 +1436,13 @@
   {
     "productName": "Pear Fragrant 香梨",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.20",
+    "salesPrice": "$4.80",
     "indent": false
   },
   {
     "productName": "Pear Fragrant 香梨 6/7KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$32.00",
+    "salesPrice": "$25.00",
     "indent": false
   },
   {
@@ -1460,13 +1472,13 @@
   {
     "productName": "Peas Snow 荷兰豆 100G",
     "unitOfMeasure": "/PKT",
-    "salesPrice": "$1.45",
+    "salesPrice": "$1.20",
     "indent": false
   },
   {
     "productName": "Peas Sweet 甜豆 100G",
     "unitOfMeasure": "/PKT",
-    "salesPrice": "$1.45",
+    "salesPrice": "$1.20",
     "indent": false
   },
   {
@@ -1478,13 +1490,13 @@
   {
     "productName": "Pepper Bell Red 红灯笼椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.50",
+    "salesPrice": "$5.80",
     "indent": true
   },
   {
     "productName": "Pepper Bell Yellow 黄灯笼椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.50",
+    "salesPrice": "$5.80",
     "indent": false
   },
   {
@@ -1514,7 +1526,7 @@
   {
     "productName": "Petai 臭豆 120G",
     "unitOfMeasure": "/PKT",
-    "salesPrice": "$3.50",
+    "salesPrice": "$3.20",
     "indent": true
   },
   {
@@ -1526,7 +1538,7 @@
   {
     "productName": "Pineapple Local 本地黄梨",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$2.30",
+    "salesPrice": "$2.20",
     "indent": false
   },
   {
@@ -1574,7 +1586,7 @@
   {
     "productName": "Potato Baby Gem 马铃薯仔",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.30",
+    "salesPrice": "$3.50",
     "indent": false
   },
   {
@@ -1614,21 +1626,21 @@
     "indent": false
   },
   {
-    "productName": "Potatoes Sweet Chiba Japan S Size 千叶日本红薯 5KG",
+    "productName": "Potatoes Sweet Chiba Japan S Size 日本千叶番薯 5KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$68.00",
+    "salesPrice": "$60.00",
     "indent": false
   },
   {
-    "productName": "Potatoes Sweet Japanese S Size 日本番薯 5KG",
-    "unitOfMeasure": "/CTN",
-    "salesPrice": "$18.00",
+    "productName": "Potatoes Sweet Chiba Japan S Size 日本千叶番薯",
+    "unitOfMeasure": "/KG",
+    "salesPrice": "$10.80",
     "indent": false
   },
   {
     "productName": "Potatoes Sweet Japanese 日本番薯",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.80",
+    "salesPrice": "$3.90",
     "indent": false
   },
   {
@@ -1640,7 +1652,7 @@
   {
     "productName": "Potatoes Sweet Purple 紫番薯",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.70",
+    "salesPrice": "$3.80",
     "indent": false
   },
   {
@@ -1658,7 +1670,7 @@
   {
     "productName": "Qing Long Cai 青龙菜 150G",
     "unitOfMeasure": "/PKT",
-    "salesPrice": "$0.95",
+    "salesPrice": "$1.00",
     "indent": false
   },
   {
@@ -1670,7 +1682,7 @@
   {
     "productName": "Radish Green 青萝卜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.00",
+    "salesPrice": "$1.90",
     "indent": false
   },
   {
@@ -1722,21 +1734,21 @@
     "indent": false
   },
   {
-    "productName": "Scallion - Bei Chong 北葱",
+    "productName": "Leek Japanese/Scallion 北葱",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.80",
+    "salesPrice": "$3.90",
     "indent": false
   },
   {
     "productName": "Shallot Peeled 葱肉",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.20",
+    "salesPrice": "$3.90",
     "indent": false
   },
   {
     "productName": "Shallot 小葱头",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.20",
+    "salesPrice": "$4.50",
     "indent": false
   },
   {
@@ -1862,19 +1874,19 @@
   {
     "productName": "Tau Kwa XL Pack 特大包装小豆干 10PCS",
     "unitOfMeasure": "/PKT",
-    "salesPrice": "$3.90",
+    "salesPrice": "$4.00",
     "indent": false
   },
   {
     "productName": "Tau Pok 豆卜 150G",
     "unitOfMeasure": "/PKT",
-    "salesPrice": "$1.70",
+    "salesPrice": "$1.80",
     "indent": false
   },
   {
     "productName": "Tofu Egg Japanese 日本豆腐",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$0.40",
+    "salesPrice": "$0.35",
     "indent": false
   },
   {
@@ -1886,7 +1898,7 @@
   {
     "productName": "Tofu Silken Fortune 板豆腐盒",
     "unitOfMeasure": "/BOX",
-    "salesPrice": "$0.90",
+    "salesPrice": "$0.95",
     "indent": false
   },
   {
@@ -1910,7 +1922,7 @@
   {
     "productName": "Tomatoes Cherry Red 红樱桃番茄",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.80",
+    "salesPrice": "$5.50",
     "indent": false
   },
   {
@@ -1928,7 +1940,7 @@
   {
     "productName": "Turnip 沙葛",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.80",
+    "salesPrice": "$1.90",
     "indent": false
   },
   {
@@ -1964,7 +1976,7 @@
   {
     "productName": "Yam Chinese 山药",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.80",
+    "salesPrice": "$2.80",
     "indent": false
   },
   {
@@ -1976,13 +1988,13 @@
   {
     "productName": "You Mai Cai 油麦菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.20",
+    "salesPrice": "$4.50",
     "indent": false
   },
   {
     "productName": "Zucchini Green 青夏南瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.00",
+    "salesPrice": "$3.60",
     "indent": false
   }
 ]

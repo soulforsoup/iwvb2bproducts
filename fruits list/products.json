@@ -2,7 +2,7 @@
   {
     "productName": "Apple China Fuji 中国富士苹果 (L) Size",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$1.00",
+    "salesPrice": "$1.30",
     "indent": false
   },
   {
@@ -60,9 +60,15 @@
     "indent": false
   },
   {
-    "productName": "Apple Red Gala 红苹果 135/150PCS",
+    "productName": "Apple Red Gala 咔啦苹果",
+    "unitOfMeasure": "/PCS",
+    "salesPrice": "$0.55",
+    "indent": false
+  },
+  {
+    "productName": "Apple Red Gala 咔啦苹果 135/150PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$65.00",
+    "salesPrice": "$58.00",
     "indent": false
   },
   {
@@ -146,13 +152,13 @@
   {
     "productName": "Banana Cavendish Dole 香蕉",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.50",
+    "salesPrice": "$2.60",
     "indent": false
   },
   {
     "productName": "Banana Cavendish Dole 香蕉 13KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$32.00",
+    "salesPrice": "$33.00",
     "indent": false
   },
   {
@@ -164,7 +170,7 @@
   {
     "productName": "Banana Cavendish Sunpride 香蕉 15KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$35.00",
+    "salesPrice": "$36.00",
     "indent": false
   },
   {
@@ -218,13 +224,13 @@
   {
     "productName": "Coconut Thai Young 泰国椰子",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$2.00",
+    "salesPrice": "$3.00",
     "indent": false
   },
   {
     "productName": "Coconut Thai Young 泰国椰子 30PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$57.00",
+    "salesPrice": "$65.00",
     "indent": false
   },
   {
@@ -345,7 +351,7 @@
     "productName": "Kiwifruit Rubyred Zespri 宝石红奇异果 4-6PCS",
     "unitOfMeasure": "/BOX",
     "salesPrice": "$6.00",
-    "indent": false
+    "indent": true
   },
   {
     "productName": "Lemon 柠檬",
@@ -362,7 +368,7 @@
   {
     "productName": "Lime 青柠",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.80",
+    "salesPrice": "$3.30",
     "indent": false
   },
   {
@@ -380,7 +386,7 @@
   {
     "productName": "Mango Green 青芒果",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.60",
+    "salesPrice": "$2.90",
     "indent": false
   },
   {
@@ -410,7 +416,7 @@
   {
     "productName": "Mango Thai Gold 泰国金芒果",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$7.90",
+    "salesPrice": "$5.90",
     "indent": false
   },
   {
@@ -488,7 +494,7 @@
   {
     "productName": "Orange Navel/Valencia 橙 (L) Size",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$0.90",
+    "salesPrice": "$1.00",
     "indent": false
   },
   {
@@ -542,7 +548,7 @@
   {
     "productName": "Papaya Local 本地木瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.30",
+    "salesPrice": "$2.10",
     "indent": false
   },
   {
@@ -590,13 +596,13 @@
   {
     "productName": "Pear Fragrant 香梨",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.20",
+    "salesPrice": "$4.80",
     "indent": false
   },
   {
     "productName": "Pear Fragrant 香梨 6/7KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$32.00",
+    "salesPrice": "$25.00",
     "indent": false
   },
   {
@@ -638,7 +644,7 @@
   {
     "productName": "Pineapple Local 本地黄梨",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$2.30",
+    "salesPrice": "$2.20",
     "indent": false
   },
   {
