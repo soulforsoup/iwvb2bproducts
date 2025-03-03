@@ -230,7 +230,7 @@
   {
     "productName": "Bean Long 菜豆",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.00",
+    "salesPrice": "$4.20",
     "indent": false
   },
   {
@@ -980,7 +980,7 @@
   {
     "productName": "Lady's Finger 角豆",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.80",
+    "salesPrice": "$4.20",
     "indent": false
   },
   {
@@ -1268,7 +1268,7 @@
   {
     "productName": "Onion Bombay 红葱",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$1.90",
+    "salesPrice": "$2.10",
     "indent": false
   },
   {
@@ -1670,7 +1670,7 @@
   {
     "productName": "Qing Long Cai 青龙菜 150G",
     "unitOfMeasure": "/PKT",
-    "salesPrice": "$1.00",
+    "salesPrice": "$1.40",
     "indent": false
   },
   {
@@ -1908,9 +1908,9 @@
     "indent": true
   },
   {
-    "productName": "Tomatoes Cherry Heirloom 家传樱桃蕃茄 3KG",
+    "productName": "Tomatoes Cherry Heirloom 家传樱桃蕃茄 5KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$60.00",
+    "salesPrice": "$69.00",
     "indent": true
   },
   {
