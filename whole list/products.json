@@ -2,7 +2,7 @@
   {
     "productName": "Apple China Fuji 中国富士苹果 (L) Size",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$1.30",
+    "salesPrice": "$1.10",
     "indent": false
   },
   {
@@ -20,7 +20,7 @@
   {
     "productName": "Apple China Fuji 中国富士苹果 64/72PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$55.00",
+    "salesPrice": "$60.00",
     "indent": false
   },
   {
@@ -122,13 +122,13 @@
   {
     "productName": "Avocados Shepard Australian 优质澳洲牛油果",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$2.50",
+    "salesPrice": "$2.30",
     "indent": false
   },
   {
     "productName": "Avocados Shepard Australian 优质澳洲牛油果 28-30PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$62.00",
+    "salesPrice": "$59.00",
     "indent": false
   },
   {
@@ -230,7 +230,7 @@
   {
     "productName": "Bean Long 菜豆",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.20",
+    "salesPrice": "$4.40",
     "indent": false
   },
   {
@@ -458,19 +458,19 @@
   {
     "productName": "Chili Padi Red Stemless 去头红米椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$7.20",
+    "salesPrice": "$6.60",
     "indent": false
   },
   {
     "productName": "Chili Padi Red 红米椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.20",
+    "salesPrice": "$4.60",
     "indent": false
   },
   {
     "productName": "Chili Red 红辣椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$6.90",
+    "salesPrice": "$7.60",
     "indent": false
   },
   {
@@ -644,7 +644,7 @@
   {
     "productName": "Eggplant Pearl 珍珠红茄",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.30",
+    "salesPrice": "$4.70",
     "indent": true
   },
   {
@@ -740,7 +740,7 @@
   {
     "productName": "Ginger Yellow 黄姜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.40",
+    "salesPrice": "$2.90",
     "indent": false
   },
   {
@@ -836,7 +836,7 @@
   {
     "productName": "Herb Coriander Thai 泰国芫茜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$6.00",
+    "salesPrice": "$6.50",
     "indent": false
   },
   {
@@ -1754,7 +1754,7 @@
   {
     "productName": "Shanghai Green 上海青",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.60",
+    "salesPrice": "$3.40",
     "indent": false
   },
   {
@@ -1922,19 +1922,19 @@
   {
     "productName": "Tomatoes Cherry Red 红樱桃番茄",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.50",
+    "salesPrice": "$4.60",
     "indent": false
   },
   {
     "productName": "Tomatoes Local 本地番茄",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.20",
+    "salesPrice": "$3.50",
     "indent": false
   },
   {
     "productName": "Tomatoes Local 本地番茄 10KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$31.00",
+    "salesPrice": "$34.00",
     "indent": false
   },
   {
