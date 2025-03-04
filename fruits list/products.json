@@ -56,7 +56,7 @@
   {
     "productName": "Apple Green 青苹果 120/135PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$66.00",
+    "salesPrice": "$60.00",
     "indent": false
   },
   {
@@ -102,18 +102,6 @@
     "indent": false
   },
   {
-    "productName": "Avocados Shepard Australian 优质澳洲牛油果",
-    "unitOfMeasure": "/PCS",
-    "salesPrice": "$2.30",
-    "indent": false
-  },
-  {
-    "productName": "Avocados Shepard Australian 优质澳洲牛油果 28-30PCS",
-    "unitOfMeasure": "/CTN",
-    "salesPrice": "$59.00",
-    "indent": false
-  },
-  {
     "productName": "Avocados Hass Mexico 墨西哥牛油果",
     "unitOfMeasure": "/PCS",
     "salesPrice": "$2.10",
@@ -123,6 +111,18 @@
     "productName": "Avocados Hass Mexico 墨西哥牛油果 60/70PCS",
     "unitOfMeasure": "/CTN",
     "salesPrice": "$105.00",
+    "indent": false
+  },
+  {
+    "productName": "Avocados Shepard Australian 优质澳洲牛油果",
+    "unitOfMeasure": "/PCS",
+    "salesPrice": "$2.30",
+    "indent": false
+  },
+  {
+    "productName": "Avocados Shepard Australian 优质澳洲牛油果 28-30PCS",
+    "unitOfMeasure": "/CTN",
+    "salesPrice": "$59.00",
     "indent": false
   },
   {

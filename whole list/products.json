@@ -56,7 +56,7 @@
   {
     "productName": "Apple Green 青苹果 120/135PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$66.00",
+    "salesPrice": "$60.00",
     "indent": false
   },
   {
@@ -120,18 +120,6 @@
     "indent": false
   },
   {
-    "productName": "Avocados Shepard Australian 优质澳洲牛油果",
-    "unitOfMeasure": "/PCS",
-    "salesPrice": "$2.30",
-    "indent": false
-  },
-  {
-    "productName": "Avocados Shepard Australian 优质澳洲牛油果 28-30PCS",
-    "unitOfMeasure": "/CTN",
-    "salesPrice": "$59.00",
-    "indent": false
-  },
-  {
     "productName": "Avocados Hass Mexico 墨西哥牛油果",
     "unitOfMeasure": "/PCS",
     "salesPrice": "$2.10",
@@ -141,6 +129,18 @@
     "productName": "Avocados Hass Mexico 墨西哥牛油果 60/70PCS",
     "unitOfMeasure": "/CTN",
     "salesPrice": "$105.00",
+    "indent": false
+  },
+  {
+    "productName": "Avocados Shepard Australian 优质澳洲牛油果",
+    "unitOfMeasure": "/PCS",
+    "salesPrice": "$2.30",
+    "indent": false
+  },
+  {
+    "productName": "Avocados Shepard Australian 优质澳洲牛油果 28-30PCS",
+    "unitOfMeasure": "/CTN",
+    "salesPrice": "$59.00",
     "indent": false
   },
   {
@@ -195,12 +195,6 @@
     "productName": "Banana Cavendish Sunpride 香蕉 15KG",
     "unitOfMeasure": "/CTN",
     "salesPrice": "$36.00",
-    "indent": false
-  },
-  {
-    "productName": "Leaf Banana 香蕉叶",
-    "unitOfMeasure": "/KG",
-    "salesPrice": "$4.50",
     "indent": false
   },
   {
@@ -342,6 +336,18 @@
     "indent": false
   },
   {
+    "productName": "Carrot Australian 澳洲红萝卜",
+    "unitOfMeasure": "/KG",
+    "salesPrice": "$1.90",
+    "indent": false
+  },
+  {
+    "productName": "Carrot Australian 澳洲红萝卜 10KG",
+    "unitOfMeasure": "/CTN",
+    "salesPrice": "$18.00",
+    "indent": false
+  },
+  {
     "productName": "Carrot Baby with Leaves 萝卜仔和叶子",
     "unitOfMeasure": "/KG",
     "salesPrice": "$14.00",
@@ -363,18 +369,6 @@
     "productName": "Carrot 红萝卜 10KG",
     "unitOfMeasure": "/CTN",
     "salesPrice": "$15.50",
-    "indent": false
-  },
-  {
-    "productName": "Carrot Australian 澳洲红萝卜",
-    "unitOfMeasure": "/KG",
-    "salesPrice": "$1.90",
-    "indent": false
-  },
-  {
-    "productName": "Carrot Australian 澳洲红萝卜 10KG",
-    "unitOfMeasure": "/CTN",
-    "salesPrice": "$18.00",
     "indent": false
   },
   {
@@ -984,7 +978,19 @@
     "indent": false
   },
   {
+    "productName": "Leaf Banana 香蕉叶",
+    "unitOfMeasure": "/KG",
+    "salesPrice": "$4.50",
+    "indent": false
+  },
+  {
     "productName": "Leaf Curry 咖喱叶",
+    "unitOfMeasure": "/KG",
+    "salesPrice": "$6.80",
+    "indent": false
+  },
+  {
+    "productName": "Leaf Kaffir Lime 酸橙叶",
     "unitOfMeasure": "/KG",
     "salesPrice": "$6.80",
     "indent": false
@@ -1002,12 +1008,6 @@
     "indent": false
   },
   {
-    "productName": "Leaf Kaffir Lime 酸橙叶",
-    "unitOfMeasure": "/KG",
-    "salesPrice": "$11.50",
-    "indent": false
-  },
-  {
     "productName": "Leaf Mustard 大芥菜",
     "unitOfMeasure": "/KG",
     "salesPrice": "$2.60",
@@ -1017,6 +1017,12 @@
     "productName": "Leaves Pandan 香兰叶",
     "unitOfMeasure": "/KG",
     "salesPrice": "$2.00",
+    "indent": false
+  },
+  {
+    "productName": "Leek Japanese/Scallion 北葱",
+    "unitOfMeasure": "/KG",
+    "salesPrice": "$3.90",
     "indent": false
   },
   {
@@ -1190,7 +1196,7 @@
   {
     "productName": "Mini Pumpkin 贝贝南瓜",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$3.00",
+    "salesPrice": "$2.50",
     "indent": true
   },
   {
@@ -1626,15 +1632,15 @@
     "indent": false
   },
   {
-    "productName": "Potatoes Sweet Chiba Japan S Size 日本千叶番薯 5KG",
-    "unitOfMeasure": "/CTN",
-    "salesPrice": "$60.00",
-    "indent": false
-  },
-  {
     "productName": "Potatoes Sweet Chiba Japan S Size 日本千叶番薯",
     "unitOfMeasure": "/KG",
     "salesPrice": "$10.80",
+    "indent": false
+  },
+  {
+    "productName": "Potatoes Sweet Chiba Japan S Size 日本千叶番薯 5KG",
+    "unitOfMeasure": "/CTN",
+    "salesPrice": "$60.00",
     "indent": false
   },
   {
@@ -1731,12 +1737,6 @@
     "productName": "Salted Vegetables 鹹菜",
     "unitOfMeasure": "/KG",
     "salesPrice": "$4.00",
-    "indent": false
-  },
-  {
-    "productName": "Leek Japanese/Scallion 北葱",
-    "unitOfMeasure": "/KG",
-    "salesPrice": "$3.90",
     "indent": false
   },
   {
@@ -1971,6 +1971,12 @@
     "productName": "Xiao Bai Chye 小白菜",
     "unitOfMeasure": "/KG",
     "salesPrice": "$1.80",
+    "indent": false
+  },
+  {
+    "productName": "Yam Baby 芋头仔",
+    "unitOfMeasure": "/KG",
+    "salesPrice": "$2.00",
     "indent": false
   },
   {
