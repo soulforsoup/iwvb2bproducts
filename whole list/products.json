@@ -542,13 +542,13 @@
   {
     "productName": "Cucumber Japanese 日本青瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.10",
+    "salesPrice": "$2.20",
     "indent": false
   },
   {
     "productName": "Cucumber Japanese 日本青瓜 10KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$20.00",
+    "salesPrice": "$21.00",
     "indent": false
   },
   {
@@ -1010,7 +1010,7 @@
   {
     "productName": "Leaf Mustard 大芥菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.60",
+    "salesPrice": "$3.10",
     "indent": false
   },
   {
@@ -1640,7 +1640,7 @@
   {
     "productName": "Potatoes Sweet Japanese 日本番薯",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.90",
+    "salesPrice": "$4.40",
     "indent": false
   },
   {
