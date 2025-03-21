@@ -200,7 +200,7 @@
   {
     "productName": "Bean Broad 扁豆",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$7.25",
+    "salesPrice": "$6.20",
     "indent": false
   },
   {
@@ -224,7 +224,7 @@
   {
     "productName": "Bean Long 菜豆",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.40",
+    "salesPrice": "$3.20",
     "indent": false
   },
   {
@@ -620,7 +620,7 @@
   {
     "productName": "Egg Quail Boiled 50PCS",
     "unitOfMeasure": "/CAN",
-    "salesPrice": "$5.80",
+    "salesPrice": "$6.20",
     "indent": true
   },
   {
@@ -1526,7 +1526,7 @@
   {
     "productName": "Petai 臭豆 120G",
     "unitOfMeasure": "/PKT",
-    "salesPrice": "$3.20",
+    "salesPrice": "$4.20",
     "indent": true
   },
   {
@@ -1664,7 +1664,7 @@
   {
     "productName": "Pumpkin Local 本地金瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$1.60",
+    "salesPrice": "$1.50",
     "indent": false
   },
   {
