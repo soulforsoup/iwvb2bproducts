@@ -68,7 +68,7 @@
   {
     "productName": "Apple Red Gala 咔啦苹果 135/150PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$58.00",
+    "salesPrice": "$60.00",
     "indent": false
   },
   {
@@ -384,6 +384,12 @@
     "indent": false
   },
   {
+    "productName": "Celeriac Root 塊根芹",
+    "unitOfMeasure": "/KG",
+    "salesPrice": "$11.50",
+    "indent": false
+  },
+  {
     "productName": "Celery Australian 澳洲西芹",
     "unitOfMeasure": "/KG",
     "salesPrice": "$4.20",
@@ -465,6 +471,12 @@
     "productName": "Chili Red 红辣椒",
     "unitOfMeasure": "/KG",
     "salesPrice": "$6.00",
+    "indent": false
+  },
+  {
+    "productName": "Chives English 英式韭菜",
+    "unitOfMeasure": "/KG",
+    "salesPrice": "$4.00",
     "indent": false
   },
   {
