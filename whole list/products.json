@@ -108,6 +108,18 @@
     "indent": false
   },
   {
+    "productName": "Asparagus White 白芦笋",
+    "unitOfMeasure": "/KG",
+    "salesPrice": "$23.00",
+    "indent": false
+  },
+  {
+    "productName": "Asparagus White 白芦笋 5KG",
+    "unitOfMeasure": "/CTN",
+    "salesPrice": "$102.00",
+    "indent": false
+  },
+  {
     "productName": "Avocados Hass Australian 澳洲牛油果",
     "unitOfMeasure": "/PCS",
     "salesPrice": "$2.10",
@@ -224,7 +236,7 @@
   {
     "productName": "Bean Long 菜豆",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.20",
+    "salesPrice": "$3.65",
     "indent": false
   },
   {
@@ -296,7 +308,7 @@
   {
     "productName": "Broccoli 西兰花",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.90",
+    "salesPrice": "$3.80",
     "indent": false
   },
   {
@@ -332,7 +344,7 @@
   {
     "productName": "Calamansi 小酸甘",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.70",
+    "salesPrice": "$2.80",
     "indent": false
   },
   {
@@ -440,7 +452,7 @@
   {
     "productName": "Chili Green 青辣椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.50",
+    "salesPrice": "$5.75",
     "indent": false
   },
   {
@@ -458,13 +470,13 @@
   {
     "productName": "Chili Padi Red Stemless 去头红米椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$6.60",
+    "salesPrice": "$6.95",
     "indent": false
   },
   {
     "productName": "Chili Padi Red 红米椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.60",
+    "salesPrice": "$4.95",
     "indent": false
   },
   {
@@ -488,13 +500,13 @@
   {
     "productName": "Chives Garlic Thai 泰国韭菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.40",
+    "salesPrice": "$5.20",
     "indent": false
   },
   {
     "productName": "Chye Sim Cameron 金马伦菜芯",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.90",
+    "salesPrice": "$3.10",
     "indent": false
   },
   {
@@ -554,19 +566,19 @@
   {
     "productName": "Cucumber Japanese 日本青瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.30",
+    "salesPrice": "$2.65",
     "indent": false
   },
   {
     "productName": "Cucumber Japanese 日本青瓜 10KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$22.00",
+    "salesPrice": "$25.50",
     "indent": false
   },
   {
     "productName": "Cucumber Local 本地青瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$1.20",
+    "salesPrice": "$1.50",
     "indent": false
   },
   {
@@ -632,7 +644,7 @@
   {
     "productName": "Egg Quail Boiled 50PCS",
     "unitOfMeasure": "/CAN",
-    "salesPrice": "$6.20",
+    "salesPrice": "$5.50",
     "indent": true
   },
   {
@@ -704,7 +716,7 @@
   {
     "productName": "Garlic Shoot 蒜花",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.60",
+    "salesPrice": "$5.85",
     "indent": false
   },
   {
@@ -932,7 +944,7 @@
   {
     "productName": "Kailan Baby 芥兰仔 150G",
     "unitOfMeasure": "/PKT",
-    "salesPrice": "$0.95",
+    "salesPrice": "$0.90",
     "indent": false
   },
   {
@@ -986,7 +998,7 @@
   {
     "productName": "Lady's Finger 角豆",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.40",
+    "salesPrice": "$3.65",
     "indent": false
   },
   {
@@ -1239,6 +1251,12 @@
     "productName": "Mushroom King Oyster 小杏鲍菇 200G",
     "unitOfMeasure": "/PKT",
     "salesPrice": "$1.00",
+    "indent": false
+  },
+  {
+    "productName": "Mushroom King Oyster XL Sized 特大杏鲍菇 2.5KG",
+    "unitOfMeasure": "/PKT",
+    "salesPrice": "$8.00",
     "indent": false
   },
   {
