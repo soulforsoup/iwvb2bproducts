@@ -524,13 +524,13 @@
   {
     "productName": "Coconut Siam 暹罗椰子",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$2.90",
+    "salesPrice": "$3.00",
     "indent": true
   },
   {
     "productName": "Coconut Thai Young 泰国椰子",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$2.80",
+    "salesPrice": "$3.00",
     "indent": false
   },
   {
@@ -602,7 +602,7 @@
   {
     "productName": "Dragon Fruit Red 红肉火龙果 12-14PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$29.00",
+    "salesPrice": "$32.00",
     "indent": false
   },
   {
