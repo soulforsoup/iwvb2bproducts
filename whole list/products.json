@@ -308,7 +308,7 @@
   {
     "productName": "Broccoli 西兰花",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.80",
+    "salesPrice": "$3.50",
     "indent": false
   },
   {
@@ -476,7 +476,7 @@
   {
     "productName": "Chili Padi Red 红米椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.30",
+    "salesPrice": "$6.10",
     "indent": false
   },
   {
@@ -878,7 +878,7 @@
   {
     "productName": "Herb Leaf Mint Malaysia 马来西亚薄荷叶",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$9.00",
+    "salesPrice": "$10.00",
     "indent": false
   },
   {
@@ -1514,19 +1514,19 @@
   {
     "productName": "Pepper Bell Green 青灯笼椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.50",
+    "salesPrice": "$4.00",
     "indent": false
   },
   {
     "productName": "Pepper Bell Red 红灯笼椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.80",
+    "salesPrice": "$5.00",
     "indent": true
   },
   {
     "productName": "Pepper Bell Yellow 黄灯笼椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.80",
+    "salesPrice": "$5.00",
     "indent": false
   },
   {
@@ -1556,7 +1556,7 @@
   {
     "productName": "Petai 臭豆 120G",
     "unitOfMeasure": "/PKT",
-    "salesPrice": "$4.20",
+    "salesPrice": "$6.80",
     "indent": true
   },
   {
