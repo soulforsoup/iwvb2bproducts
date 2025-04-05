@@ -122,7 +122,7 @@
   {
     "productName": "Avocados Hass Australian 澳洲牛油果",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$2.10",
+    "salesPrice": "$1.90",
     "indent": false
   },
   {
@@ -134,7 +134,7 @@
   {
     "productName": "Avocados Hass Mexico 墨西哥牛油果",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$2.10",
+    "salesPrice": "$1.70",
     "indent": false
   },
   {
@@ -446,7 +446,7 @@
   {
     "productName": "Chicory Red 红菊苣",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$7.50",
+    "salesPrice": "$10.50",
     "indent": true
   },
   {
@@ -956,7 +956,7 @@
   {
     "productName": "Kale 羽衣甘兰",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$12.50",
+    "salesPrice": "$13.20",
     "indent": true
   },
   {
