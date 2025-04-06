@@ -219,7 +219,7 @@
     "productName": "Coconut Siam 暹罗椰子",
     "unitOfMeasure": "/PCS",
     "salesPrice": "$3.00",
-    "indent": true
+    "indent": false
   },
   {
     "productName": "Coconut Thai Young 泰国椰子",
@@ -351,7 +351,7 @@
     "productName": "Kiwifruit Rubyred Zespri 宝石红奇异果 4-6PCS",
     "unitOfMeasure": "/BOX",
     "salesPrice": "$6.00",
-    "indent": true
+    "indent": false
   },
   {
     "productName": "Lemon 柠檬",
@@ -489,7 +489,7 @@
     "productName": "Orange Navel Sunkist Barnfield 新奇士橙 56/72PCS",
     "unitOfMeasure": "/CTN",
     "salesPrice": "$83.00",
-    "indent": true
+    "indent": false
   },
   {
     "productName": "Orange Navel/Valencia 橙 (L) Size",
@@ -663,13 +663,13 @@
     "productName": "Pisang Berangan",
     "unitOfMeasure": "/KG",
     "salesPrice": "$2.80",
-    "indent": true
+    "indent": false
   },
   {
     "productName": "Pisang Raja",
     "unitOfMeasure": "/KG",
     "salesPrice": "$3.20",
-    "indent": true
+    "indent": false
   },
   {
     "productName": "Plum 李子",
