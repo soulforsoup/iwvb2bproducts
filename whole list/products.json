@@ -470,13 +470,13 @@
   {
     "productName": "Chili Padi Red Stemless 去头红米椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$7.80",
+    "salesPrice": "$8.50",
     "indent": false
   },
   {
     "productName": "Chili Padi Red 红米椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$6.80",
+    "salesPrice": "$7.50",
     "indent": false
   },
   {
@@ -566,13 +566,13 @@
   {
     "productName": "Cucumber Japanese 日本青瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.80",
+    "salesPrice": "$3.00",
     "indent": false
   },
   {
     "productName": "Cucumber Japanese 日本青瓜 10KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$37.00",
+    "salesPrice": "$29.00",
     "indent": false
   },
   {
@@ -740,13 +740,13 @@
   {
     "productName": "Ginger Old 老姜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.80",
+    "salesPrice": "$4.00",
     "indent": false
   },
   {
     "productName": "Ginger Old 老姜 3.5KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$15.80",
+    "salesPrice": "$13.00",
     "indent": false
   },
   {
@@ -1082,7 +1082,7 @@
   {
     "productName": "Lettuce Iceberg 玻璃生菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.00",
+    "salesPrice": "$3.20",
     "indent": false
   },
   {
@@ -1502,19 +1502,19 @@
   {
     "productName": "Pepper Bell Green 青灯笼椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.00",
+    "salesPrice": "$4.30",
     "indent": false
   },
   {
     "productName": "Pepper Bell Red 红灯笼椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.00",
+    "salesPrice": "$4.80",
     "indent": false
   },
   {
     "productName": "Pepper Bell Yellow 黄灯笼椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.00",
+    "salesPrice": "$4.40",
     "indent": false
   },
   {
@@ -1946,13 +1946,13 @@
   {
     "productName": "Tomatoes Local 本地番茄",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.60",
+    "salesPrice": "$2.50",
     "indent": false
   },
   {
     "productName": "Tomatoes Local 本地番茄 10KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$35.00",
+    "salesPrice": "$24.00",
     "indent": false
   },
   {
@@ -2012,7 +2012,7 @@
   {
     "productName": "You Mai Cai 油麦菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.50",
+    "salesPrice": "$4.20",
     "indent": false
   },
   {
