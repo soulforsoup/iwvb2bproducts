@@ -212,7 +212,7 @@
   {
     "productName": "Bean Broad 扁豆",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$6.20",
+    "salesPrice": "$5.00",
     "indent": false
   },
   {
@@ -272,7 +272,7 @@
   {
     "productName": "Bittergourd 苦瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.60",
+    "salesPrice": "$5.40",
     "indent": false
   },
   {
@@ -566,19 +566,19 @@
   {
     "productName": "Cucumber Japanese 日本青瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.00",
+    "salesPrice": "$2.65",
     "indent": false
   },
   {
     "productName": "Cucumber Japanese 日本青瓜 10KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$29.00",
+    "salesPrice": "$25.50",
     "indent": false
   },
   {
     "productName": "Cucumber Local 本地青瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$1.60",
+    "salesPrice": "$1.90",
     "indent": false
   },
   {
@@ -848,7 +848,7 @@
   {
     "productName": "Herb Coriander Thai 泰国芫茜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$7.50",
+    "salesPrice": "$7.00",
     "indent": false
   },
   {
@@ -1082,7 +1082,7 @@
   {
     "productName": "Lettuce Iceberg 玻璃生菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.20",
+    "salesPrice": "$2.80",
     "indent": false
   },
   {
@@ -1094,7 +1094,7 @@
   {
     "productName": "Lime 青柠",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.60",
+    "salesPrice": "$3.30",
     "indent": false
   },
   {
@@ -1544,7 +1544,7 @@
   {
     "productName": "Petai 臭豆 120G",
     "unitOfMeasure": "/PKT",
-    "salesPrice": "$6.80",
+    "salesPrice": "$6.60",
     "indent": false
   },
   {
@@ -1658,7 +1658,7 @@
   {
     "productName": "Potatoes Sweet Japanese 日本番薯",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.40",
+    "salesPrice": "$4.90",
     "indent": false
   },
   {
@@ -1958,7 +1958,7 @@
   {
     "productName": "Turnip 沙葛",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.40",
+    "salesPrice": "$2.50",
     "indent": false
   },
   {
