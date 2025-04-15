@@ -350,13 +350,13 @@
   {
     "productName": "Carrot Australian 澳洲红萝卜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$1.90",
+    "salesPrice": "$2.10",
     "indent": false
   },
   {
     "productName": "Carrot Australian 澳洲红萝卜 10KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$18.00",
+    "salesPrice": "$20.00",
     "indent": false
   },
   {
@@ -728,7 +728,7 @@
   {
     "productName": "Ginger Blue 南姜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.15",
+    "salesPrice": "$4.40",
     "indent": false
   },
   {
@@ -986,7 +986,7 @@
   {
     "productName": "Lady's Finger 角豆",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.90",
+    "salesPrice": "$3.20",
     "indent": false
   },
   {
@@ -1712,13 +1712,13 @@
   {
     "productName": "Radish White 白萝卜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$1.90",
+    "salesPrice": "$1.70",
     "indent": false
   },
   {
     "productName": "Radish White 白萝卜 10KG",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$18.00",
+    "salesPrice": "$16.00",
     "indent": false
   },
   {
@@ -2000,7 +2000,7 @@
   {
     "productName": "Yam Chinese 山药",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.80",
+    "salesPrice": "$3.60",
     "indent": false
   },
   {
