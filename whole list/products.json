@@ -224,7 +224,7 @@
   {
     "productName": "Bean French 四季豆",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$7.60",
+    "salesPrice": "$4.00",
     "indent": false
   },
   {
@@ -236,7 +236,7 @@
   {
     "productName": "Bean Long 菜豆",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.30",
+    "salesPrice": "$3.00",
     "indent": false
   },
   {
@@ -452,7 +452,7 @@
   {
     "productName": "Chili Green 青辣椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$6.00",
+    "salesPrice": "$5.50",
     "indent": false
   },
   {
@@ -1526,7 +1526,7 @@
   {
     "productName": "Pepper Green Screw 螺丝椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.80",
+    "salesPrice": "$5.60",
     "indent": false
   },
   {
