@@ -578,7 +578,7 @@
   {
     "productName": "Cucumber Local 本地青瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$1.90",
+    "salesPrice": "$1.70",
     "indent": false
   },
   {
@@ -950,7 +950,7 @@
   {
     "productName": "Kang Kong 空心菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.20",
+    "salesPrice": "$3.00",
     "indent": false
   },
   {
@@ -1034,7 +1034,7 @@
   {
     "productName": "Leek Green 青蒜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.30",
+    "salesPrice": "$3.50",
     "indent": false
   },
   {
@@ -1520,7 +1520,7 @@
   {
     "productName": "Pepper Bell Yellow 黄灯笼椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.40",
+    "salesPrice": "$4.80",
     "indent": false
   },
   {
