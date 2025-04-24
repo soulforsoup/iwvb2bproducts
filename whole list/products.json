@@ -1170,7 +1170,7 @@
     "indent": false
   },
   {
-    "productName": "Mango Thai 泰芒果",
+    "productName": "Mango Thai Milk 泰国牛奶芒果",
     "unitOfMeasure": "/KG",
     "salesPrice": "$4.40",
     "indent": false
@@ -1287,6 +1287,18 @@
     "productName": "Onion Red 红葱",
     "unitOfMeasure": "/KG",
     "salesPrice": "$2.10",
+    "indent": false
+  },
+  {
+    "productName": "Onion Red 红葱 3KG",
+    "unitOfMeasure": "/SACK",
+    "salesPrice": "$4.60",
+    "indent": false
+  },
+  {
+    "productName": "Onion Red 红葱 9KG",
+    "unitOfMeasure": "/SACK",
+    "salesPrice": "$16.00",
     "indent": false
   },
   {
