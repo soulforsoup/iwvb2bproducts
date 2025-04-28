@@ -272,7 +272,7 @@
   {
     "productName": "Bittergourd 苦瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.50",
+    "salesPrice": "$4.90",
     "indent": false
   },
   {
@@ -308,7 +308,7 @@
   {
     "productName": "Broccoli 西兰花",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.70",
+    "salesPrice": "$3.50",
     "indent": false
   },
   {
@@ -344,7 +344,7 @@
   {
     "productName": "Calamansi 小酸甘",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.90",
+    "salesPrice": "$3.50",
     "indent": false
   },
   {
@@ -482,7 +482,7 @@
   {
     "productName": "Chili Red 红辣椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.60",
+    "salesPrice": "$5.50",
     "indent": false
   },
   {
@@ -770,7 +770,7 @@
   {
     "productName": "Gourd Hairy 毛瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.00",
+    "salesPrice": "$1.90",
     "indent": false
   },
   {
@@ -1796,7 +1796,7 @@
   {
     "productName": "Shanghai Green 上海青",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.40",
+    "salesPrice": "$3.80",
     "indent": false
   },
   {
@@ -1970,13 +1970,13 @@
   {
     "productName": "Tomatoes Local 本地番茄",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.10",
+    "salesPrice": "$2.30",
     "indent": false
   },
   {
     "productName": "Tomatoes Local 本地番茄 10KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$20.00",
+    "salesPrice": "$22.00",
     "indent": false
   },
   {
