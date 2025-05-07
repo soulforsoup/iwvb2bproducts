@@ -92,13 +92,13 @@
   {
     "productName": "Avocados Hass Australian 澳洲牛油果",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$2.10",
+    "salesPrice": "$1.80",
     "indent": false
   },
   {
     "productName": "Avocados Hass Australian 澳洲牛油果 25-30PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$55.00",
+    "salesPrice": "$49.00",
     "indent": false
   },
   {
@@ -194,13 +194,13 @@
   {
     "productName": "Blueberries 蓝莓 125G",
     "unitOfMeasure": "/PUN",
-    "salesPrice": "$3.50",
+    "salesPrice": "$3.30",
     "indent": false
   },
   {
     "productName": "Blueberries 蓝莓 12x125G",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$40.00",
+    "salesPrice": "$37.60",
     "indent": false
   },
   {
@@ -428,13 +428,13 @@
   {
     "productName": "Mango Thai Milk 泰国牛奶芒果",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.40",
+    "salesPrice": "$3.90",
     "indent": false
   },
   {
     "productName": "Mangosteen 山竹        ",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.50",
+    "salesPrice": "$4.90",
     "indent": false
   },
   {
@@ -734,13 +734,13 @@
   {
     "productName": "Strawberries USA/AUS/SF/EGY 美国/澳洲/非洲/埃及草莓 250G",
     "unitOfMeasure": "/BOX",
-    "salesPrice": "$4.90",
+    "salesPrice": "$4.50",
     "indent": false
   },
   {
     "productName": "Strawberries USA/AUS/SF/EGY 美国/澳洲/非洲/埃及草莓 500G",
     "unitOfMeasure": "/BOX",
-    "salesPrice": "$9.80",
+    "salesPrice": "$9.00",
     "indent": false
   },
   {
