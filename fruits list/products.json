@@ -56,7 +56,7 @@
   {
     "productName": "Apple Green 青苹果 120/135PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$66.00",
+    "salesPrice": "$50.00",
     "indent": false
   },
   {
@@ -68,7 +68,7 @@
   {
     "productName": "Apple Red Gala 咔啦苹果 135/150PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$60.00",
+    "salesPrice": "#N/A",
     "indent": false
   },
   {
@@ -368,7 +368,7 @@
   {
     "productName": "Lime 青柠",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.30",
+    "salesPrice": "$3.00",
     "indent": false
   },
   {
@@ -386,7 +386,7 @@
   {
     "productName": "Mango Green 青芒果",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.90",
+    "salesPrice": "$3.30",
     "indent": false
   },
   {
@@ -500,7 +500,7 @@
   {
     "productName": "Orange Navel/Valencia 橙 (S) Size",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$0.70",
+    "salesPrice": "$0.60",
     "indent": false
   },
   {
@@ -518,7 +518,7 @@
   {
     "productName": "Orange Navel/Valencia 橙 45/50/55PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$45.00",
+    "salesPrice": "$36.00",
     "indent": false
   },
   {
@@ -554,13 +554,13 @@
   {
     "productName": "Passionfruit 百香果",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$7.00",
+    "salesPrice": "$6.50",
     "indent": false
   },
   {
     "productName": "Passionfruit Golden 黄金百香果",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$42.00",
+    "salesPrice": "$46.00",
     "indent": false
   },
   {
