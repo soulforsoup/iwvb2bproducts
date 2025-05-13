@@ -92,13 +92,13 @@
   {
     "productName": "Asparagus Green 青芦笋",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$18.80",
+    "salesPrice": "$17.50",
     "indent": false
   },
   {
     "productName": "Asparagus Green 青芦笋 5KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$90.00",
+    "salesPrice": "$83.50",
     "indent": false
   },
   {
@@ -236,7 +236,7 @@
   {
     "productName": "Bean Long 菜豆",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.20",
+    "salesPrice": "$3.50",
     "indent": false
   },
   {
@@ -432,12 +432,6 @@
     "indent": false
   },
   {
-    "productName": "Chayote 佛手瓜",
-    "unitOfMeasure": "/KG",
-    "salesPrice": "$2.40",
-    "indent": false
-  },
-  {
     "productName": "Cherries 樱桃",
     "unitOfMeasure": "/KG",
     "salesPrice": "$25.00",
@@ -482,7 +476,7 @@
   {
     "productName": "Chili Red 红辣椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.80",
+    "salesPrice": "$5.20",
     "indent": false
   },
   {
@@ -938,7 +932,7 @@
   {
     "productName": "Kailan Baby 芥兰仔 150G",
     "unitOfMeasure": "/PKT",
-    "salesPrice": "$1.00",
+    "salesPrice": "$1.10",
     "indent": false
   },
   {
@@ -1026,9 +1020,9 @@
     "indent": false
   },
   {
-    "productName": "Leaf Mustard 大芥菜",
+    "productName": "Leaf Turmeric 黄姜叶",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.10",
+    "salesPrice": "$11.00",
     "indent": false
   },
   {
