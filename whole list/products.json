@@ -446,7 +446,7 @@
   {
     "productName": "Chili Green 青辣椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.50",
+    "salesPrice": "$5.90",
     "indent": false
   },
   {
@@ -476,7 +476,7 @@
   {
     "productName": "Chili Red 红辣椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$6.20",
+    "salesPrice": "$5.90",
     "indent": false
   },
   {
@@ -500,7 +500,7 @@
   {
     "productName": "Chye Sim Cameron 金马伦菜芯",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.80",
+    "salesPrice": "$3.00",
     "indent": false
   },
   {
@@ -777,6 +777,18 @@
     "productName": "Grapefruit 柚子",
     "unitOfMeasure": "/PCS",
     "salesPrice": "$1.00",
+    "indent": false
+  },
+  {
+    "productName": "Grapes Australian Black Seedless 澳洲无籽黑葡萄",
+    "unitOfMeasure": "/KG",
+    "salesPrice": "$9.00",
+    "indent": false
+  },
+  {
+    "productName": "Grapes Australian Black Seedless 澳洲无籽黑葡萄 9KG",
+    "unitOfMeasure": "/CTN",
+    "salesPrice": "$78.00",
     "indent": false
   },
   {
@@ -2030,7 +2042,7 @@
   {
     "productName": "Yam Baby 芋头仔",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.00",
+    "salesPrice": "$2.90",
     "indent": false
   },
   {
