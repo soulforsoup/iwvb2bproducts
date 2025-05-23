@@ -92,13 +92,13 @@
   {
     "productName": "Avocados Hass Australian 澳洲牛油果",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$1.80",
+    "salesPrice": "$1.60",
     "indent": false
   },
   {
     "productName": "Avocados Hass Australian 澳洲牛油果 25-30PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$49.00",
+    "salesPrice": "$43.00",
     "indent": false
   },
   {
@@ -434,7 +434,7 @@
   {
     "productName": "Mangosteen 山竹        ",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.90",
+    "salesPrice": "$4.20",
     "indent": false
   },
   {
@@ -494,7 +494,7 @@
   {
     "productName": "Orange Navel/Valencia 橙 (L) Size",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$1.10",
+    "salesPrice": "$1.00",
     "indent": false
   },
   {
