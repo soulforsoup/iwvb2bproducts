@@ -2,31 +2,31 @@
   {
     "productName": "Apple China Fuji 中国富士苹果 (L) Size",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$1.10",
+    "salesPrice": "$1.00",
     "indent": false
   },
   {
     "productName": "Apple China Fuji 中国富士苹果 (S) Size",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$0.70",
+    "salesPrice": "$0.60",
     "indent": false
   },
   {
     "productName": "Apple China Fuji 中国富士苹果 100/113PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$49.00",
+    "salesPrice": "$46.00",
     "indent": false
   },
   {
     "productName": "Apple China Fuji 中国富士苹果 64/72PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$60.00",
+    "salesPrice": "$56.00",
     "indent": false
   },
   {
     "productName": "Apple China Fuji 中国富士苹果 80/88PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$55.00",
+    "salesPrice": "$52.00",
     "indent": false
   },
   {
@@ -254,7 +254,7 @@
   {
     "productName": "Bean Sprouts Peeled 去头尾豆芽",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$6.40",
+    "salesPrice": "$5.80",
     "indent": false
   },
   {
@@ -266,7 +266,7 @@
   {
     "productName": "Beetroot 甜菜根",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.30",
+    "salesPrice": "$2.50",
     "indent": false
   },
   {
@@ -350,13 +350,13 @@
   {
     "productName": "Carrot Australian 澳洲红萝卜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.10",
+    "salesPrice": "$1.90",
     "indent": false
   },
   {
     "productName": "Carrot Australian 澳洲红萝卜 10KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$19.00",
+    "salesPrice": "$17.00",
     "indent": false
   },
   {
@@ -434,14 +434,14 @@
   {
     "productName": "Cherries 樱桃",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$32.00",
+    "salesPrice": "$30.00",
     "indent": false
   },
   {
     "productName": "Chicory Red 红菊苣",
     "unitOfMeasure": "/KG",
     "salesPrice": "$9.90",
-    "indent": true
+    "indent": false
   },
   {
     "productName": "Chili Green 青辣椒",
@@ -1134,12 +1134,6 @@
     "indent": false
   },
   {
-    "productName": "Lotus Root Sliced 莲藕片 3KG",
-    "unitOfMeasure": "/PKT",
-    "salesPrice": "$9.00",
-    "indent": false
-  },
-  {
     "productName": "Lotus Root 莲藕",
     "unitOfMeasure": "/KG",
     "salesPrice": "$4.20",
@@ -1236,12 +1230,6 @@
     "indent": false
   },
   {
-    "productName": "Mushroom Button White 白菇",
-    "unitOfMeasure": "/KG",
-    "salesPrice": "$9.00",
-    "indent": false
-  },
-  {
     "productName": "Mushroom Enoki 金针菇 100G",
     "unitOfMeasure": "/PKT",
     "salesPrice": "$0.40",
@@ -1293,6 +1281,12 @@
     "productName": "Mushroom Swiss Brown 瑞士棕色蘑菇",
     "unitOfMeasure": "/KG",
     "salesPrice": "$13.90",
+    "indent": false
+  },
+  {
+    "productName": "Mushroom White Button 白菇",
+    "unitOfMeasure": "/KG",
+    "salesPrice": "$9.00",
     "indent": false
   },
   {
@@ -1646,13 +1640,13 @@
   {
     "productName": "Potato Baby Gem 马铃薯仔",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.80",
+    "salesPrice": "$3.70",
     "indent": false
   },
   {
     "productName": "Potato Baby Gem 马铃薯仔 10KG",
     "unitOfMeasure": "/SACK",
-    "salesPrice": "$34.00",
+    "salesPrice": "$33.00",
     "indent": false
   },
   {
@@ -1730,7 +1724,7 @@
   {
     "productName": "Pumpkin Mini 贝贝南瓜",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$2.50",
+    "salesPrice": "$2.00",
     "indent": true
   },
   {
@@ -1742,7 +1736,7 @@
   {
     "productName": "Radish Cherry Belle 樱桃萝卜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.80",
+    "salesPrice": "$3.90",
     "indent": false
   },
   {
@@ -1910,7 +1904,7 @@
   {
     "productName": "Strawberries USA/AUS/SF/EGY 美国/澳洲/非洲/埃及草莓 500G",
     "unitOfMeasure": "/BOX",
-    "salesPrice": "$9.00",
+    "salesPrice": "$8.80",
     "indent": false
   },
   {
@@ -1923,12 +1917,6 @@
     "productName": "Szechuan Cai 四川榨菜丝 500G",
     "unitOfMeasure": "/PKT",
     "salesPrice": "$2.34",
-    "indent": false
-  },
-  {
-    "productName": "Szechuan Cai 四川榨菜粒 3KG",
-    "unitOfMeasure": "/PKT",
-    "salesPrice": "$9.10",
     "indent": false
   },
   {
@@ -2070,7 +2058,13 @@
     "indent": false
   },
   {
-    "productName": "Zucchini Green 青夏南瓜",
+    "productName": "Zucchini Green 青西葫芦",
+    "unitOfMeasure": "/KG",
+    "salesPrice": "$3.20",
+    "indent": false
+  },
+  {
+    "productName": "Zucchini Yellow 黄西葫芦",
     "unitOfMeasure": "/KG",
     "salesPrice": "$3.50",
     "indent": false
