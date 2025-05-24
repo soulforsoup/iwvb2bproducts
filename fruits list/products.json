@@ -50,7 +50,7 @@
   {
     "productName": "Apple Green 青苹果",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$0.45",
+    "salesPrice": "$0.50",
     "indent": false
   },
   {
@@ -206,7 +206,7 @@
   {
     "productName": "Cherries 樱桃",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$32.00",
+    "salesPrice": "$25.00",
     "indent": false
   },
   {
@@ -326,25 +326,25 @@
   {
     "productName": "Kiwifruit Gold Zespri 佳沛黄金奇异果",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$1.80",
+    "salesPrice": "$1.90",
     "indent": false
   },
   {
     "productName": "Kiwifruit Gold Zespri 佳沛黄金奇异果 40/41PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$69.00",
+    "salesPrice": "$74.00",
     "indent": false
   },
   {
     "productName": "Kiwifruit Green Zespri 佳沛青奇异果",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$1.30",
+    "salesPrice": "$1.50",
     "indent": false
   },
   {
     "productName": "Kiwifruit Green Zespri 佳沛青奇异果 70/74PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$72.00",
+    "salesPrice": "$86.00",
     "indent": false
   },
   {
@@ -380,7 +380,7 @@
   {
     "productName": "Lychee 贵妃笑",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$8.00",
+    "salesPrice": "$29.00",
     "indent": false
   },
   {
