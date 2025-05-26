@@ -296,7 +296,7 @@
   {
     "productName": "Blueberries 蓝莓 125G",
     "unitOfMeasure": "/PUN",
-    "salesPrice": "$3.30",
+    "salesPrice": "$3.50",
     "indent": false
   },
   {
@@ -320,7 +320,7 @@
   {
     "productName": "Cabbage Beijing 北京包菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$1.60",
+    "salesPrice": "$1.40",
     "indent": false
   },
   {
@@ -404,13 +404,13 @@
   {
     "productName": "Celery Australian 澳洲西芹",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.20",
+    "salesPrice": "$3.80",
     "indent": false
   },
   {
     "productName": "Celery Australian 澳洲西芹 12/15KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$50.00",
+    "salesPrice": "$43.00",
     "indent": false
   },
   {
@@ -1652,7 +1652,7 @@
   {
     "productName": "Potato Russet USA 美国马铃薯",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.20",
+    "salesPrice": "$2.30",
     "indent": false
   },
   {
