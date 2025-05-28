@@ -374,13 +374,13 @@
   {
     "productName": "Carrot 红萝卜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$1.35",
+    "salesPrice": "$1.40",
     "indent": false
   },
   {
     "productName": "Carrot 红萝卜 10KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$16.00",
+    "salesPrice": "$13.00",
     "indent": false
   },
   {
@@ -404,7 +404,7 @@
   {
     "productName": "Celery Australian 澳洲西芹",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.80",
+    "salesPrice": "$3.70",
     "indent": false
   },
   {
@@ -962,7 +962,7 @@
   {
     "productName": "Jiu Bai Chye 九白菜 10KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$23.00",
+    "salesPrice": "$22.00",
     "indent": false
   },
   {
@@ -1262,7 +1262,7 @@
   {
     "productName": "Mushroom Portobello 波托贝罗蘑菇",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$13.00",
+    "salesPrice": "$13.90",
     "indent": false
   },
   {
@@ -1274,7 +1274,7 @@
   {
     "productName": "Mushroom Shiitake 新香菇",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$8.20",
+    "salesPrice": "$8.00",
     "indent": false
   },
   {
@@ -1286,7 +1286,7 @@
   {
     "productName": "Mushroom White Button 白菇",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$9.00",
+    "salesPrice": "$9.50",
     "indent": false
   },
   {
@@ -1316,7 +1316,7 @@
   {
     "productName": "Onion Red 红葱 9KG",
     "unitOfMeasure": "/SACK",
-    "salesPrice": "$16.00",
+    "salesPrice": "$15.00",
     "indent": false
   },
   {
@@ -1574,7 +1574,7 @@
   {
     "productName": "Pineapple Honey 水晶蜂蜜黄梨",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$2.10",
+    "salesPrice": "$2.20",
     "indent": false
   },
   {
@@ -1592,7 +1592,7 @@
   {
     "productName": "Pineapple Sunpride/Del Monte/Dole 蜜糖黄梨",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$4.50",
+    "salesPrice": "$5.00",
     "indent": false
   },
   {
@@ -1988,7 +1988,7 @@
   {
     "productName": "Tomatoes Local 本地番茄 10KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$20.00",
+    "salesPrice": "$21.00",
     "indent": false
   },
   {
