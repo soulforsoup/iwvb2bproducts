@@ -432,7 +432,13 @@
     "indent": false
   },
   {
-    "productName": "Cherries 樱桃",
+    "productName": "Cherries Rainer 雷尼尔樱桃",
+    "unitOfMeasure": "/KG",
+    "salesPrice": "$33.00",
+    "indent": false
+  },
+  {
+    "productName": "Cherries Red 红樱桃",
     "unitOfMeasure": "/KG",
     "salesPrice": "$30.00",
     "indent": false
