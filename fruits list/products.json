@@ -224,13 +224,13 @@
   {
     "productName": "Coconut Thai Young 泰国椰子",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$2.70",
+    "salesPrice": "$2.30",
     "indent": false
   },
   {
     "productName": "Coconut Thai Young 泰国椰子 30PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$75.00",
+    "salesPrice": "$65.00",
     "indent": false
   },
   {
@@ -440,13 +440,13 @@
   {
     "productName": "Melon Hami China 中国哈密瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.00",
+    "salesPrice": "$2.80",
     "indent": false
   },
   {
     "productName": "Melon Rock 哈密瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.80",
+    "salesPrice": "$3.50",
     "indent": false
   },
   {
@@ -488,7 +488,7 @@
   {
     "productName": "Orange Navel Sunkist Barnfield 新奇士橙 56/72PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$83.00",
+    "salesPrice": "$72.00",
     "indent": false
   },
   {
@@ -560,7 +560,7 @@
   {
     "productName": "Passionfruit Golden 黄金百香果",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$46.00",
+    "salesPrice": "$43.00",
     "indent": false
   },
   {
