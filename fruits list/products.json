@@ -2,7 +2,7 @@
   {
     "productName": "Apple China Fuji 中国富士苹果 (L) Size",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$1.00",
+    "salesPrice": "$0.90",
     "indent": false
   },
   {
@@ -20,13 +20,13 @@
   {
     "productName": "Apple China Fuji 中国富士苹果 64/72PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$56.00",
+    "salesPrice": "#N/A",
     "indent": false
   },
   {
     "productName": "Apple China Fuji 中国富士苹果 80/88PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$52.00",
+    "salesPrice": "#N/A",
     "indent": false
   },
   {
@@ -92,7 +92,7 @@
   {
     "productName": "Avocados Hass Australian 澳洲牛油果",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$1.60",
+    "salesPrice": "$1.70",
     "indent": false
   },
   {
@@ -200,7 +200,7 @@
   {
     "productName": "Blueberries 蓝莓 12x125G",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$40.00",
+    "salesPrice": "$38.00",
     "indent": false
   },
   {
@@ -272,13 +272,13 @@
   {
     "productName": "Grapes Black Seedless 无籽黑葡萄",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$8.00",
+    "salesPrice": "$7.50",
     "indent": false
   },
   {
     "productName": "Grapes Black Seedless 无籽黑葡萄 5KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$38.00",
+    "salesPrice": "$34.00",
     "indent": false
   },
   {
@@ -290,7 +290,7 @@
   {
     "productName": "Grapes Green Seedless 无籽青葡萄 5KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$36.00",
+    "salesPrice": "$34.00",
     "indent": false
   },
   {
@@ -302,7 +302,7 @@
   {
     "productName": "Grapes Red Seedless 无籽红葡萄 5KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$36.00",
+    "salesPrice": "$34.00",
     "indent": false
   },
   {
@@ -584,13 +584,13 @@
   {
     "productName": "Pear Fengshui 风水梨",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$2.20",
+    "salesPrice": "#N/A",
     "indent": false
   },
   {
     "productName": "Pear Fengshui 风水梨 16-24PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$35.00",
+    "salesPrice": "#N/A",
     "indent": false
   },
   {
@@ -608,7 +608,7 @@
   {
     "productName": "Pear Fragrant 香梨 6/7KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$25.00",
+    "salesPrice": "$28.00",
     "indent": false
   },
   {
@@ -626,13 +626,13 @@
   {
     "productName": "Pear Xin Gao/Golden China 中国新高梨",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$1.40",
+    "salesPrice": "#N/A",
     "indent": false
   },
   {
     "productName": "Pear Xin Gao/Golden China 中国新高梨 36-42PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$52.00",
+    "salesPrice": "#N/A",
     "indent": false
   },
   {
@@ -722,13 +722,13 @@
   {
     "productName": "Strawberries Korean 优质韩国草莓 330G",
     "unitOfMeasure": "/BOX",
-    "salesPrice": "$12.80",
+    "salesPrice": "$12.00",
     "indent": false
   },
   {
     "productName": "Strawberries Korean 韩国草莓 250G",
     "unitOfMeasure": "/BOX",
-    "salesPrice": "$8.20",
+    "salesPrice": "$7.50",
     "indent": false
   },
   {
