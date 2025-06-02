@@ -428,13 +428,13 @@
   {
     "productName": "Cherries Rainer 雷尼尔樱桃",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$33.00",
+    "salesPrice": "$32.00",
     "indent": false
   },
   {
     "productName": "Cherries Red 红樱桃",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$30.00",
+    "salesPrice": "$29.00",
     "indent": false
   },
   {
@@ -608,7 +608,7 @@
   {
     "productName": "Dragon Fruit White 白火龙果 14-18PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$28.00",
+    "salesPrice": "$25.00",
     "indent": false
   },
   {
@@ -1274,7 +1274,7 @@
   {
     "productName": "Mushroom Shiitake 新香菇",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$8.00",
+    "salesPrice": "$7.80",
     "indent": false
   },
   {
