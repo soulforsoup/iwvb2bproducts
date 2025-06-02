@@ -86,13 +86,13 @@
   {
     "productName": "Asparagus Green 青芦笋",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$17.50",
+    "salesPrice": "$16.50",
     "indent": false
   },
   {
     "productName": "Asparagus Green 青芦笋 5KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$83.50",
+    "salesPrice": "$78.50",
     "indent": false
   },
   {
@@ -1094,7 +1094,7 @@
   {
     "productName": "Lemongrass 香茅",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.80",
+    "salesPrice": "$3.00",
     "indent": false
   },
   {
@@ -1406,7 +1406,7 @@
   {
     "productName": "Orange Navel/Valencia 橙 72/80/88PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$32.00",
+    "salesPrice": "$33.00",
     "indent": false
   },
   {
