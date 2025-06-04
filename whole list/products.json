@@ -314,7 +314,7 @@
   {
     "productName": "Cabbage Beijing 北京包菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$1.40",
+    "salesPrice": "$1.30",
     "indent": false
   },
   {
@@ -494,7 +494,7 @@
   {
     "productName": "Chives Garlic Thai 泰国韭菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.20",
+    "salesPrice": "$5.80",
     "indent": false
   },
   {
@@ -668,7 +668,7 @@
   {
     "productName": "Eggplant 红茄",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.60",
+    "salesPrice": "$4.00",
     "indent": false
   },
   {
@@ -884,7 +884,7 @@
   {
     "productName": "Herb Coriander Thai 泰国芫茜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$9.50",
+    "salesPrice": "$10.50",
     "indent": false
   },
   {
@@ -974,7 +974,7 @@
   {
     "productName": "Kailan Hong Kong 香港芥兰",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.90",
+    "salesPrice": "$4.10",
     "indent": false
   },
   {
@@ -1458,13 +1458,13 @@
     "indent": false
   },
   {
-    "productName": "Pear Fengshui/Moon Autumn 丰水/秋月梨",
+    "productName": "Pear Fengshui 丰水梨",
     "unitOfMeasure": "/PCS",
     "salesPrice": "$2.20",
     "indent": false
   },
   {
-    "productName": "Pear Fengshui/Moon Autumn 丰水/秋月梨 11-20PCS",
+    "productName": "Pear Fengshui 丰水梨 11-20PCS",
     "unitOfMeasure": "/CTN",
     "salesPrice": "$35.00",
     "indent": false
@@ -1497,6 +1497,18 @@
     "productName": "Pear Golden 黄金梨 36-42PCS",
     "unitOfMeasure": "/CTN",
     "salesPrice": "$38.00",
+    "indent": false
+  },
+  {
+    "productName": "Pear Nam Shui 南水梨",
+    "unitOfMeasure": "/PCS",
+    "salesPrice": "$2.20",
+    "indent": false
+  },
+  {
+    "productName": "Pear Nam Shui 南水梨 24-28PCS",
+    "unitOfMeasure": "/CTN",
+    "salesPrice": "$45.00",
     "indent": false
   },
   {
@@ -1538,19 +1550,19 @@
   {
     "productName": "Pepper Bell Green 青灯笼椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.20",
+    "salesPrice": "$4.00",
     "indent": false
   },
   {
     "productName": "Pepper Bell Red 红灯笼椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.00",
+    "salesPrice": "$4.50",
     "indent": false
   },
   {
     "productName": "Pepper Bell Yellow 黄灯笼椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$6.00",
+    "salesPrice": "$4.90",
     "indent": false
   },
   {
@@ -1586,7 +1598,7 @@
   {
     "productName": "Petai 臭豆 120G",
     "unitOfMeasure": "/PKT",
-    "salesPrice": "$5.80",
+    "salesPrice": "$6.20",
     "indent": false
   },
   {
