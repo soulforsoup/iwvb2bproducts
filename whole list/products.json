@@ -218,7 +218,7 @@
   {
     "productName": "Bean French 四季豆",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.90",
+    "salesPrice": "$6.00",
     "indent": false
   },
   {
@@ -266,7 +266,7 @@
   {
     "productName": "Bittergourd 苦瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.40",
+    "salesPrice": "$4.60",
     "indent": false
   },
   {
@@ -572,7 +572,7 @@
   {
     "productName": "Cucumber Local 本地青瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$1.80",
+    "salesPrice": "$1.30",
     "indent": false
   },
   {
@@ -1070,7 +1070,7 @@
   {
     "productName": "Leek Green 青蒜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.70",
+    "salesPrice": "$3.90",
     "indent": false
   },
   {
@@ -1082,13 +1082,13 @@
   {
     "productName": "Lemon 柠檬",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$0.55",
+    "salesPrice": "$0.70",
     "indent": false
   },
   {
     "productName": "Lemon 柠檬 80/88/100PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$43.00",
+    "salesPrice": "$48.00",
     "indent": false
   },
   {
@@ -1376,7 +1376,7 @@
   {
     "productName": "Orange Navel Sunkist Barnfield 新奇士橙 56/72PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$72.00",
+    "salesPrice": "$75.00",
     "indent": false
   },
   {
@@ -1826,7 +1826,7 @@
   {
     "productName": "Shallot Peeled 葱肉 1KG",
     "unitOfMeasure": "/PKT",
-    "salesPrice": "$3.70",
+    "salesPrice": "$3.50",
     "indent": false
   },
   {
@@ -2054,7 +2054,7 @@
   {
     "productName": "Watermelon 西瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.10",
+    "salesPrice": "$2.00",
     "indent": false
   },
   {
