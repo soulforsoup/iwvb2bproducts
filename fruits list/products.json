@@ -356,13 +356,13 @@
   {
     "productName": "Lemon 柠檬",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$0.70",
+    "salesPrice": "$0.55",
     "indent": false
   },
   {
     "productName": "Lemon 柠檬 80/88/100PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$48.00",
+    "salesPrice": "$43.00",
     "indent": false
   },
   {
@@ -446,7 +446,7 @@
   {
     "productName": "Melon Rock 哈密瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.90",
+    "salesPrice": "$3.80",
     "indent": false
   },
   {
@@ -488,7 +488,7 @@
   {
     "productName": "Orange Navel Sunkist Barnfield 新奇士橙 56/72PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$75.00",
+    "salesPrice": "$72.00",
     "indent": false
   },
   {
@@ -734,13 +734,13 @@
   {
     "productName": "Strawberries USA/AUS/SF/EGY 美国/澳洲/非洲/埃及草莓 250G",
     "unitOfMeasure": "/BOX",
-    "salesPrice": "$4.90",
+    "salesPrice": "$4.50",
     "indent": false
   },
   {
     "productName": "Strawberries USA/AUS/SF/EGY 美国/澳洲/非洲/埃及草莓 500G",
     "unitOfMeasure": "/BOX",
-    "salesPrice": "$9.50",
+    "salesPrice": "$8.80",
     "indent": false
   },
   {
