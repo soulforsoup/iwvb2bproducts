@@ -212,7 +212,7 @@
   {
     "productName": "Bean French Baby 四季豆苗 150G",
     "unitOfMeasure": "/PKT",
-    "salesPrice": "$1.80",
+    "salesPrice": "$1.60",
     "indent": false
   },
   {
@@ -266,7 +266,7 @@
   {
     "productName": "Bittergourd 苦瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.20",
+    "salesPrice": "$4.00",
     "indent": false
   },
   {
@@ -578,7 +578,7 @@
   {
     "productName": "Cucumber Old 老黄瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.70",
+    "salesPrice": "$2.00",
     "indent": false
   },
   {
@@ -1526,13 +1526,13 @@
   {
     "productName": "Pear Xin Gao 新高梨",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$1.80",
+    "salesPrice": "$1.30",
     "indent": false
   },
   {
     "productName": "Pear Xin Gao 新高梨 16PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$32.00",
+    "salesPrice": "#N/A",
     "indent": false
   },
   {
