@@ -24,19 +24,25 @@
     "indent": false
   },
   {
-    "productName": "Apple Envy New Zealand L Size 爱妃新西兰苹果 25-30PCS",
+    "productName": "Apple Envy New Zealand XL Size 爱妃新西兰苹果 30PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "#N/A",
+    "salesPrice": "$100.00",
     "indent": false
   },
   {
-    "productName": "Apple Envy New Zealand M Size 爱妃新西兰苹果 70-80PCS",
+    "productName": "Apple Envy New Zealand L Size 爱妃新西兰苹果 70-80PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "#N/A",
+    "salesPrice": "$155.00",
     "indent": false
   },
   {
-    "productName": "Apple Envy New Zealand 爱妃新西兰苹果",
+    "productName": "Apple Envy New Zealand 爱妃新西兰苹果 (XL) Size",
+    "unitOfMeasure": "/PCS",
+    "salesPrice": "$3.10",
+    "indent": false
+  },
+  {
+    "productName": "Apple Envy New Zealand 爱妃新西兰苹果 (L) Size",
     "unitOfMeasure": "/PCS",
     "salesPrice": "$2.20",
     "indent": false
@@ -86,13 +92,13 @@
   {
     "productName": "Asparagus Green 青芦笋",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$16.50",
+    "salesPrice": "$17.00",
     "indent": false
   },
   {
     "productName": "Asparagus Green 青芦笋 5KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$78.50",
+    "salesPrice": "$79.00",
     "indent": false
   },
   {
@@ -260,7 +266,7 @@
   {
     "productName": "Beetroot 甜菜根",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.30",
+    "salesPrice": "$2.90",
     "indent": false
   },
   {
@@ -380,7 +386,7 @@
   {
     "productName": "Cauliflower China 散菜花",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.40",
+    "salesPrice": "$4.90",
     "indent": false
   },
   {
@@ -446,7 +452,7 @@
   {
     "productName": "Chili Green 青辣椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.60",
+    "salesPrice": "$5.90",
     "indent": false
   },
   {
@@ -476,7 +482,7 @@
   {
     "productName": "Chili Red 红辣椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$6.70",
+    "salesPrice": "$7.20",
     "indent": false
   },
   {
@@ -1076,17 +1082,17 @@
   {
     "productName": "Leek Japanese/Scallion 北葱",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.20",
+    "salesPrice": "$3.80",
     "indent": false
   },
   {
     "productName": "Lemon 柠檬",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$0.70",
+    "salesPrice": "$0.60",
     "indent": false
   },
   {
-    "productName": "Lemon 柠檬 80/88/100PCS",
+    "productName": "Lemon 柠檬 80/88/100/113PCS",
     "unitOfMeasure": "/CTN",
     "salesPrice": "$48.00",
     "indent": false
@@ -1136,7 +1142,7 @@
   {
     "productName": "Lotus Root 莲藕",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.50",
+    "salesPrice": "$4.80",
     "indent": false
   },
   {
@@ -1202,7 +1208,7 @@
   {
     "productName": "Melon Hami China 中国哈密瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.80",
+    "salesPrice": "$3.00",
     "indent": false
   },
   {
@@ -1298,7 +1304,7 @@
   {
     "productName": "Onion Red Peeled 去皮红葱 1KG",
     "unitOfMeasure": "/PKT",
-    "salesPrice": "$2.30",
+    "salesPrice": "$2.20",
     "indent": false
   },
   {
@@ -1376,7 +1382,7 @@
   {
     "productName": "Orange Navel Sunkist Barnfield 新奇士橙 56/72PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$75.00",
+    "salesPrice": "$78.00",
     "indent": false
   },
   {
@@ -1530,9 +1536,9 @@
     "indent": false
   },
   {
-    "productName": "Pear Xin Gao 新高梨 16PCS",
+    "productName": "Pear Xin Gao 新高梨 36PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "#N/A",
+    "salesPrice": "$32.00",
     "indent": false
   },
   {
@@ -1598,7 +1604,7 @@
   {
     "productName": "Petai 臭豆 120G",
     "unitOfMeasure": "/PKT",
-    "salesPrice": "$5.90",
+    "salesPrice": "$5.00",
     "indent": false
   },
   {
@@ -1874,7 +1880,7 @@
   {
     "productName": "Spinach Chinese 中国菠菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$6.00",
+    "salesPrice": "$6.50",
     "indent": false
   },
   {
@@ -2018,7 +2024,7 @@
   {
     "productName": "Tomatoes Cherry Red 红樱桃番茄",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.90",
+    "salesPrice": "$4.50",
     "indent": false
   },
   {
@@ -2090,7 +2096,7 @@
   {
     "productName": "You Mai Cai 油麦菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.20",
+    "salesPrice": "$4.50",
     "indent": false
   },
   {
