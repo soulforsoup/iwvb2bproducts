@@ -236,7 +236,7 @@
   {
     "productName": "Bean Long 菜豆",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.20",
+    "salesPrice": "$4.00",
     "indent": false
   },
   {
@@ -272,7 +272,7 @@
   {
     "productName": "Bittergourd 苦瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.70",
+    "salesPrice": "$3.00",
     "indent": false
   },
   {
@@ -308,7 +308,7 @@
   {
     "productName": "Broccoli 西兰花",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.50",
+    "salesPrice": "$3.80",
     "indent": false
   },
   {
@@ -404,7 +404,7 @@
   {
     "productName": "Celery Australian 澳洲西芹",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.70",
+    "salesPrice": "$3.30",
     "indent": false
   },
   {
@@ -980,7 +980,7 @@
   {
     "productName": "Kailan Hong Kong 香港芥兰",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.40",
+    "salesPrice": "$4.00",
     "indent": false
   },
   {
@@ -1190,7 +1190,7 @@
   {
     "productName": "Mango Thai Milk 泰国牛奶芒果",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.90",
+    "salesPrice": "$4.30",
     "indent": false
   },
   {
@@ -1512,7 +1512,7 @@
     "indent": false
   },
   {
-    "productName": "Pear Nam Shui 南水梨 24-28PCS",
+    "productName": "Pear Nam Shui 南水梨 24/28/36PCS",
     "unitOfMeasure": "/CTN",
     "salesPrice": "$45.00",
     "indent": false
@@ -1524,9 +1524,9 @@
     "indent": false
   },
   {
-    "productName": "Pear Packham 青啤梨 70/90PCS",
+    "productName": "Pear Packham 青啤梨 45/48/52PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$45.00",
+    "salesPrice": "$30.00",
     "indent": false
   },
   {
@@ -1724,7 +1724,7 @@
   {
     "productName": "Potatoes Sweet Orange 红心番薯",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.30",
+    "salesPrice": "$3.50",
     "indent": false
   },
   {
