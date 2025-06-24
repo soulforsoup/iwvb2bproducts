@@ -404,7 +404,7 @@
   {
     "productName": "Celery Australian 澳洲西芹",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.70",
+    "salesPrice": "$3.30",
     "indent": false
   },
   {
@@ -1190,7 +1190,7 @@
   {
     "productName": "Mango Thai Milk 泰国牛奶芒果",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.90",
+    "salesPrice": "$4.30",
     "indent": false
   },
   {
@@ -1512,7 +1512,7 @@
     "indent": false
   },
   {
-    "productName": "Pear Nam Shui 南水梨 24-28PCS",
+    "productName": "Pear Nam Shui 南水梨 24/28/36PCS",
     "unitOfMeasure": "/CTN",
     "salesPrice": "$45.00",
     "indent": false
@@ -1524,9 +1524,9 @@
     "indent": false
   },
   {
-    "productName": "Pear Packham 青啤梨 70/90PCS",
+    "productName": "Pear Packham 青啤梨 45/48/52PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$45.00",
+    "salesPrice": "$30.00",
     "indent": false
   },
   {
