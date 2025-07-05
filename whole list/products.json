@@ -452,7 +452,7 @@
   {
     "productName": "Chili Green 青辣椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$7.20",
+    "salesPrice": "$6.80",
     "indent": false
   },
   {
@@ -873,7 +873,7 @@
     "productName": "Herb Arugula Australian 澳洲火箭菜",
     "unitOfMeasure": "/KG",
     "salesPrice": "$21.00",
-    "indent": false
+    "indent": true
   },
   {
     "productName": "Herb Arugula Cameron Highlands 金马伦火箭菜",
@@ -1530,6 +1530,12 @@
     "indent": false
   },
   {
+    "productName": "Pear Packham 青啤梨 70/90PCS",
+    "unitOfMeasure": "/CTN",
+    "salesPrice": "$40.00",
+    "indent": false
+  },
+  {
     "productName": "Pear Xin Gao 新高梨",
     "unitOfMeasure": "/PCS",
     "salesPrice": "$1.30",
@@ -1632,13 +1638,19 @@
     "indent": false
   },
   {
-    "productName": "Pisang Berangan",
+    "productName": "Pisang Berangan 红肉蕉",
     "unitOfMeasure": "/KG",
     "salesPrice": "$2.80",
     "indent": false
   },
   {
-    "productName": "Pisang Raja",
+    "productName": "Pisang Raja 国王蕉",
+    "unitOfMeasure": "/KG",
+    "salesPrice": "$3.20",
+    "indent": false
+  },
+  {
+    "productName": "Pisang Raja Udang 红香蕉",
     "unitOfMeasure": "/KG",
     "salesPrice": "$3.20",
     "indent": false
