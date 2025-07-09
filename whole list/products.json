@@ -50,7 +50,7 @@
   {
     "productName": "Apple Green 青苹果",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$0.45",
+    "salesPrice": "$0.50",
     "indent": false
   },
   {
@@ -236,7 +236,7 @@
   {
     "productName": "Bean Long 菜豆",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.50",
+    "salesPrice": "$4.80",
     "indent": false
   },
   {
@@ -452,7 +452,7 @@
   {
     "productName": "Chili Green 青辣椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$6.80",
+    "salesPrice": "$7.00",
     "indent": false
   },
   {
@@ -482,7 +482,7 @@
   {
     "productName": "Chili Red 红辣椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$7.90",
+    "salesPrice": "$8.50",
     "indent": false
   },
   {
@@ -578,7 +578,7 @@
   {
     "productName": "Cucumber Local 本地青瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$1.30",
+    "salesPrice": "$1.40",
     "indent": false
   },
   {
@@ -716,7 +716,7 @@
   {
     "productName": "Garlic Shoot 蒜花",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.60",
+    "salesPrice": "$5.00",
     "indent": false
   },
   {
@@ -980,7 +980,7 @@
   {
     "productName": "Kailan Hong Kong 香港芥兰",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.00",
+    "salesPrice": "$3.50",
     "indent": false
   },
   {
@@ -1244,7 +1244,7 @@
   {
     "productName": "Mushroom Hon-Shimeji Brown 黑玉菇 150G",
     "unitOfMeasure": "/PKT",
-    "salesPrice": "$0.80",
+    "salesPrice": "$0.70",
     "indent": false
   },
   {
@@ -1688,7 +1688,7 @@
   {
     "productName": "Potato Russet USA 美国马铃薯",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.30",
+    "salesPrice": "$2.50",
     "indent": false
   },
   {
@@ -1748,7 +1748,7 @@
   {
     "productName": "Potatoes White Washed Australia 澳洲白马铃薯",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.90",
+    "salesPrice": "$3.10",
     "indent": false
   },
   {
