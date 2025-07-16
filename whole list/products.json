@@ -128,7 +128,7 @@
   {
     "productName": "Avocados Hass Australian 澳洲牛油果 25-30PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$43.00",
+    "salesPrice": "$46.00",
     "indent": false
   },
   {
@@ -1341,6 +1341,12 @@
     "productName": "Onion Yellow 黄洋葱",
     "unitOfMeasure": "/KG",
     "salesPrice": "$1.40",
+    "indent": false
+  },
+  {
+    "productName": "Onion Yellow Australian 澳洲黄洋葱",
+    "unitOfMeasure": "/KG",
+    "salesPrice": "$1.50",
     "indent": false
   },
   {
