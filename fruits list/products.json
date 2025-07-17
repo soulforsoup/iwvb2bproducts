@@ -92,13 +92,13 @@
   {
     "productName": "Avocados Hass Australian 澳洲牛油果",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$1.70",
+    "salesPrice": "$1.80",
     "indent": false
   },
   {
     "productName": "Avocados Hass Australian 澳洲牛油果 25-30PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$46.00",
+    "salesPrice": "$49.00",
     "indent": false
   },
   {
@@ -446,7 +446,7 @@
   {
     "productName": "Melon Rock 哈密瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.90",
+    "salesPrice": "$3.80",
     "indent": false
   },
   {
@@ -746,7 +746,7 @@
   {
     "productName": "Watermelon 西瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$1.60",
+    "salesPrice": "$1.80",
     "indent": false
   }
 ]

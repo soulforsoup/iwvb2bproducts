@@ -122,13 +122,13 @@
   {
     "productName": "Avocados Hass Australian 澳洲牛油果",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$1.70",
+    "salesPrice": "$1.80",
     "indent": false
   },
   {
     "productName": "Avocados Hass Australian 澳洲牛油果 25-30PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$46.00",
+    "salesPrice": "$49.00",
     "indent": false
   },
   {
@@ -236,7 +236,7 @@
   {
     "productName": "Bean Long 菜豆",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.60",
+    "salesPrice": "$3.10",
     "indent": false
   },
   {
@@ -416,13 +416,13 @@
   {
     "productName": "Celery Chinese 芹菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.90",
+    "salesPrice": "$4.60",
     "indent": false
   },
   {
     "productName": "Celery English 西芹",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.10",
+    "salesPrice": "$2.50",
     "indent": false
   },
   {
@@ -452,7 +452,7 @@
   {
     "productName": "Chili Green 青辣椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$6.20",
+    "salesPrice": "$5.70",
     "indent": false
   },
   {
@@ -470,19 +470,19 @@
   {
     "productName": "Chili Padi Red Stemless 去头红米椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$6.50",
+    "salesPrice": "$6.40",
     "indent": false
   },
   {
     "productName": "Chili Padi Red 红米椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.50",
+    "salesPrice": "$5.40",
     "indent": false
   },
   {
     "productName": "Chili Red 红辣椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$7.50",
+    "salesPrice": "$6.80",
     "indent": false
   },
   {
@@ -1076,7 +1076,7 @@
   {
     "productName": "Leek Green 青蒜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.00",
+    "salesPrice": "$3.30",
     "indent": false
   },
   {
@@ -1214,7 +1214,7 @@
   {
     "productName": "Melon Rock 哈密瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.90",
+    "salesPrice": "$3.80",
     "indent": false
   },
   {
@@ -1616,7 +1616,7 @@
   {
     "productName": "Petai 臭豆 120G",
     "unitOfMeasure": "/PKT",
-    "salesPrice": "$6.50",
+    "salesPrice": "$6.10",
     "indent": false
   },
   {
@@ -2078,7 +2078,7 @@
   {
     "productName": "Watermelon 西瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$1.60",
+    "salesPrice": "$1.80",
     "indent": false
   },
   {
