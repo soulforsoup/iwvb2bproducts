@@ -272,7 +272,7 @@
   {
     "productName": "Bittergourd 苦瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.20",
+    "salesPrice": "$3.50",
     "indent": false
   },
   {
@@ -662,7 +662,7 @@
   {
     "productName": "Eggplant Pearl 珍珠红茄",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.00",
+    "salesPrice": "$3.50",
     "indent": false
   },
   {
@@ -1262,7 +1262,7 @@
   {
     "productName": "Mushroom King Oyster 小杏鲍菇 200G",
     "unitOfMeasure": "/PKT",
-    "salesPrice": "$1.00",
+    "salesPrice": "$0.90",
     "indent": false
   },
   {
@@ -1556,13 +1556,13 @@
   {
     "productName": "Peas Snow 荷兰豆 100G",
     "unitOfMeasure": "/PKT",
-    "salesPrice": "$1.20",
+    "salesPrice": "$1.35",
     "indent": false
   },
   {
     "productName": "Peas Sweet 甜豆 100G",
     "unitOfMeasure": "/PKT",
-    "salesPrice": "$1.30",
+    "salesPrice": "$1.50",
     "indent": false
   },
   {
@@ -1766,7 +1766,7 @@
   {
     "productName": "Pumpkin Mini 贝贝南瓜",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$2.00",
+    "salesPrice": "$1.70",
     "indent": true
   },
   {
@@ -1856,7 +1856,7 @@
   {
     "productName": "Shallot 小葱头",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.50",
+    "salesPrice": "$3.90",
     "indent": false
   },
   {
