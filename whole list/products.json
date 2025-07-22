@@ -308,7 +308,7 @@
   {
     "productName": "Broccoli 西兰花",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.50",
+    "salesPrice": "$3.80",
     "indent": false
   },
   {
@@ -338,7 +338,7 @@
   {
     "productName": "Cabbage Round 印尼包菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$1.30",
+    "salesPrice": "$1.40",
     "indent": false
   },
   {
@@ -734,7 +734,7 @@
   {
     "productName": "Ginger Flower 姜花",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$1.20",
+    "salesPrice": "$1.00",
     "indent": false
   },
   {
@@ -890,7 +890,7 @@
   {
     "productName": "Herb Coriander Thai 泰国芫茜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$9.90",
+    "salesPrice": "$8.00",
     "indent": false
   },
   {
@@ -1274,7 +1274,7 @@
   {
     "productName": "Mushroom Seafood 海鲜菇 150G",
     "unitOfMeasure": "/PKT",
-    "salesPrice": "$0.90",
+    "salesPrice": "$0.80",
     "indent": false
   },
   {
@@ -1328,7 +1328,7 @@
   {
     "productName": "Onion Spring 青葱",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$6.50",
+    "salesPrice": "$5.80",
     "indent": false
   },
   {
