@@ -236,7 +236,7 @@
   {
     "productName": "Bean Long 菜豆",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.90",
+    "salesPrice": "$3.50",
     "indent": false
   },
   {
@@ -386,7 +386,7 @@
   {
     "productName": "Cauliflower China 散菜花",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.90",
+    "salesPrice": "$4.20",
     "indent": false
   },
   {
@@ -416,7 +416,7 @@
   {
     "productName": "Celery Chinese 芹菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.60",
+    "salesPrice": "$3.80",
     "indent": false
   },
   {
@@ -458,13 +458,13 @@
   {
     "productName": "Chili Padi Green Stemless 去头青米椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$8.50",
+    "salesPrice": "$7.50",
     "indent": false
   },
   {
     "productName": "Chili Padi Green 青米椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$6.50",
+    "salesPrice": "$5.50",
     "indent": false
   },
   {
@@ -482,7 +482,7 @@
   {
     "productName": "Chili Red 红辣椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$6.80",
+    "salesPrice": "$5.90",
     "indent": false
   },
   {
@@ -974,19 +974,19 @@
   {
     "productName": "Kailan Baby 芥兰仔 150G",
     "unitOfMeasure": "/PKT",
-    "salesPrice": "$1.10",
+    "salesPrice": "$1.00",
     "indent": false
   },
   {
     "productName": "Kailan Hong Kong 香港芥兰",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.50",
+    "salesPrice": "$4.20",
     "indent": false
   },
   {
     "productName": "Kale 羽衣甘兰",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$9.50",
+    "salesPrice": "$10.50",
     "indent": false
   },
   {
@@ -1298,7 +1298,7 @@
   {
     "productName": "Nai Bai 奶白",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$6.00",
+    "salesPrice": "$6.50",
     "indent": false
   },
   {
@@ -1760,7 +1760,7 @@
   {
     "productName": "Pumpkin Local 本地金瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.20",
+    "salesPrice": "$1.60",
     "indent": false
   },
   {
