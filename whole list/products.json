@@ -416,7 +416,7 @@
   {
     "productName": "Celery Chinese 芹菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.80",
+    "salesPrice": "$4.50",
     "indent": false
   },
   {
@@ -428,7 +428,7 @@
   {
     "productName": "Celtuce 莴笋",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.60",
+    "salesPrice": "$3.40",
     "indent": false
   },
   {
@@ -482,7 +482,7 @@
   {
     "productName": "Chili Red 红辣椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.90",
+    "salesPrice": "$6.80",
     "indent": false
   },
   {
@@ -728,7 +728,7 @@
   {
     "productName": "Garlic 蒜头",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.80",
+    "salesPrice": "$5.80",
     "indent": false
   },
   {
@@ -758,7 +758,7 @@
   {
     "productName": "Ginger Peeled 姜肉 500G",
     "unitOfMeasure": "/PKT",
-    "salesPrice": "$3.80",
+    "salesPrice": "$3.50",
     "indent": false
   },
   {
@@ -896,7 +896,7 @@
   {
     "productName": "Herb Coriander Thai 泰国芫茜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$8.00",
+    "salesPrice": "$7.00",
     "indent": false
   },
   {
@@ -938,7 +938,7 @@
   {
     "productName": "Herb Parsley English 西芫茜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$8.00",
+    "salesPrice": "$7.50",
     "indent": false
   },
   {
@@ -1628,7 +1628,7 @@
   {
     "productName": "Pepper Sheep Horn 羊角椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.90",
+    "salesPrice": "$5.50",
     "indent": false
   },
   {
