@@ -12,21 +12,15 @@
     "indent": false
   },
   {
-    "productName": "Apple China Fuji 中国富士苹果 88/100/113PCS",
-    "unitOfMeasure": "/CTN",
-    "salesPrice": "$46.00",
-    "indent": false
-  },
-  {
-    "productName": "Apple China Fuji 中国富士苹果 72/80PCS",
+    "productName": "Apple China Fuji 中国富士苹果 56/64/72PCS",
     "unitOfMeasure": "/CTN",
     "salesPrice": "$56.00",
     "indent": false
   },
   {
-    "productName": "Apple Envy New Zealand XL Size 爱妃新西兰苹果 30PCS",
+    "productName": "Apple China Fuji 中国富士苹果 88/100/113PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$88.00",
+    "salesPrice": "$46.00",
     "indent": false
   },
   {
@@ -36,15 +30,21 @@
     "indent": false
   },
   {
-    "productName": "Apple Envy New Zealand 爱妃新西兰苹果 (XL) Size",
-    "unitOfMeasure": "/PCS",
-    "salesPrice": "$3.10",
+    "productName": "Apple Envy New Zealand XL Size 爱妃新西兰苹果 30PCS",
+    "unitOfMeasure": "/CTN",
+    "salesPrice": "$88.00",
     "indent": false
   },
   {
     "productName": "Apple Envy New Zealand 爱妃新西兰苹果 (L) Size",
     "unitOfMeasure": "/PCS",
     "salesPrice": "$2.20",
+    "indent": false
+  },
+  {
+    "productName": "Apple Envy New Zealand 爱妃新西兰苹果 (XL) Size",
+    "unitOfMeasure": "/PCS",
+    "salesPrice": "$3.10",
     "indent": false
   },
   {
@@ -92,13 +92,13 @@
   {
     "productName": "Asparagus Green 青芦笋",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$17.00",
+    "salesPrice": "$17.90",
     "indent": false
   },
   {
     "productName": "Asparagus Green 青芦笋 5KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$80.00",
+    "salesPrice": "$84.50",
     "indent": false
   },
   {
@@ -482,7 +482,7 @@
   {
     "productName": "Chili Red 红辣椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$7.00",
+    "salesPrice": "$7.50",
     "indent": false
   },
   {
@@ -648,15 +648,15 @@
     "indent": false
   },
   {
-    "productName": "Egg 鸡蛋 Grade AAA 20PCS",
-    "unitOfMeasure": "/TRAY",
-    "salesPrice": "$7.30",
-    "indent": false
-  },
-  {
     "productName": "Egg 鸡蛋 Grade AA 30PCS",
     "unitOfMeasure": "/TRAY",
     "salesPrice": "$9.90",
+    "indent": false
+  },
+  {
+    "productName": "Egg 鸡蛋 Grade AAA 20PCS",
+    "unitOfMeasure": "/TRAY",
+    "salesPrice": "$7.30",
     "indent": false
   },
   {
@@ -986,7 +986,7 @@
   {
     "productName": "Kailan Hong Kong 香港芥兰",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.20",
+    "salesPrice": "$5.00",
     "indent": false
   },
   {
@@ -1356,18 +1356,6 @@
     "indent": false
   },
   {
-    "productName": "Onion Yellow 黄洋葱",
-    "unitOfMeasure": "/KG",
-    "salesPrice": "$1.30",
-    "indent": false
-  },
-  {
-    "productName": "Onion Yellow 黄洋葱 10KG",
-    "unitOfMeasure": "/SACK",
-    "salesPrice": "$11.00",
-    "indent": false
-  },
-  {
     "productName": "Onion Yellow Australian 澳洲黄洋葱",
     "unitOfMeasure": "/KG",
     "salesPrice": "$1.50",
@@ -1377,6 +1365,18 @@
     "productName": "Onion Yellow Australian 澳洲黄洋葱 15KG",
     "unitOfMeasure": "/SACK",
     "salesPrice": "$19.50",
+    "indent": false
+  },
+  {
+    "productName": "Onion Yellow 黄洋葱",
+    "unitOfMeasure": "/KG",
+    "salesPrice": "$1.30",
+    "indent": false
+  },
+  {
+    "productName": "Onion Yellow 黄洋葱 10KG",
+    "unitOfMeasure": "/SACK",
+    "salesPrice": "$11.00",
     "indent": false
   },
   {
@@ -1680,13 +1680,13 @@
     "indent": false
   },
   {
-    "productName": "Pisang Raja 国王蕉",
+    "productName": "Pisang Raja Udang 红香蕉",
     "unitOfMeasure": "/KG",
     "salesPrice": "$3.20",
     "indent": false
   },
   {
-    "productName": "Pisang Raja Udang 红香蕉",
+    "productName": "Pisang Raja 国王蕉",
     "unitOfMeasure": "/KG",
     "salesPrice": "$3.20",
     "indent": false
@@ -1892,7 +1892,7 @@
   {
     "productName": "Shanghai Green 上海青",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.60",
+    "salesPrice": "$4.00",
     "indent": false
   },
   {
