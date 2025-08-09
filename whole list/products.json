@@ -236,7 +236,7 @@
   {
     "productName": "Bean Long 菜豆",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.50",
+    "salesPrice": "$4.00",
     "indent": false
   },
   {
@@ -416,7 +416,7 @@
   {
     "productName": "Celery Chinese 芹菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.50",
+    "salesPrice": "$4.00",
     "indent": false
   },
   {
@@ -470,7 +470,7 @@
   {
     "productName": "Chili Padi Red Stemless 去头红米椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.50",
+    "salesPrice": "$6.50",
     "indent": false
   },
   {
@@ -588,12 +588,6 @@
     "indent": false
   },
   {
-    "productName": "Dou Miao 豆苗",
-    "unitOfMeasure": "/KG",
-    "salesPrice": "$6.40",
-    "indent": false
-  },
-  {
     "productName": "Dragon Fruit Red 红肉火龙果",
     "unitOfMeasure": "/KG",
     "salesPrice": "$3.50",
@@ -638,7 +632,7 @@
   {
     "productName": "Egg Quail Boiled 50PCS",
     "unitOfMeasure": "/CAN",
-    "salesPrice": "$5.50",
+    "salesPrice": "#N/A",
     "indent": false
   },
   {
@@ -708,6 +702,12 @@
     "indent": false
   },
   {
+    "productName": "Garlic Clove 蒜瓣",
+    "unitOfMeasure": "/KG",
+    "salesPrice": "$5.80",
+    "indent": false
+  },
+  {
     "productName": "Garlic Peeled Malaysia 马来西亚去皮蒜 1KG",
     "unitOfMeasure": "/KG",
     "salesPrice": "$4.20",
@@ -723,12 +723,6 @@
     "productName": "Garlic Shoot 蒜花",
     "unitOfMeasure": "/KG",
     "salesPrice": "$5.00",
-    "indent": false
-  },
-  {
-    "productName": "Garlic 蒜头",
-    "unitOfMeasure": "/KG",
-    "salesPrice": "$5.80",
     "indent": false
   },
   {
@@ -1160,7 +1154,7 @@
   {
     "productName": "Mango Green 青芒果",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.50",
+    "salesPrice": "$4.00",
     "indent": false
   },
   {
@@ -1424,7 +1418,7 @@
   {
     "productName": "Orange Navel/Valencia 橙 (L) Size",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$1.20",
+    "salesPrice": "$1.00",
     "indent": false
   },
   {
@@ -1460,7 +1454,7 @@
   {
     "productName": "Papaya Dole 多尔木瓜 7-10PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$30.00",
+    "salesPrice": "#N/A",
     "indent": false
   },
   {
@@ -1485,6 +1479,12 @@
     "productName": "Passionfruit 百香果",
     "unitOfMeasure": "/KG",
     "salesPrice": "$6.50",
+    "indent": false
+  },
+  {
+    "productName": "Pea Shoots 豆苗",
+    "unitOfMeasure": "/KG",
+    "salesPrice": "$6.40",
     "indent": false
   },
   {
@@ -2162,7 +2162,7 @@
   {
     "productName": "Zucchini Yellow 黄西葫芦",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.50",
+    "salesPrice": "$4.00",
     "indent": false
   }
 ]
