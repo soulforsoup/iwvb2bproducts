@@ -258,6 +258,12 @@
     "indent": false
   },
   {
+    "productName": "Bean Winged 四方豆",
+    "unitOfMeasure": "/KG",
+    "salesPrice": "$6.50",
+    "indent": false
+  },
+  {
     "productName": "Beancurd Skin 豆腐皮 500G",
     "unitOfMeasure": "/PKT",
     "salesPrice": "$3.50",
@@ -630,9 +636,9 @@
     "indent": false
   },
   {
-    "productName": "Egg Quail Boiled 50PCS",
+    "productName": "Egg Quail Boiled 鹌鹑蛋 50PCS",
     "unitOfMeasure": "/CAN",
-    "salesPrice": "#N/A",
+    "salesPrice": "$5.50",
     "indent": false
   },
   {
@@ -777,6 +783,12 @@
     "productName": "Gourd Hairy 毛瓜",
     "unitOfMeasure": "/KG",
     "salesPrice": "$1.90",
+    "indent": false
+  },
+  {
+    "productName": "Gourd Snake 蛇瓜",
+    "unitOfMeasure": "/KG",
+    "salesPrice": "$1.40",
     "indent": false
   },
   {
@@ -1356,9 +1368,9 @@
     "indent": false
   },
   {
-    "productName": "Onion Yellow Australian 澳洲黄洋葱 15KG",
+    "productName": "Onion Yellow Australian 澳洲黄洋葱 20KG",
     "unitOfMeasure": "/SACK",
-    "salesPrice": "$19.50",
+    "salesPrice": "$25.00",
     "indent": false
   },
   {
@@ -1436,7 +1448,7 @@
   {
     "productName": "Orange Navel/Valencia 橙 45/50/55PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$51.00",
+    "salesPrice": "$40.00",
     "indent": false
   },
   {
@@ -1452,9 +1464,9 @@
     "indent": false
   },
   {
-    "productName": "Papaya Dole 多尔木瓜 7-10PCS",
+    "productName": "Papaya Dole 多尔木瓜 8-10PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "#N/A",
+    "salesPrice": "$30.00",
     "indent": false
   },
   {
@@ -1584,13 +1596,13 @@
     "indent": false
   },
   {
-    "productName": "Peas Snow 荷兰豆 100G",
+    "productName": "Peas Snow 荷兰豆 130G",
     "unitOfMeasure": "/PKT",
     "salesPrice": "$1.35",
     "indent": false
   },
   {
-    "productName": "Peas Sweet 甜豆 100G",
+    "productName": "Peas Sweet 甜豆 130G",
     "unitOfMeasure": "/PKT",
     "salesPrice": "$1.80",
     "indent": false
@@ -1680,7 +1692,7 @@
     "indent": false
   },
   {
-    "productName": "Pisang Raja Udang 红香蕉",
+    "productName": "Pisang Raja Udang Merah 红香蕉",
     "unitOfMeasure": "/KG",
     "salesPrice": "$3.20",
     "indent": false
@@ -1908,12 +1920,6 @@
     "indent": false
   },
   {
-    "productName": "Snakegourd 蛇瓜",
-    "unitOfMeasure": "/KG",
-    "salesPrice": "$1.40",
-    "indent": false
-  },
-  {
     "productName": "Sorrel Red Veined 红脉酸模 9x125G",
     "unitOfMeasure": "/CTN",
     "salesPrice": "$46.00",
@@ -2054,7 +2060,7 @@
   {
     "productName": "Tofu Silken Fortune 板豆腐盒",
     "unitOfMeasure": "/BOX",
-    "salesPrice": "$0.95",
+    "salesPrice": "#N/A",
     "indent": false
   },
   {
@@ -2118,7 +2124,7 @@
     "indent": false
   },
   {
-    "productName": "Wawa Cai 娃娃菜 400G",
+    "productName": "Wawa Cai 娃娃菜 300G",
     "unitOfMeasure": "/PKT",
     "salesPrice": "$1.55",
     "indent": false
