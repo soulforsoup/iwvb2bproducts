@@ -236,7 +236,7 @@
   {
     "productName": "Bean Long 菜豆",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.00",
+    "salesPrice": "$3.70",
     "indent": false
   },
   {
@@ -278,7 +278,7 @@
   {
     "productName": "Bittergourd 苦瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.90",
+    "salesPrice": "$2.50",
     "indent": false
   },
   {
@@ -398,7 +398,7 @@
   {
     "productName": "Cauliflower 菜花",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.50",
+    "salesPrice": "$2.80",
     "indent": false
   },
   {
@@ -572,13 +572,13 @@
   {
     "productName": "Cucumber Japanese 日本青瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.00",
+    "salesPrice": "$2.60",
     "indent": false
   },
   {
     "productName": "Cucumber Japanese 日本青瓜 10KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$17.00",
+    "salesPrice": "$23.00",
     "indent": false
   },
   {
@@ -590,7 +590,7 @@
   {
     "productName": "Cucumber Old 老黄瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.00",
+    "salesPrice": "$2.80",
     "indent": false
   },
   {
@@ -674,7 +674,7 @@
   {
     "productName": "Eggplant Thai 泰国青圆茄",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.40",
+    "salesPrice": "$3.90",
     "indent": false
   },
   {
@@ -764,7 +764,7 @@
   {
     "productName": "Ginger Yellow 黄姜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.00",
+    "salesPrice": "$3.60",
     "indent": false
   },
   {
@@ -776,7 +776,7 @@
   {
     "productName": "Gourd Angled 角瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.50",
+    "salesPrice": "$2.80",
     "indent": false
   },
   {
@@ -1088,7 +1088,7 @@
   {
     "productName": "Leek Green 青蒜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.50",
+    "salesPrice": "$3.80",
     "indent": false
   },
   {
@@ -1106,7 +1106,7 @@
   {
     "productName": "Lemon 柠檬 80/88/100/113PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$51.00",
+    "salesPrice": "$52.00",
     "indent": false
   },
   {
@@ -1622,7 +1622,7 @@
   {
     "productName": "Pepper Bell Yellow 黄灯笼椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.50",
+    "salesPrice": "$6.00",
     "indent": false
   },
   {
