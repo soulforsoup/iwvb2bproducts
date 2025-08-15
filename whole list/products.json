@@ -236,7 +236,7 @@
   {
     "productName": "Bean Long 菜豆",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.70",
+    "salesPrice": "$4.80",
     "indent": false
   },
   {
@@ -710,7 +710,13 @@
   {
     "productName": "Garlic Clove 蒜瓣",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.80",
+    "salesPrice": "$3.50",
+    "indent": false
+  },
+  {
+    "productName": "Garlic Clove 蒜瓣 2.5KG",
+    "unitOfMeasure": "/SACK",
+    "salesPrice": "$7.80",
     "indent": false
   },
   {
@@ -722,7 +728,7 @@
   {
     "productName": "Garlic Peeled 真空蒜肉 700G",
     "unitOfMeasure": "/PKT",
-    "salesPrice": "$3.20",
+    "salesPrice": "$3.00",
     "indent": false
   },
   {
@@ -867,6 +873,12 @@
     "productName": "Grapes Red Seedless 无籽红葡萄 5KG",
     "unitOfMeasure": "/CTN",
     "salesPrice": "$34.00",
+    "indent": false
+  },
+  {
+    "productName": "Grapes Candy Snaps Red Seedless 糖果脆葡萄",
+    "unitOfMeasure": "/KG",
+    "salesPrice": "$11.00",
     "indent": false
   },
   {
@@ -1134,7 +1146,7 @@
     "indent": false
   },
   {
-    "productName": "Lettuce Romaine 罗门生菜",
+    "productName": "Lettuce Baby Romaine 罗门生菜仔",
     "unitOfMeasure": "/KG",
     "salesPrice": "$4.00",
     "indent": false
@@ -1166,7 +1178,7 @@
   {
     "productName": "Mango Green 青芒果",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.00",
+    "salesPrice": "$4.80",
     "indent": false
   },
   {
@@ -1292,7 +1304,7 @@
   {
     "productName": "Mushroom Seafood 海鲜菇 150G",
     "unitOfMeasure": "/PKT",
-    "salesPrice": "$0.80",
+    "salesPrice": "$0.70",
     "indent": false
   },
   {
@@ -1376,7 +1388,7 @@
   {
     "productName": "Onion Yellow 黄洋葱",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$1.30",
+    "salesPrice": "$1.40",
     "indent": false
   },
   {
@@ -1604,7 +1616,7 @@
   {
     "productName": "Peas Sweet 甜豆 130G",
     "unitOfMeasure": "/PKT",
-    "salesPrice": "$1.80",
+    "salesPrice": "$1.40",
     "indent": false
   },
   {
@@ -2058,9 +2070,9 @@
     "indent": false
   },
   {
-    "productName": "Tofu Silken Fortune 板豆腐盒",
+    "productName": "Tofu Silken Fortune 豆腐盒",
     "unitOfMeasure": "/BOX",
-    "salesPrice": "#N/A",
+    "salesPrice": "$0.95",
     "indent": false
   },
   {
