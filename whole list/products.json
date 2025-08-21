@@ -92,13 +92,13 @@
   {
     "productName": "Asparagus Green 青芦笋",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$18.50",
+    "salesPrice": "$19.00",
     "indent": false
   },
   {
     "productName": "Asparagus Green 青芦笋 5KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$87.50",
+    "salesPrice": "$92.00",
     "indent": false
   },
   {
@@ -512,13 +512,13 @@
   {
     "productName": "Chye Sim Cameron 金马伦菜芯",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.40",
+    "salesPrice": "$2.20",
     "indent": false
   },
   {
     "productName": "Chye Sim Hong Kong 香港菜心",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.20",
+    "salesPrice": "$4.90",
     "indent": false
   },
   {
@@ -584,7 +584,7 @@
   {
     "productName": "Cucumber Local 本地青瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$1.40",
+    "salesPrice": "$1.20",
     "indent": false
   },
   {
