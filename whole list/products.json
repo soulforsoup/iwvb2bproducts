@@ -1920,15 +1920,27 @@
     "indent": false
   },
   {
-    "productName": "Shine Muscat 阳光玫瑰",
+    "productName": "Shine Muscat China 中国阳光玫瑰",
     "unitOfMeasure": "/KG",
     "salesPrice": "$6.00",
     "indent": false
   },
   {
-    "productName": "Shine Muscat 阳光玫瑰 5KG",
+    "productName": "Shine Muscat China 中国阳光玫瑰 5KG",
     "unitOfMeasure": "/CTN",
     "salesPrice": "$26.00",
+    "indent": false
+  },
+  {
+    "productName": "Shine Muscat Korea 韩国阳光玫瑰",
+    "unitOfMeasure": "/KG",
+    "salesPrice": "$19.90",
+    "indent": false
+  },
+  {
+    "productName": "Shine Muscat Korea 韩国阳光玫瑰 2KG",
+    "unitOfMeasure": "/CTN",
+    "salesPrice": "$55.00",
     "indent": false
   },
   {
