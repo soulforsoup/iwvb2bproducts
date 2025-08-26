@@ -2,7 +2,7 @@
   {
     "productName": "Apple China Fuji 中国富士苹果 (L) Size",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$0.90",
+    "salesPrice": "$1.15",
     "indent": false
   },
   {
@@ -14,7 +14,7 @@
   {
     "productName": "Apple China Fuji 中国富士苹果 56/64/72PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$56.00",
+    "salesPrice": "$52.00",
     "indent": false
   },
   {
@@ -92,13 +92,13 @@
   {
     "productName": "Asparagus Green 青芦笋",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$19.00",
+    "salesPrice": "$19.50",
     "indent": false
   },
   {
     "productName": "Asparagus Green 青芦笋 5KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$92.00",
+    "salesPrice": "$94.50",
     "indent": false
   },
   {
@@ -392,7 +392,7 @@
   {
     "productName": "Cauliflower China 散菜花",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.90",
+    "salesPrice": "$4.50",
     "indent": false
   },
   {
@@ -1004,7 +1004,7 @@
   {
     "productName": "Kailan Hong Kong 香港芥兰",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.20",
+    "salesPrice": "$4.90",
     "indent": false
   },
   {
@@ -1052,7 +1052,7 @@
   {
     "productName": "Lady's Finger 角豆",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.90",
+    "salesPrice": "$2.50",
     "indent": false
   },
   {
