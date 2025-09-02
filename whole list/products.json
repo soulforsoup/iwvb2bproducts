@@ -218,7 +218,7 @@
   {
     "productName": "Bean French Baby 四季豆苗 150G",
     "unitOfMeasure": "/PKT",
-    "salesPrice": "$1.25",
+    "salesPrice": "$1.30",
     "indent": false
   },
   {
@@ -308,7 +308,7 @@
   {
     "productName": "Blueberries 蓝莓 12x125G",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$38.00",
+    "salesPrice": "$37.00",
     "indent": false
   },
   {
@@ -1034,7 +1034,7 @@
   {
     "productName": "Kiwifruit Green Zespri 佳沛青奇异果",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$1.30",
+    "salesPrice": "$1.20",
     "indent": false
   },
   {
@@ -1472,7 +1472,7 @@
   {
     "productName": "Papaya Dole 多尔木瓜",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$3.80",
+    "salesPrice": "$3.60",
     "indent": false
   },
   {
@@ -1640,7 +1640,7 @@
   {
     "productName": "Pepper Green Screw 螺丝椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.90",
+    "salesPrice": "$4.60",
     "indent": false
   },
   {
@@ -1694,7 +1694,7 @@
   {
     "productName": "Pineapple Sunpride/Del Monte/Dole 蜜糖黄梨",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$5.00",
+    "salesPrice": "$5.90",
     "indent": false
   },
   {
@@ -1838,7 +1838,7 @@
   {
     "productName": "Radish Green 青萝卜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$1.70",
+    "salesPrice": "$1.50",
     "indent": false
   },
   {
@@ -1928,7 +1928,7 @@
   {
     "productName": "Shine Muscat China 中国阳光玫瑰 5KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$26.00",
+    "salesPrice": "$24.00",
     "indent": false
   },
   {
@@ -2028,9 +2028,21 @@
     "indent": false
   },
   {
+    "productName": "Strawberries USA/AUS/SF/EGY 美国/澳洲/非洲/埃及草莓 250Gx12/15/16",
+    "unitOfMeasure": "/CTN",
+    "salesPrice": "$58.00",
+    "indent": false
+  },
+  {
     "productName": "Strawberries USA/AUS/SF/EGY 美国/澳洲/非洲/埃及草莓 500G",
     "unitOfMeasure": "/BOX",
     "salesPrice": "$9.00",
+    "indent": false
+  },
+  {
+    "productName": "Strawberries USA 美国草莓 500Gx8",
+    "unitOfMeasure": "/CTN",
+    "salesPrice": "$62.00",
     "indent": false
   },
   {
