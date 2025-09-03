@@ -290,13 +290,13 @@
   {
     "productName": "Blueberries Jumbo Premium 优质蓝莓珍宝 150G",
     "unitOfMeasure": "/PUN",
-    "salesPrice": "$5.20",
+    "salesPrice": "$4.90",
     "indent": false
   },
   {
     "productName": "Blueberries Jumbo 蓝莓珍宝 125G",
     "unitOfMeasure": "/PUN",
-    "salesPrice": "$4.10",
+    "salesPrice": "$3.90",
     "indent": false
   },
   {
@@ -734,7 +734,7 @@
   {
     "productName": "Garlic Shoot 蒜花",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.40",
+    "salesPrice": "$4.90",
     "indent": false
   },
   {
@@ -1652,7 +1652,7 @@
   {
     "productName": "Pepper Sheep Horn 羊角椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.50",
+    "salesPrice": "$4.80",
     "indent": false
   },
   {
@@ -1922,7 +1922,7 @@
   {
     "productName": "Shine Muscat China 中国阳光玫瑰",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$6.00",
+    "salesPrice": "$5.50",
     "indent": false
   },
   {
@@ -2024,7 +2024,7 @@
   {
     "productName": "Strawberries USA/AUS/SF/EGY 美国/澳洲/非洲/埃及草莓 250G",
     "unitOfMeasure": "/BOX",
-    "salesPrice": "$4.50",
+    "salesPrice": "$4.00",
     "indent": false
   },
   {
@@ -2036,7 +2036,7 @@
   {
     "productName": "Strawberries USA/AUS/SF/EGY 美国/澳洲/非洲/埃及草莓 500G",
     "unitOfMeasure": "/BOX",
-    "salesPrice": "$9.00",
+    "salesPrice": "$8.00",
     "indent": false
   },
   {
@@ -2162,7 +2162,7 @@
   {
     "productName": "Wawa Cai 娃娃菜 300G",
     "unitOfMeasure": "/PKT",
-    "salesPrice": "$1.55",
+    "salesPrice": "$1.60",
     "indent": false
   },
   {
