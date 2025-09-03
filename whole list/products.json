@@ -218,7 +218,7 @@
   {
     "productName": "Bean French Baby 四季豆苗 150G",
     "unitOfMeasure": "/PKT",
-    "salesPrice": "$1.25",
+    "salesPrice": "$1.30",
     "indent": false
   },
   {
@@ -236,7 +236,7 @@
   {
     "productName": "Bean Long 菜豆",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.50",
+    "salesPrice": "$2.90",
     "indent": false
   },
   {
@@ -290,13 +290,13 @@
   {
     "productName": "Blueberries Jumbo Premium 优质蓝莓珍宝 150G",
     "unitOfMeasure": "/PUN",
-    "salesPrice": "$5.20",
+    "salesPrice": "$4.90",
     "indent": false
   },
   {
     "productName": "Blueberries Jumbo 蓝莓珍宝 125G",
     "unitOfMeasure": "/PUN",
-    "salesPrice": "$4.10",
+    "salesPrice": "$3.90",
     "indent": false
   },
   {
@@ -308,13 +308,13 @@
   {
     "productName": "Blueberries 蓝莓 12x125G",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$38.00",
+    "salesPrice": "$37.00",
     "indent": false
   },
   {
     "productName": "Broccoli 西兰花",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.50",
+    "salesPrice": "$5.00",
     "indent": false
   },
   {
@@ -734,7 +734,7 @@
   {
     "productName": "Garlic Shoot 蒜花",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.40",
+    "salesPrice": "$4.90",
     "indent": false
   },
   {
@@ -914,7 +914,7 @@
   {
     "productName": "Herb Coriander Thai 泰国芫茜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$7.90",
+    "salesPrice": "$8.80",
     "indent": false
   },
   {
@@ -1034,7 +1034,7 @@
   {
     "productName": "Kiwifruit Green Zespri 佳沛青奇异果",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$1.30",
+    "salesPrice": "$1.20",
     "indent": false
   },
   {
@@ -1052,7 +1052,7 @@
   {
     "productName": "Lady's Finger 角豆",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.50",
+    "salesPrice": "$2.60",
     "indent": false
   },
   {
@@ -1310,7 +1310,7 @@
   {
     "productName": "Mushroom Shiitake 新香菇",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$8.00",
+    "salesPrice": "$8.50",
     "indent": false
   },
   {
@@ -1472,7 +1472,7 @@
   {
     "productName": "Papaya Dole 多尔木瓜",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$3.80",
+    "salesPrice": "$3.60",
     "indent": false
   },
   {
@@ -1640,7 +1640,7 @@
   {
     "productName": "Pepper Green Screw 螺丝椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.90",
+    "salesPrice": "$4.60",
     "indent": false
   },
   {
@@ -1652,7 +1652,7 @@
   {
     "productName": "Pepper Sheep Horn 羊角椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.50",
+    "salesPrice": "$4.80",
     "indent": false
   },
   {
@@ -1694,7 +1694,7 @@
   {
     "productName": "Pineapple Sunpride/Del Monte/Dole 蜜糖黄梨",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$5.00",
+    "salesPrice": "$5.90",
     "indent": false
   },
   {
@@ -1838,7 +1838,7 @@
   {
     "productName": "Radish Green 青萝卜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$1.70",
+    "salesPrice": "$1.50",
     "indent": false
   },
   {
@@ -1922,13 +1922,13 @@
   {
     "productName": "Shine Muscat China 中国阳光玫瑰",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$6.00",
+    "salesPrice": "$5.50",
     "indent": false
   },
   {
     "productName": "Shine Muscat China 中国阳光玫瑰 5KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$26.00",
+    "salesPrice": "$24.00",
     "indent": false
   },
   {
@@ -2024,13 +2024,25 @@
   {
     "productName": "Strawberries USA/AUS/SF/EGY 美国/澳洲/非洲/埃及草莓 250G",
     "unitOfMeasure": "/BOX",
-    "salesPrice": "$4.50",
+    "salesPrice": "$4.00",
+    "indent": false
+  },
+  {
+    "productName": "Strawberries USA/AUS/SF/EGY 美国/澳洲/非洲/埃及草莓 250Gx12/15/16",
+    "unitOfMeasure": "/CTN",
+    "salesPrice": "$58.00",
     "indent": false
   },
   {
     "productName": "Strawberries USA/AUS/SF/EGY 美国/澳洲/非洲/埃及草莓 500G",
     "unitOfMeasure": "/BOX",
-    "salesPrice": "$9.00",
+    "salesPrice": "$8.00",
+    "indent": false
+  },
+  {
+    "productName": "Strawberries USA 美国草莓 500Gx8",
+    "unitOfMeasure": "/CTN",
+    "salesPrice": "$62.00",
     "indent": false
   },
   {
@@ -2150,7 +2162,7 @@
   {
     "productName": "Wawa Cai 娃娃菜 300G",
     "unitOfMeasure": "/PKT",
-    "salesPrice": "$1.55",
+    "salesPrice": "$1.60",
     "indent": false
   },
   {
