@@ -398,7 +398,7 @@
   {
     "productName": "Cauliflower 菜花",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.30",
+    "salesPrice": "$3.80",
     "indent": false
   },
   {
@@ -482,7 +482,7 @@
   {
     "productName": "Chili Padi Red 红米椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.50",
+    "salesPrice": "$5.00",
     "indent": false
   },
   {
@@ -512,7 +512,7 @@
   {
     "productName": "Chye Sim Cameron 金马伦菜芯",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.20",
+    "salesPrice": "$2.00",
     "indent": false
   },
   {
@@ -590,7 +590,7 @@
   {
     "productName": "Cucumber Old 老黄瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.40",
+    "salesPrice": "$3.80",
     "indent": false
   },
   {
@@ -1898,7 +1898,7 @@
   {
     "productName": "Salted Vegetables 鹹菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.40",
+    "salesPrice": "$3.00",
     "indent": false
   },
   {
@@ -1910,7 +1910,7 @@
   {
     "productName": "Shallot 小葱头",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.50",
+    "salesPrice": "$5.80",
     "indent": false
   },
   {
@@ -2168,7 +2168,7 @@
   {
     "productName": "Xiao Bai Chye 小白菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.40",
+    "salesPrice": "$2.20",
     "indent": false
   },
   {
