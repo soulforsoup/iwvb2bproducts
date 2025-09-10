@@ -416,7 +416,7 @@
   {
     "productName": "Mango Thai Gold 泰国金芒果",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.80",
+    "salesPrice": "$5.20",
     "indent": false
   },
   {
@@ -428,7 +428,7 @@
   {
     "productName": "Mango Thai Milk 泰国牛奶芒果",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.30",
+    "salesPrice": "$4.90",
     "indent": false
   },
   {
@@ -734,13 +734,13 @@
   {
     "productName": "Strawberries USA/AUS/SF/EGY 美国/澳洲/非洲/埃及草莓 250G",
     "unitOfMeasure": "/BOX",
-    "salesPrice": "$4.00",
+    "salesPrice": "#N/A",
     "indent": false
   },
   {
     "productName": "Strawberries USA/AUS/SF/EGY 美国/澳洲/非洲/埃及草莓 500G",
     "unitOfMeasure": "/BOX",
-    "salesPrice": "$8.00",
+    "salesPrice": "#N/A",
     "indent": false
   },
   {
