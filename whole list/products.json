@@ -1184,7 +1184,7 @@
   {
     "productName": "Mango Honey China 中国蜂蜜芒果",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.90",
+    "salesPrice": "$4.30",
     "indent": false
   },
   {
@@ -1215,6 +1215,12 @@
     "productName": "Mango Thai Milk 泰国牛奶芒果",
     "unitOfMeasure": "/KG",
     "salesPrice": "$3.90",
+    "indent": false
+  },
+  {
+    "productName": "Mango Thai Milk 泰国牛奶芒果 18KG",
+    "unitOfMeasure": "/CTN",
+    "salesPrice": "$62.00",
     "indent": false
   },
   {
