@@ -458,7 +458,7 @@
   {
     "productName": "Chili Green 青辣椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$6.50",
+    "salesPrice": "$6.00",
     "indent": false
   },
   {
@@ -572,7 +572,7 @@
   {
     "productName": "Cucumber Japanese 日本青瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.40",
+    "salesPrice": "$2.80",
     "indent": false
   },
   {
@@ -1730,7 +1730,7 @@
   {
     "productName": "Pomegranate 石榴",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$2.30",
+    "salesPrice": "$3.30",
     "indent": false
   },
   {
@@ -1760,7 +1760,7 @@
   {
     "productName": "Potato Sweet Honey 蜜糖金薯",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$6.00",
+    "salesPrice": "$3.20",
     "indent": false
   },
   {
