@@ -278,7 +278,7 @@
   {
     "productName": "Bittergourd 苦瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.90",
+    "salesPrice": "$3.50",
     "indent": false
   },
   {
@@ -488,7 +488,7 @@
   {
     "productName": "Chili Red 红辣椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$6.20",
+    "salesPrice": "$6.00",
     "indent": false
   },
   {
@@ -572,25 +572,25 @@
   {
     "productName": "Cucumber Japanese 日本青瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.40",
+    "salesPrice": "$2.80",
     "indent": false
   },
   {
     "productName": "Cucumber Japanese 日本青瓜 10KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$22.00",
+    "salesPrice": "$26.00",
     "indent": false
   },
   {
     "productName": "Cucumber Local 本地青瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$1.80",
+    "salesPrice": "$1.70",
     "indent": false
   },
   {
     "productName": "Cucumber Old 老黄瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.30",
+    "salesPrice": "$2.60",
     "indent": false
   },
   {
@@ -1316,13 +1316,13 @@
   {
     "productName": "Mushroom Shiitake 新香菇",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$8.20",
+    "salesPrice": "$7.50",
     "indent": false
   },
   {
     "productName": "Mushroom Shiitake 新香菇 5KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$38.00",
+    "salesPrice": "$34.50",
     "indent": false
   },
   {
