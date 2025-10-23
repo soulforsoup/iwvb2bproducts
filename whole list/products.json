@@ -1730,7 +1730,7 @@
   {
     "productName": "Pomegranate 石榴",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$2.30",
+    "salesPrice": "$2.50",
     "indent": false
   },
   {
@@ -1952,8 +1952,8 @@
   {
     "productName": "Sorrel Red Veined 红脉酸模 9x125G",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$46.00",
-    "indent": true
+    "salesPrice": "#N/A",
+    "indent": false
   },
   {
     "productName": "Spinach Ceylon Baby 苋菜苗",
@@ -2034,9 +2034,15 @@
     "indent": false
   },
   {
-    "productName": "Strawberries 草莓 250Gx15/16",
+    "productName": "Strawberries Aust/USA 澳洲美国草莓 250Gx15/16",
     "unitOfMeasure": "/CTN",
     "salesPrice": "$58.00",
+    "indent": false
+  },
+  {
+    "productName": "Strawberries Egypt/Ethopia 埃及埃塞草莓 250Gx10",
+    "unitOfMeasure": "/CTN",
+    "salesPrice": "$35.00",
     "indent": false
   },
   {

@@ -788,7 +788,7 @@
   {
     "productName": "Pomegranate 石榴",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$2.30",
+    "salesPrice": "$2.50",
     "indent": false
   },
   {
@@ -872,7 +872,7 @@
   {
     "productName": "Strawberries 草莓 250Gx15/16",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$58.00",
+    "salesPrice": "#N/A",
     "indent": false
   },
   {
