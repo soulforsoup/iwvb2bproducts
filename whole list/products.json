@@ -314,7 +314,7 @@
   {
     "productName": "Broccoli 西兰花",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.10",
+    "salesPrice": "$4.50",
     "indent": false
   },
   {
@@ -488,7 +488,7 @@
   {
     "productName": "Chili Red 红辣椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$6.50",
+    "salesPrice": "$7.00",
     "indent": false
   },
   {
@@ -1316,13 +1316,13 @@
   {
     "productName": "Mushroom Shiitake 新香菇",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$7.90",
+    "salesPrice": "$8.20",
     "indent": false
   },
   {
     "productName": "Mushroom Shiitake 新香菇 5KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$36.50",
+    "salesPrice": "$38.00",
     "indent": false
   },
   {
