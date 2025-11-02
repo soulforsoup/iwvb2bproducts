@@ -852,6 +852,12 @@
     "indent": false
   },
   {
+    "productName": "Grapes Candy Snaps Red Seedless 糖果脆葡萄",
+    "unitOfMeasure": "/KG",
+    "salesPrice": "$11.00",
+    "indent": false
+  },
+  {
     "productName": "Grapes Green Seedless 无籽青葡萄",
     "unitOfMeasure": "/KG",
     "salesPrice": "$7.50",
@@ -873,12 +879,6 @@
     "productName": "Grapes Red Seedless 无籽红葡萄 5KG",
     "unitOfMeasure": "/CTN",
     "salesPrice": "$34.00",
-    "indent": false
-  },
-  {
-    "productName": "Grapes Candy Snaps Red Seedless 糖果脆葡萄",
-    "unitOfMeasure": "/KG",
-    "salesPrice": "$11.00",
     "indent": false
   },
   {
@@ -1052,7 +1052,7 @@
   {
     "productName": "Lady's Finger 角豆",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.00",
+    "salesPrice": "$4.50",
     "indent": false
   },
   {
@@ -1128,6 +1128,12 @@
     "indent": false
   },
   {
+    "productName": "Lettuce Baby Romaine 罗门生菜仔",
+    "unitOfMeasure": "/KG",
+    "salesPrice": "$4.00",
+    "indent": false
+  },
+  {
     "productName": "Lettuce Coral Green 青生菜",
     "unitOfMeasure": "/KG",
     "salesPrice": "$5.50",
@@ -1143,12 +1149,6 @@
     "productName": "Lettuce Iceberg 玻璃生菜",
     "unitOfMeasure": "/KG",
     "salesPrice": "$3.50",
-    "indent": false
-  },
-  {
-    "productName": "Lettuce Baby Romaine 罗门生菜仔",
-    "unitOfMeasure": "/KG",
-    "salesPrice": "$4.00",
     "indent": false
   },
   {
@@ -1258,6 +1258,30 @@
     "unitOfMeasure": "/KG",
     "salesPrice": "$2.40",
     "indent": false
+  },
+  {
+    "productName": "MG Affila / Pea Shoot / Tendrils Cress (TND)",
+    "unitOfMeasure": "/PUN",
+    "salesPrice": "$4.00",
+    "indent": true
+  },
+  {
+    "productName": "MG Coriander Cress (CRD)",
+    "unitOfMeasure": "/PUN",
+    "salesPrice": "$4.00",
+    "indent": true
+  },
+  {
+    "productName": "MG Red Mustard Cress (RM)",
+    "unitOfMeasure": "/PUN",
+    "salesPrice": "$4.00",
+    "indent": true
+  },
+  {
+    "productName": "MG Red Veined Sorrel Cress (RVS)",
+    "unitOfMeasure": "/PUN",
+    "salesPrice": "$4.00",
+    "indent": true
   },
   {
     "productName": "Mushroom Abalone 鲍鱼菇 150G",
@@ -1616,7 +1640,7 @@
   {
     "productName": "Peas Snow 荷兰豆 130G",
     "unitOfMeasure": "/PKT",
-    "salesPrice": "$1.40",
+    "salesPrice": "$1.50",
     "indent": false
   },
   {
@@ -1872,12 +1896,6 @@
     "indent": false
   },
   {
-    "productName": "Salad Affilla Cress 荷兰豆 110G",
-    "unitOfMeasure": "/PUN",
-    "salesPrice": "$2.40",
-    "indent": true
-  },
-  {
     "productName": "Salad Mesclun 彩叶沙拉 1.5KG",
     "unitOfMeasure": "/CTN",
     "salesPrice": "$32.00",
@@ -1896,9 +1914,9 @@
     "indent": false
   },
   {
-    "productName": "Salad Pea Tendrils 荷兰豆苗 2x110G",
-    "unitOfMeasure": "/CTN",
-    "salesPrice": "$48.00",
+    "productName": "Salad Pea Tendrils / Pea Shoot Salad Cress (HTND) 100G/PUN",
+    "unitOfMeasure": "/PUN",
+    "salesPrice": "$9.90",
     "indent": true
   },
   {
@@ -1950,12 +1968,6 @@
     "indent": false
   },
   {
-    "productName": "Sorrel Red Veined 红脉酸模 9x125G",
-    "unitOfMeasure": "/CTN",
-    "salesPrice": "#N/A",
-    "indent": false
-  },
-  {
     "productName": "Spinach Ceylon Baby 苋菜苗",
     "unitOfMeasure": "/KG",
     "salesPrice": "$3.90",
@@ -2004,6 +2016,18 @@
     "indent": false
   },
   {
+    "productName": "Strawberries Aust/USA 澳洲美国草莓 250Gx15/16",
+    "unitOfMeasure": "/CTN",
+    "salesPrice": "$58.00",
+    "indent": false
+  },
+  {
+    "productName": "Strawberries Egypt/Ethopia 埃及埃塞草莓 250Gx10",
+    "unitOfMeasure": "/CTN",
+    "salesPrice": "$35.00",
+    "indent": false
+  },
+  {
     "productName": "Strawberries Korean 优质韩国草莓 330G",
     "unitOfMeasure": "/BOX",
     "salesPrice": "$12.00",
@@ -2028,33 +2052,21 @@
     "indent": false
   },
   {
+    "productName": "Strawberries USA 美国草莓 500Gx8",
+    "unitOfMeasure": "/CTN",
+    "salesPrice": "$62.00",
+    "indent": false
+  },
+  {
     "productName": "Strawberries 草莓 250G",
     "unitOfMeasure": "/BOX",
     "salesPrice": "$4.50",
     "indent": false
   },
   {
-    "productName": "Strawberries Aust/USA 澳洲美国草莓 250Gx15/16",
-    "unitOfMeasure": "/CTN",
-    "salesPrice": "$58.00",
-    "indent": false
-  },
-  {
-    "productName": "Strawberries Egypt/Ethopia 埃及埃塞草莓 250Gx10",
-    "unitOfMeasure": "/CTN",
-    "salesPrice": "$35.00",
-    "indent": false
-  },
-  {
     "productName": "Strawberries 草莓 500G",
     "unitOfMeasure": "/BOX",
     "salesPrice": "$8.50",
-    "indent": false
-  },
-  {
-    "productName": "Strawberries USA 美国草莓 500Gx8",
-    "unitOfMeasure": "/CTN",
-    "salesPrice": "$62.00",
     "indent": false
   },
   {
