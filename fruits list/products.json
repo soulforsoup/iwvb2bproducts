@@ -336,6 +336,12 @@
     "indent": false
   },
   {
+    "productName": "Grapes Candy Snaps Red Seedless 糖果脆葡萄",
+    "unitOfMeasure": "/KG",
+    "salesPrice": "$11.00",
+    "indent": false
+  },
+  {
     "productName": "Grapes Green Seedless 无籽青葡萄",
     "unitOfMeasure": "/KG",
     "salesPrice": "$7.50",
@@ -357,12 +363,6 @@
     "productName": "Grapes Red Seedless 无籽红葡萄 5KG",
     "unitOfMeasure": "/CTN",
     "salesPrice": "$34.00",
-    "indent": false
-  },
-  {
-    "productName": "Grapes Candy Snaps Red Seedless 糖果脆葡萄",
-    "unitOfMeasure": "/KG",
-    "salesPrice": "$11.00",
     "indent": false
   },
   {
@@ -840,6 +840,18 @@
     "indent": false
   },
   {
+    "productName": "Strawberries Aust/USA 澳洲美国草莓 250Gx15/16",
+    "unitOfMeasure": "/CTN",
+    "salesPrice": "$58.00",
+    "indent": false
+  },
+  {
+    "productName": "Strawberries Egypt/Ethopia 埃及埃塞草莓 250Gx10",
+    "unitOfMeasure": "/CTN",
+    "salesPrice": "$35.00",
+    "indent": false
+  },
+  {
     "productName": "Strawberries Korean 优质韩国草莓 330G",
     "unitOfMeasure": "/BOX",
     "salesPrice": "$12.00",
@@ -864,27 +876,21 @@
     "indent": false
   },
   {
+    "productName": "Strawberries USA 美国草莓 500Gx8",
+    "unitOfMeasure": "/CTN",
+    "salesPrice": "$62.00",
+    "indent": false
+  },
+  {
     "productName": "Strawberries 草莓 250G",
     "unitOfMeasure": "/BOX",
     "salesPrice": "$4.50",
     "indent": false
   },
   {
-    "productName": "Strawberries 草莓 250Gx15/16",
-    "unitOfMeasure": "/CTN",
-    "salesPrice": "#N/A",
-    "indent": false
-  },
-  {
     "productName": "Strawberries 草莓 500G",
     "unitOfMeasure": "/BOX",
     "salesPrice": "$8.50",
-    "indent": false
-  },
-  {
-    "productName": "Strawberries USA 美国草莓 500Gx8",
-    "unitOfMeasure": "/CTN",
-    "salesPrice": "$62.00",
     "indent": false
   },
   {
