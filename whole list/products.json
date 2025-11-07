@@ -278,7 +278,7 @@
   {
     "productName": "Bittergourd 苦瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.60",
+    "salesPrice": "$3.20",
     "indent": false
   },
   {
@@ -422,7 +422,7 @@
   {
     "productName": "Celery Chinese 芹菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.10",
+    "salesPrice": "$3.00",
     "indent": false
   },
   {
@@ -572,19 +572,19 @@
   {
     "productName": "Cucumber Japanese 日本青瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.90",
+    "salesPrice": "$3.20",
     "indent": false
   },
   {
     "productName": "Cucumber Japanese 日本青瓜 10KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$27.00",
+    "salesPrice": "$30.00",
     "indent": false
   },
   {
     "productName": "Cucumber Local 本地青瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$1.30",
+    "salesPrice": "$1.20",
     "indent": false
   },
   {
@@ -1334,7 +1334,7 @@
   {
     "productName": "Mushroom Seafood 海鲜菇 150G",
     "unitOfMeasure": "/PKT",
-    "salesPrice": "$0.77",
+    "salesPrice": "$0.70",
     "indent": false
   },
   {
@@ -2192,7 +2192,7 @@
   {
     "productName": "Xiao Bai Chye 小白菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.80",
+    "salesPrice": "$2.70",
     "indent": false
   },
   {
@@ -2210,19 +2210,19 @@
   {
     "productName": "Yam Thai 泰国芋头",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.70",
+    "salesPrice": "$4.60",
     "indent": false
   },
   {
     "productName": "You Mai Cai 油麦菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.20",
+    "salesPrice": "$4.90",
     "indent": false
   },
   {
     "productName": "Zucchini Green 青西葫芦",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.50",
+    "salesPrice": "$3.00",
     "indent": false
   },
   {
