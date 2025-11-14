@@ -692,7 +692,7 @@
   {
     "productName": "Garlic Chopped 蒜碎",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.30",
+    "salesPrice": "$5.00",
     "indent": false
   },
   {
@@ -884,13 +884,13 @@
   {
     "productName": "Herb Arugula Australian 澳洲火箭菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$21.00",
+    "salesPrice": "$28.00",
     "indent": true
   },
   {
     "productName": "Herb Arugula Cameron Highlands 金马伦火箭菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$24.00",
+    "salesPrice": "$28.00",
     "indent": false
   },
   {
@@ -1220,7 +1220,7 @@
   {
     "productName": "Mango Thai Milk 泰国牛奶芒果 18KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$62.00",
+    "salesPrice": "$58.00",
     "indent": false
   },
   {
