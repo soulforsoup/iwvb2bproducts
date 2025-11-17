@@ -108,7 +108,7 @@
     "indent": false
   },
   {
-    "productName": "Asparagus Thai Baby 泰国小芦笋",
+    "productName": "Asparagus Pencil 泰国小芦笋",
     "unitOfMeasure": "/KG",
     "salesPrice": "$20.00",
     "indent": false
@@ -200,7 +200,7 @@
   {
     "productName": "Bean Broad 扁豆",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.00",
+    "salesPrice": "$4.50",
     "indent": false
   },
   {
@@ -410,7 +410,7 @@
   {
     "productName": "Celery Chinese 芹菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.10",
+    "salesPrice": "$3.30",
     "indent": false
   },
   {
@@ -452,13 +452,13 @@
   {
     "productName": "Chili Padi Green Stemless 去头青米椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$7.80",
+    "salesPrice": "$8.50",
     "indent": false
   },
   {
     "productName": "Chili Padi Green 青米椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.80",
+    "salesPrice": "$6.50",
     "indent": false
   },
   {
@@ -900,6 +900,12 @@
     "indent": false
   },
   {
+    "productName": "Herb Coriander China 中国芫茜",
+    "unitOfMeasure": "/KG",
+    "salesPrice": "$10.50",
+    "indent": false
+  },
+  {
     "productName": "Herb Coriander Thai 泰国芫茜",
     "unitOfMeasure": "/KG",
     "salesPrice": "$15.90",
@@ -998,7 +1004,7 @@
   {
     "productName": "Kailan Baby 芥兰仔 150G",
     "unitOfMeasure": "/PKT",
-    "salesPrice": "$1.00",
+    "salesPrice": "$1.10",
     "indent": false
   },
   {
