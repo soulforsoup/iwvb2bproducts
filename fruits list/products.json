@@ -224,7 +224,7 @@
   {
     "productName": "Coconut Siam 暹罗椰子",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$3.50",
+    "salesPrice": "$3.20",
     "indent": false
   },
   {
@@ -801,6 +801,12 @@
     "productName": "Raspberries 覆盆子",
     "unitOfMeasure": "/PUN",
     "salesPrice": "$7.80",
+    "indent": false
+  },
+  {
+    "productName": "Raspberries 覆盆子 125Gx12",
+    "unitOfMeasure": "/CTN",
+    "salesPrice": "$82.00",
     "indent": false
   },
   {
