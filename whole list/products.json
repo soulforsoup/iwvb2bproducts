@@ -266,7 +266,7 @@
   {
     "productName": "Bittergourd 苦瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.90",
+    "salesPrice": "$3.60",
     "indent": false
   },
   {
@@ -452,7 +452,7 @@
   {
     "productName": "Chili Padi Green Stemless 去头青米椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$8.50",
+    "salesPrice": "$7.50",
     "indent": false
   },
   {
@@ -518,7 +518,7 @@
   {
     "productName": "Coconut Siam 暹罗椰子",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$3.50",
+    "salesPrice": "$3.20",
     "indent": false
   },
   {
@@ -1902,6 +1902,12 @@
     "indent": false
   },
   {
+    "productName": "Raspberries 覆盆子 125Gx12",
+    "unitOfMeasure": "/CTN",
+    "salesPrice": "$82.00",
+    "indent": false
+  },
+  {
     "productName": "Salad Mesclun 彩叶沙拉 1.5KG",
     "unitOfMeasure": "/CTN",
     "salesPrice": "$32.00",
@@ -2223,6 +2229,12 @@
     "productName": "Yam Thai 泰国芋头",
     "unitOfMeasure": "/KG",
     "salesPrice": "$5.20",
+    "indent": false
+  },
+  {
+    "productName": "Yam Thai 泰国芋头 10KG",
+    "unitOfMeasure": "/CTN",
+    "salesPrice": "$50.00",
     "indent": false
   },
   {
