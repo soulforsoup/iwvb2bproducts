@@ -410,7 +410,7 @@
   {
     "productName": "Lemon 柠檬",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$0.70",
+    "salesPrice": "$0.60",
     "indent": false
   },
   {
@@ -812,13 +812,13 @@
   {
     "productName": "Shine Muscat China 中国阳光玫瑰",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.50",
+    "salesPrice": "$7.00",
     "indent": false
   },
   {
     "productName": "Shine Muscat China 中国阳光玫瑰 5KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$24.00",
+    "salesPrice": "$31.00",
     "indent": false
   },
   {
