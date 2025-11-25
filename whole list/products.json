@@ -302,7 +302,7 @@
   {
     "productName": "Broccoli 西兰花",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.20",
+    "salesPrice": "$4.60",
     "indent": false
   },
   {
@@ -410,7 +410,7 @@
   {
     "productName": "Celery Chinese 芹菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.30",
+    "salesPrice": "$4.50",
     "indent": false
   },
   {
@@ -560,13 +560,13 @@
   {
     "productName": "Cucumber Japanese 日本青瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.30",
+    "salesPrice": "$2.90",
     "indent": false
   },
   {
     "productName": "Cucumber Japanese 日本青瓜 10KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$21.00",
+    "salesPrice": "$27.00",
     "indent": false
   },
   {
@@ -1410,15 +1410,21 @@
     "indent": false
   },
   {
-    "productName": "Onion Yellow Australian 澳洲黄洋葱",
-    "unitOfMeasure": "/KG",
-    "salesPrice": "$1.50",
-    "indent": false
-  },
-  {
     "productName": "Onion Yellow Australian 澳洲黄洋葱 20KG",
     "unitOfMeasure": "/SACK",
     "salesPrice": "$25.00",
+    "indent": false
+  },
+  {
+    "productName": "Onion Yellow Australian/Holland 澳洲荷兰黃洋葱",
+    "unitOfMeasure": "/KG",
+    "salesPrice": "$1.40",
+    "indent": false
+  },
+  {
+    "productName": "Onion Yellow Holland 荷兰黃洋葱 15KG",
+    "unitOfMeasure": "/SACK",
+    "salesPrice": "$19.00",
     "indent": false
   },
   {
@@ -1772,7 +1778,7 @@
   {
     "productName": "Potato Baby Gem 马铃薯仔",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.70",
+    "salesPrice": "$3.60",
     "indent": false
   },
   {
@@ -1814,13 +1820,13 @@
   {
     "productName": "Potatoes Sweet Chiba Japan S Size 日本千叶番薯",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$8.00",
+    "salesPrice": "$8.50",
     "indent": false
   },
   {
     "productName": "Potatoes Sweet Chiba Japan S Size 日本千叶番薯 5KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$38.00",
+    "salesPrice": "$40.00",
     "indent": false
   },
   {
