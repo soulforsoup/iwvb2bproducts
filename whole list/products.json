@@ -212,7 +212,7 @@
   {
     "productName": "Bean French 四季豆",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.50",
+    "salesPrice": "$5.00",
     "indent": false
   },
   {
@@ -734,7 +734,7 @@
   {
     "productName": "Ginger Flower 姜花",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$1.20",
+    "salesPrice": "$0.90",
     "indent": false
   },
   {
@@ -908,7 +908,7 @@
   {
     "productName": "Herb Coriander Thai 泰国芫茜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$15.90",
+    "salesPrice": "$14.50",
     "indent": false
   },
   {
@@ -950,7 +950,7 @@
   {
     "productName": "Herb Parsley English 西芫茜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$7.50",
+    "salesPrice": "$9.00",
     "indent": false
   },
   {
@@ -2198,7 +2198,7 @@
   {
     "productName": "Watercress 西洋菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$7.50",
+    "salesPrice": "$8.50",
     "indent": false
   },
   {
