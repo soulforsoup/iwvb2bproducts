@@ -662,7 +662,7 @@
   {
     "productName": "Eggplant Thai 泰国青圆茄",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.90",
+    "salesPrice": "$4.40",
     "indent": false
   },
   {
@@ -1328,7 +1328,7 @@
   {
     "productName": "Mushroom King Oyster 小杏鲍菇 200G",
     "unitOfMeasure": "/PKT",
-    "salesPrice": "$0.90",
+    "salesPrice": "$0.95",
     "indent": false
   },
   {
@@ -1574,13 +1574,19 @@
   {
     "productName": "Pear Fengshui 丰水梨 11-20PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$35.00",
+    "salesPrice": "$32.00",
     "indent": false
   },
   {
-    "productName": "Pear Forelle Blush 红耙梨 60PCS",
+    "productName": "Pear Forelle Blush 红耙梨 60/70PCS",
     "unitOfMeasure": "/CTN",
     "salesPrice": "$60.00",
+    "indent": false
+  },
+  {
+    "productName": "Pear Forelle Blush 红耙梨",
+    "unitOfMeasure": "/PCS",
+    "salesPrice": "$1.00",
     "indent": false
   },
   {
@@ -2174,13 +2180,13 @@
   {
     "productName": "Tomatoes Local 本地番茄",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.20",
+    "salesPrice": "$2.80",
     "indent": false
   },
   {
     "productName": "Tomatoes Local 本地番茄 10KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$20.00",
+    "salesPrice": "$25.00",
     "indent": false
   },
   {
