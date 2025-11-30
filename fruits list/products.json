@@ -638,13 +638,19 @@
   {
     "productName": "Pear Fengshui 丰水梨 11-20PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$35.00",
+    "salesPrice": "$32.00",
     "indent": false
   },
   {
-    "productName": "Pear Forelle Blush 红耙梨 60PCS",
+    "productName": "Pear Forelle Blush 红耙梨 60/70PCS",
     "unitOfMeasure": "/CTN",
     "salesPrice": "$60.00",
+    "indent": false
+  },
+  {
+    "productName": "Pear Forelle Blush 红耙梨",
+    "unitOfMeasure": "/PCS",
+    "salesPrice": "$1.00",
     "indent": false
   },
   {
