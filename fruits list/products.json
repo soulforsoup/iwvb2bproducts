@@ -642,15 +642,15 @@
     "indent": false
   },
   {
-    "productName": "Pear Forelle Blush 红耙梨 60/70PCS",
-    "unitOfMeasure": "/CTN",
-    "salesPrice": "$60.00",
-    "indent": false
-  },
-  {
     "productName": "Pear Forelle Blush 红耙梨",
     "unitOfMeasure": "/PCS",
     "salesPrice": "$1.00",
+    "indent": false
+  },
+  {
+    "productName": "Pear Forelle Blush 红耙梨 60/70PCS",
+    "unitOfMeasure": "/CTN",
+    "salesPrice": "$49.00",
     "indent": false
   },
   {
