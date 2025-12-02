@@ -224,7 +224,7 @@
   {
     "productName": "Bean Long 菜豆",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.90",
+    "salesPrice": "$3.60",
     "indent": false
   },
   {
@@ -416,7 +416,7 @@
   {
     "productName": "Celery English 西芹",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.80",
+    "salesPrice": "$2.90",
     "indent": false
   },
   {
@@ -560,13 +560,13 @@
   {
     "productName": "Cucumber Japanese 日本青瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.90",
+    "salesPrice": "$4.50",
     "indent": false
   },
   {
     "productName": "Cucumber Japanese 日本青瓜 10KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$27.00",
+    "salesPrice": "$43.00",
     "indent": false
   },
   {
@@ -1082,7 +1082,7 @@
   {
     "productName": "Leaf Laksa 拉沙叶",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.00",
+    "salesPrice": "$3.00",
     "indent": false
   },
   {
@@ -1256,7 +1256,7 @@
   {
     "productName": "Melon Sharkfin 鱼翅瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.90",
+    "salesPrice": "$3.50",
     "indent": false
   },
   {
@@ -1718,7 +1718,7 @@
   {
     "productName": "Petai 臭豆 120G",
     "unitOfMeasure": "/PKT",
-    "salesPrice": "$4.50",
+    "salesPrice": "$3.50",
     "indent": false
   },
   {
@@ -1742,7 +1742,7 @@
   {
     "productName": "Pineapple Sunpride/Del Monte/Dole 蜜糖黄梨",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$5.90",
+    "salesPrice": "$5.50",
     "indent": false
   },
   {
@@ -1970,25 +1970,25 @@
   {
     "productName": "Shine Muscat China 中国阳光玫瑰",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$7.00",
+    "salesPrice": "$7.50",
     "indent": false
   },
   {
     "productName": "Shine Muscat China 中国阳光玫瑰 5KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$31.00",
+    "salesPrice": "$30.00",
     "indent": false
   },
   {
     "productName": "Shine Muscat Korea 韩国阳光玫瑰",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$19.90",
+    "salesPrice": "$18.00",
     "indent": false
   },
   {
     "productName": "Shine Muscat Korea 韩国阳光玫瑰 2KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$55.00",
+    "salesPrice": "$44.00",
     "indent": false
   },
   {
@@ -2030,7 +2030,7 @@
   {
     "productName": "Sprouts Brussels 球芽甘蓝",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$9.30",
+    "salesPrice": "$9.90",
     "indent": false
   },
   {
@@ -2258,13 +2258,13 @@
   {
     "productName": "Zucchini Green 青西葫芦",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.50",
+    "salesPrice": "$4.00",
     "indent": false
   },
   {
     "productName": "Zucchini Yellow 黄西葫芦",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.00",
+    "salesPrice": "$4.50",
     "indent": false
   }
 ]

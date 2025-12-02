@@ -752,13 +752,13 @@
   {
     "productName": "Pineapple Sunpride/Del Monte/Dole 蜜糖黄梨",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$5.90",
+    "salesPrice": "$5.50",
     "indent": false
   },
   {
     "productName": "Pineapple Sunpride/Del Monte/Dole 蜜糖黄梨 6/7PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$34.00",
+    "salesPrice": "$32.00",
     "indent": false
   },
   {
@@ -818,25 +818,25 @@
   {
     "productName": "Shine Muscat China 中国阳光玫瑰",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$7.00",
+    "salesPrice": "$7.50",
     "indent": false
   },
   {
     "productName": "Shine Muscat China 中国阳光玫瑰 5KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$31.00",
+    "salesPrice": "$30.00",
     "indent": false
   },
   {
     "productName": "Shine Muscat Korea 韩国阳光玫瑰",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$19.90",
+    "salesPrice": "$18.00",
     "indent": false
   },
   {
     "productName": "Shine Muscat Korea 韩国阳光玫瑰 2KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$55.00",
+    "salesPrice": "$44.00",
     "indent": false
   },
   {
