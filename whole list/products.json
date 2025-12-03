@@ -596,13 +596,13 @@
   {
     "productName": "Dragon Fruit White 白火龙果",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.90",
+    "salesPrice": "$2.50",
     "indent": false
   },
   {
     "productName": "Dragon Fruit White 白火龙果 14-18PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$25.00",
+    "salesPrice": "$18.00",
     "indent": false
   },
   {
@@ -974,7 +974,7 @@
   {
     "productName": "Honeydew 甘露",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.20",
+    "salesPrice": "$2.00",
     "indent": false
   },
   {
@@ -1532,7 +1532,7 @@
   {
     "productName": "Papaya Local 本地木瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.10",
+    "salesPrice": "$1.90",
     "indent": false
   },
   {
@@ -2048,7 +2048,7 @@
   {
     "productName": "Strawberries Egypt/Ethopia 埃及埃塞草莓 250Gx10",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$38.00",
+    "salesPrice": "$35.00",
     "indent": false
   },
   {
@@ -2067,7 +2067,7 @@
     "productName": "Strawberries Korean 韩国草莓 250G",
     "unitOfMeasure": "/BOX",
     "salesPrice": "$9.50",
-    "indent": false
+    "indent": true
   },
   {
     "productName": "Strawberries Korean 韩国草莓 250Gx8",
@@ -2090,13 +2090,13 @@
   {
     "productName": "Strawberries 草莓 250G",
     "unitOfMeasure": "/BOX",
-    "salesPrice": "$4.50",
+    "salesPrice": "$4.00",
     "indent": false
   },
   {
     "productName": "Strawberries 草莓 500G",
     "unitOfMeasure": "/BOX",
-    "salesPrice": "$8.50",
+    "salesPrice": "$8.00",
     "indent": false
   },
   {
