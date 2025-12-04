@@ -134,7 +134,7 @@
   {
     "productName": "Avocados Hass Australian 澳洲牛油果 25-30PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$45.00",
+    "salesPrice": "$43.00",
     "indent": false
   },
   {
@@ -284,7 +284,7 @@
   {
     "productName": "Blueberries Jumbo 蓝莓珍宝 125G",
     "unitOfMeasure": "/PUN",
-    "salesPrice": "$3.90",
+    "salesPrice": "$3.50",
     "indent": false
   },
   {
@@ -1016,7 +1016,7 @@
   {
     "productName": "Kale 羽衣甘兰",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$10.50",
+    "salesPrice": "$9.00",
     "indent": false
   },
   {
@@ -1202,13 +1202,13 @@
   {
     "productName": "Mango R2E2/Keitt Australian 澳洲芒果",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$7.50",
+    "salesPrice": "$6.50",
     "indent": false
   },
   {
     "productName": "Mango R2E2/Keitt Australian 澳洲芒果 9KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$56.00",
+    "salesPrice": "$49.00",
     "indent": false
   },
   {
@@ -1220,7 +1220,7 @@
   {
     "productName": "Mango Thai Milk 泰国牛奶芒果",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.90",
+    "salesPrice": "$3.00",
     "indent": false
   },
   {
@@ -1244,13 +1244,13 @@
   {
     "productName": "Melon Hami China 中国哈密瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.80",
+    "salesPrice": "$2.60",
     "indent": false
   },
   {
     "productName": "Melon Rock 哈密瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.50",
+    "salesPrice": "$3.20",
     "indent": false
   },
   {
@@ -1274,19 +1274,19 @@
   {
     "productName": "MG Coriander Cress (CRD)",
     "unitOfMeasure": "/PUN",
-    "salesPrice": "$4.00",
+    "salesPrice": "$3.00",
     "indent": true
   },
   {
     "productName": "MG Red Mustard Cress (RM)",
     "unitOfMeasure": "/PUN",
-    "salesPrice": "$4.00",
+    "salesPrice": "$3.00",
     "indent": true
   },
   {
     "productName": "MG Red Veined Sorrel Cress (RVS)",
     "unitOfMeasure": "/PUN",
-    "salesPrice": "$4.00",
+    "salesPrice": "$3.00",
     "indent": true
   },
   {
