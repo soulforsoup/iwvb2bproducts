@@ -176,7 +176,7 @@
   {
     "productName": "Blackberries 黑莓",
     "unitOfMeasure": "/PUN",
-    "salesPrice": "$8.50",
+    "salesPrice": "$7.00",
     "indent": false
   },
   {
@@ -554,7 +554,7 @@
   {
     "productName": "Orange Navel/Valencia 橙 (L) Size",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$1.10",
+    "salesPrice": "$1.00",
     "indent": false
   },
   {
@@ -578,7 +578,7 @@
   {
     "productName": "Orange Navel/Valencia 橙 72/80/88PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$38.00",
+    "salesPrice": "$33.00",
     "indent": false
   },
   {
@@ -806,7 +806,7 @@
   {
     "productName": "Raspberries 覆盆子",
     "unitOfMeasure": "/PUN",
-    "salesPrice": "$7.80",
+    "salesPrice": "$6.80",
     "indent": false
   },
   {
@@ -818,7 +818,7 @@
   {
     "productName": "Shine Muscat China 中国阳光玫瑰",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$7.50",
+    "salesPrice": "$7.00",
     "indent": false
   },
   {

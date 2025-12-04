@@ -272,7 +272,7 @@
   {
     "productName": "Blackberries 黑莓",
     "unitOfMeasure": "/PUN",
-    "salesPrice": "$8.50",
+    "salesPrice": "$7.00",
     "indent": false
   },
   {
@@ -482,7 +482,7 @@
   {
     "productName": "Chives English 英式韭菜 50G",
     "unitOfMeasure": "/PKT",
-    "salesPrice": "$4.00",
+    "salesPrice": "$3.80",
     "indent": false
   },
   {
@@ -884,13 +884,13 @@
   {
     "productName": "Herb Arugula Australian 澳洲火箭菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$28.00",
+    "salesPrice": "$25.00",
     "indent": true
   },
   {
     "productName": "Herb Arugula Cameron Highlands 金马伦火箭菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$28.00",
+    "salesPrice": "$25.00",
     "indent": false
   },
   {
@@ -932,13 +932,13 @@
   {
     "productName": "Herb Leaf Mint Malaysia 马来西亚薄荷叶",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$8.50",
+    "salesPrice": "$8.00",
     "indent": false
   },
   {
     "productName": "Herb Leaf Mint Thai 泰国薄荷叶",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$10.00",
+    "salesPrice": "$9.00",
     "indent": false
   },
   {
@@ -956,19 +956,19 @@
   {
     "productName": "Herb Parsley Italian 意大利欧芹 100G",
     "unitOfMeasure": "/PKT",
-    "salesPrice": "$5.20",
+    "salesPrice": "$5.00",
     "indent": false
   },
   {
     "productName": "Herb Rosemary 迷迭香 50G",
     "unitOfMeasure": "/PKT",
-    "salesPrice": "$3.80",
+    "salesPrice": "$3.50",
     "indent": false
   },
   {
     "productName": "Herb Thyme 麝香草 50G",
     "unitOfMeasure": "/PKT",
-    "salesPrice": "$3.80",
+    "salesPrice": "$3.50",
     "indent": false
   },
   {
@@ -1064,7 +1064,7 @@
   {
     "productName": "Leaf Banana 香蕉叶",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.50",
+    "salesPrice": "$4.00",
     "indent": false
   },
   {
@@ -1142,13 +1142,13 @@
   {
     "productName": "Lettuce Coral Green 青生菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.90",
+    "salesPrice": "$4.50",
     "indent": false
   },
   {
     "productName": "Lettuce Coral Red 红生菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.50",
+    "salesPrice": "$5.00",
     "indent": false
   },
   {
@@ -1268,7 +1268,7 @@
   {
     "productName": "MG Affila / Pea Shoot / Tendrils Cress (TND)",
     "unitOfMeasure": "/PUN",
-    "salesPrice": "$4.00",
+    "salesPrice": "$3.00",
     "indent": true
   },
   {
@@ -1320,21 +1320,21 @@
     "indent": false
   },
   {
+    "productName": "Mushroom King Oyster Small 小杏鲍菇 200G",
+    "unitOfMeasure": "/PKT",
+    "salesPrice": "$0.95",
+    "indent": false
+  },
+  {
     "productName": "Mushroom King Oyster XL Sized 特大杏鲍菇 2.5KG",
     "unitOfMeasure": "/PKT",
     "salesPrice": "$7.50",
     "indent": false
   },
   {
-    "productName": "Mushroom King Oyster 小杏鲍菇 200G",
-    "unitOfMeasure": "/PKT",
-    "salesPrice": "$0.95",
-    "indent": false
-  },
-  {
     "productName": "Mushroom Portobello 波托贝罗蘑菇",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$13.90",
+    "salesPrice": "$13.00",
     "indent": false
   },
   {
@@ -1346,7 +1346,7 @@
   {
     "productName": "Mushroom Shiitake 新香菇",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$8.20",
+    "salesPrice": "$8.00",
     "indent": false
   },
   {
@@ -1358,13 +1358,19 @@
   {
     "productName": "Mushroom Swiss Brown 瑞士棕色蘑菇",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$13.90",
+    "salesPrice": "$13.00",
+    "indent": false
+  },
+  {
+    "productName": "Mushroom White Button Sliced 切白菇",
+    "unitOfMeasure": "/KG",
+    "salesPrice": "$10.00",
     "indent": false
   },
   {
     "productName": "Mushroom White Button 白菇",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$9.90",
+    "salesPrice": "$9.30",
     "indent": false
   },
   {
@@ -1430,7 +1436,7 @@
   {
     "productName": "Onion Yellow 黄洋葱",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$1.20",
+    "salesPrice": "$1.10",
     "indent": false
   },
   {
@@ -1484,7 +1490,7 @@
   {
     "productName": "Orange Navel/Valencia 橙 (L) Size",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$1.10",
+    "salesPrice": "$1.00",
     "indent": false
   },
   {
@@ -1508,7 +1514,7 @@
   {
     "productName": "Orange Navel/Valencia 橙 72/80/88PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$38.00",
+    "salesPrice": "$33.00",
     "indent": false
   },
   {
@@ -1796,7 +1802,7 @@
   {
     "productName": "Potato Russet USA 美国马铃薯",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.30",
+    "salesPrice": "$2.10",
     "indent": false
   },
   {
@@ -1808,13 +1814,13 @@
   {
     "productName": "Potatoes Local 本地马铃薯",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$1.20",
+    "salesPrice": "$1.10",
     "indent": false
   },
   {
     "productName": "Potatoes Local 本地马铃薯 10KG",
     "unitOfMeasure": "/SACK",
-    "salesPrice": "$10.50",
+    "salesPrice": "$10.00",
     "indent": false
   },
   {
@@ -1910,7 +1916,7 @@
   {
     "productName": "Raspberries 覆盆子",
     "unitOfMeasure": "/PUN",
-    "salesPrice": "$7.80",
+    "salesPrice": "$6.80",
     "indent": false
   },
   {
@@ -1934,7 +1940,7 @@
   {
     "productName": "Salad Mesclun 彩叶沙拉 500G",
     "unitOfMeasure": "/PKT",
-    "salesPrice": "$9.00",
+    "salesPrice": "$8.50",
     "indent": false
   },
   {
@@ -1970,7 +1976,7 @@
   {
     "productName": "Shine Muscat China 中国阳光玫瑰",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$7.50",
+    "salesPrice": "$7.00",
     "indent": false
   },
   {
