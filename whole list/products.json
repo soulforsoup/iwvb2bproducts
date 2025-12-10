@@ -260,7 +260,7 @@
   {
     "productName": "Beetroot 甜菜根",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.30",
+    "salesPrice": "$3.50",
     "indent": false
   },
   {
@@ -1220,13 +1220,13 @@
   {
     "productName": "Mango Thai Milk 泰国牛奶芒果",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.00",
+    "salesPrice": "$3.50",
     "indent": false
   },
   {
     "productName": "Mango Thai Milk 泰国牛奶芒果 18KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$49.00",
+    "salesPrice": "$55.00",
     "indent": false
   },
   {
