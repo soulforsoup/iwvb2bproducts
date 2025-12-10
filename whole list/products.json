@@ -200,7 +200,7 @@
   {
     "productName": "Bean Broad 扁豆",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.90",
+    "salesPrice": "$6.90",
     "indent": false
   },
   {
@@ -266,7 +266,7 @@
   {
     "productName": "Bittergourd 苦瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.20",
+    "salesPrice": "$4.60",
     "indent": false
   },
   {
@@ -320,7 +320,7 @@
   {
     "productName": "Cabbage Long Chinese 大白菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$1.50",
+    "salesPrice": "$1.70",
     "indent": false
   },
   {
@@ -1904,13 +1904,13 @@
   {
     "productName": "Radish White 白萝卜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$1.50",
+    "salesPrice": "$1.60",
     "indent": false
   },
   {
     "productName": "Radish White 白萝卜 10KG",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$13.00",
+    "salesPrice": "$14.50",
     "indent": false
   },
   {
