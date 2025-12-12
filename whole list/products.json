@@ -98,13 +98,13 @@
   {
     "productName": "Asparagus Green 青芦笋",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$18.50",
+    "salesPrice": "$18.00",
     "indent": false
   },
   {
     "productName": "Asparagus Green 青芦笋 5KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$88.00",
+    "salesPrice": "$86.00",
     "indent": false
   },
   {
@@ -654,6 +654,12 @@
     "indent": false
   },
   {
+    "productName": "Eggplant Long 长茄",
+    "unitOfMeasure": "/KG",
+    "salesPrice": "$4.20",
+    "indent": false
+  },
+  {
     "productName": "Eggplant Pearl 珍珠红茄",
     "unitOfMeasure": "/KG",
     "salesPrice": "$4.30",
@@ -661,12 +667,6 @@
   },
   {
     "productName": "Eggplant Thai 泰国青圆茄",
-    "unitOfMeasure": "/KG",
-    "salesPrice": "$4.20",
-    "indent": false
-  },
-  {
-    "productName": "Eggplant Long 长茄",
     "unitOfMeasure": "/KG",
     "salesPrice": "$4.20",
     "indent": false
@@ -1400,13 +1400,19 @@
   {
     "productName": "Onion Red 红葱 9/10KG",
     "unitOfMeasure": "/SACK",
-    "salesPrice": "$12.00",
+    "salesPrice": "$14.50",
     "indent": false
   },
   {
-    "productName": "Onion Spring 青葱",
+    "productName": "Onion Spring Malaysia 马来西亚青葱",
     "unitOfMeasure": "/KG",
     "salesPrice": "$6.00",
+    "indent": false
+  },
+  {
+    "productName": "Onion Spring Thai 泰国青葱",
+    "unitOfMeasure": "/KG",
+    "salesPrice": "$6.50",
     "indent": false
   },
   {
