@@ -224,7 +224,7 @@
   {
     "productName": "Bean Long 菜豆",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.50",
+    "salesPrice": "$5.00",
     "indent": false
   },
   {
@@ -326,7 +326,7 @@
   {
     "productName": "Cabbage Red 红包菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$1.90",
+    "salesPrice": "$2.10",
     "indent": false
   },
   {
@@ -476,7 +476,7 @@
   {
     "productName": "Chili Red 红辣椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$7.50",
+    "salesPrice": "$8.00",
     "indent": false
   },
   {
@@ -500,7 +500,7 @@
   {
     "productName": "Chye Sim Cameron 金马伦菜芯",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.90",
+    "salesPrice": "$2.60",
     "indent": false
   },
   {
@@ -572,7 +572,7 @@
   {
     "productName": "Cucumber Local 本地青瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$1.50",
+    "salesPrice": "$1.30",
     "indent": false
   },
   {
@@ -722,7 +722,7 @@
   {
     "productName": "Garlic Shoot 蒜花",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.90",
+    "salesPrice": "$5.50",
     "indent": false
   },
   {
@@ -908,7 +908,7 @@
   {
     "productName": "Herb Coriander Thai 泰国芫茜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$14.50",
+    "salesPrice": "$8.80",
     "indent": false
   },
   {
@@ -1010,7 +1010,7 @@
   {
     "productName": "Kailan Hong Kong 香港芥兰",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.80",
+    "salesPrice": "$5.20",
     "indent": false
   },
   {
@@ -1058,7 +1058,7 @@
   {
     "productName": "Lady's Finger 角豆",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.00",
+    "salesPrice": "$4.00",
     "indent": false
   },
   {
@@ -1382,7 +1382,7 @@
   {
     "productName": "Onion Red Peeled 去皮红葱 1KG",
     "unitOfMeasure": "/PKT",
-    "salesPrice": "$2.20",
+    "salesPrice": "$1.90",
     "indent": false
   },
   {
@@ -1418,7 +1418,7 @@
   {
     "productName": "Onion White Peeled 去皮白洋葱 1KG",
     "unitOfMeasure": "/PKT",
-    "salesPrice": "$2.00",
+    "salesPrice": "$1.80",
     "indent": false
   },
   {
@@ -1820,13 +1820,13 @@
   {
     "productName": "Potatoes Local 本地马铃薯",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$1.10",
+    "salesPrice": "$1.25",
     "indent": false
   },
   {
     "productName": "Potatoes Local 本地马铃薯 10KG",
     "unitOfMeasure": "/SACK",
-    "salesPrice": "$10.00",
+    "salesPrice": "$11.00",
     "indent": false
   },
   {
