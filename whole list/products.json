@@ -224,7 +224,7 @@
   {
     "productName": "Bean Long 菜豆",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.00",
+    "salesPrice": "$5.90",
     "indent": false
   },
   {
@@ -500,7 +500,7 @@
   {
     "productName": "Chye Sim Cameron 金马伦菜芯",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.80",
+    "salesPrice": "$3.30",
     "indent": false
   },
   {
@@ -560,13 +560,13 @@
   {
     "productName": "Cucumber Japanese 日本青瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.30",
+    "salesPrice": "$3.60",
     "indent": false
   },
   {
     "productName": "Cucumber Japanese 日本青瓜 10KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$21.00",
+    "salesPrice": "$34.00",
     "indent": false
   },
   {
@@ -734,7 +734,7 @@
   {
     "productName": "Ginger Flower 姜花",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$0.90",
+    "salesPrice": "$1.25",
     "indent": false
   },
   {
@@ -1316,7 +1316,7 @@
   {
     "productName": "Mushroom Hon-Shimeji White 白玉菇 150G",
     "unitOfMeasure": "/PKT",
-    "salesPrice": "$0.80",
+    "salesPrice": "$0.90",
     "indent": false
   },
   {
@@ -1700,7 +1700,7 @@
   {
     "productName": "Pepper Green Screw 螺丝椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.90",
+    "salesPrice": "$5.50",
     "indent": false
   },
   {
@@ -2192,19 +2192,19 @@
   {
     "productName": "Tomatoes Cherry Red 红樱桃番茄",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.50",
+    "salesPrice": "$5.00",
     "indent": false
   },
   {
     "productName": "Tomatoes Local 本地番茄",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.50",
+    "salesPrice": "$3.50",
     "indent": false
   },
   {
     "productName": "Tomatoes Local 本地番茄 10KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$23.00",
+    "salesPrice": "$33.00",
     "indent": false
   },
   {
@@ -2240,7 +2240,7 @@
   {
     "productName": "Xiao Bai Chye 小白菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.60",
+    "salesPrice": "$3.30",
     "indent": false
   },
   {
@@ -2276,13 +2276,13 @@
   {
     "productName": "Zucchini Green 青西葫芦",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.00",
+    "salesPrice": "$4.80",
     "indent": false
   },
   {
     "productName": "Zucchini Yellow 黄西葫芦",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$7.50",
+    "salesPrice": "$8.00",
     "indent": false
   }
 ]
