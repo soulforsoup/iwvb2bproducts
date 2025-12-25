@@ -98,13 +98,13 @@
   {
     "productName": "Asparagus Green 青芦笋",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$18.00",
+    "salesPrice": "$17.00",
     "indent": false
   },
   {
     "productName": "Asparagus Green 青芦笋 5KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$86.00",
+    "salesPrice": "$81.00",
     "indent": false
   },
   {
@@ -380,7 +380,7 @@
   {
     "productName": "Cauliflower China 散菜花",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.80",
+    "salesPrice": "$5.20",
     "indent": false
   },
   {
@@ -458,7 +458,7 @@
   {
     "productName": "Chili Padi Green 青米椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$7.80",
+    "salesPrice": "$6.50",
     "indent": false
   },
   {
@@ -560,13 +560,13 @@
   {
     "productName": "Cucumber Japanese 日本青瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.60",
+    "salesPrice": "$4.50",
     "indent": false
   },
   {
     "productName": "Cucumber Japanese 日本青瓜 10KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$34.00",
+    "salesPrice": "$43.00",
     "indent": false
   },
   {
@@ -578,7 +578,7 @@
   {
     "productName": "Cucumber Old 老黄瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.00",
+    "salesPrice": "$2.30",
     "indent": false
   },
   {
@@ -1058,7 +1058,7 @@
   {
     "productName": "Lady's Finger 角豆",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.60",
+    "salesPrice": "$3.90",
     "indent": false
   },
   {
@@ -1136,7 +1136,7 @@
   {
     "productName": "Lettuce Baby Romaine 罗门生菜仔",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.50",
+    "salesPrice": "$4.00",
     "indent": false
   },
   {
@@ -1154,7 +1154,7 @@
   {
     "productName": "Lettuce Iceberg 玻璃生菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.50",
+    "salesPrice": "$3.80",
     "indent": false
   },
   {
@@ -1262,7 +1262,7 @@
   {
     "productName": "Melon Winter China 中国冬瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.40",
+    "salesPrice": "$2.20",
     "indent": false
   },
   {
@@ -1682,7 +1682,7 @@
   {
     "productName": "Pepper Bell Green 青灯笼椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.50",
+    "salesPrice": "$4.90",
     "indent": false
   },
   {
@@ -1730,7 +1730,7 @@
   {
     "productName": "Petai 臭豆 120G",
     "unitOfMeasure": "/PKT",
-    "salesPrice": "$3.50",
+    "salesPrice": "$4.00",
     "indent": false
   },
   {
@@ -2192,19 +2192,19 @@
   {
     "productName": "Tomatoes Cherry Red 红樱桃番茄",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.00",
+    "salesPrice": "$6.00",
     "indent": false
   },
   {
     "productName": "Tomatoes Local 本地番茄",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.50",
+    "salesPrice": "$2.90",
     "indent": false
   },
   {
     "productName": "Tomatoes Local 本地番茄 10KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$33.00",
+    "salesPrice": "$27.00",
     "indent": false
   },
   {
@@ -2240,7 +2240,7 @@
   {
     "productName": "Xiao Bai Chye 小白菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.30",
+    "salesPrice": "$3.80",
     "indent": false
   },
   {
@@ -2258,13 +2258,13 @@
   {
     "productName": "Yam Thai 泰国芋头",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.20",
+    "salesPrice": "$5.50",
     "indent": false
   },
   {
     "productName": "Yam Thai 泰国芋头 10KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$50.00",
+    "salesPrice": "$52.00",
     "indent": false
   },
   {
