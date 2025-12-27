@@ -200,7 +200,7 @@
   {
     "productName": "Bean Broad 扁豆",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$6.00",
+    "salesPrice": "$5.50",
     "indent": false
   },
   {
@@ -218,7 +218,7 @@
   {
     "productName": "Bean French 四季豆 250G",
     "unitOfMeasure": "/PKT",
-    "salesPrice": "$1.50",
+    "salesPrice": "$1.40",
     "indent": false
   },
   {
@@ -422,7 +422,7 @@
   {
     "productName": "Celtuce 三清莴笋",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.90",
+    "salesPrice": "$4.50",
     "indent": false
   },
   {
@@ -464,19 +464,19 @@
   {
     "productName": "Chili Padi Red Stemless 去头红米椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$11.80",
+    "salesPrice": "$12.50",
     "indent": false
   },
   {
     "productName": "Chili Padi Red 红米椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$10.80",
+    "salesPrice": "$11.50",
     "indent": false
   },
   {
     "productName": "Chili Red 红辣椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$7.50",
+    "salesPrice": "$8.80",
     "indent": false
   },
   {
@@ -500,13 +500,13 @@
   {
     "productName": "Chye Sim Cameron 金马伦菜芯",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.80",
+    "salesPrice": "$3.30",
     "indent": false
   },
   {
     "productName": "Chye Sim Hong Kong 香港菜心",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.00",
+    "salesPrice": "$5.50",
     "indent": false
   },
   {
@@ -560,19 +560,19 @@
   {
     "productName": "Cucumber Japanese 日本青瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.80",
+    "salesPrice": "$4.50",
     "indent": false
   },
   {
     "productName": "Cucumber Japanese 日本青瓜 10KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$46.00",
+    "salesPrice": "$43.00",
     "indent": false
   },
   {
     "productName": "Cucumber Local 本地青瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$1.30",
+    "salesPrice": "$1.10",
     "indent": false
   },
   {
@@ -1010,7 +1010,7 @@
   {
     "productName": "Kailan Hong Kong 香港芥兰",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.00",
+    "salesPrice": "$5.20",
     "indent": false
   },
   {
@@ -1346,13 +1346,13 @@
   {
     "productName": "Mushroom Shiitake 新香菇",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$8.00",
+    "salesPrice": "$7.50",
     "indent": false
   },
   {
     "productName": "Mushroom Shiitake 新香菇 5KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$38.00",
+    "salesPrice": "$35.00",
     "indent": false
   },
   {
@@ -1976,7 +1976,7 @@
   {
     "productName": "Shallot 小葱头",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.80",
+    "salesPrice": "$5.80",
     "indent": false
   },
   {
@@ -2048,7 +2048,7 @@
   {
     "productName": "Sprouts Brussels 球芽甘蓝",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$10.50",
+    "salesPrice": "$9.90",
     "indent": false
   },
   {
@@ -2240,7 +2240,7 @@
   {
     "productName": "Xiao Bai Chye 小白菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.00",
+    "salesPrice": "$3.80",
     "indent": false
   },
   {
