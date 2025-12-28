@@ -224,7 +224,7 @@
   {
     "productName": "Bean Long 菜豆",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.90",
+    "salesPrice": "$4.90",
     "indent": false
   },
   {
@@ -302,7 +302,7 @@
   {
     "productName": "Broccoli 西兰花",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.60",
+    "salesPrice": "$4.20",
     "indent": false
   },
   {
@@ -320,7 +320,7 @@
   {
     "productName": "Cabbage Long Chinese 大白菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$1.70",
+    "salesPrice": "$1.80",
     "indent": false
   },
   {
@@ -386,7 +386,7 @@
   {
     "productName": "Cauliflower 菜花",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.50",
+    "salesPrice": "$3.90",
     "indent": false
   },
   {
@@ -410,7 +410,7 @@
   {
     "productName": "Celery Chinese 芹菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.00",
+    "salesPrice": "$5.50",
     "indent": false
   },
   {
@@ -572,7 +572,7 @@
   {
     "productName": "Cucumber Local 本地青瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$1.30",
+    "salesPrice": "$1.40",
     "indent": false
   },
   {
@@ -656,7 +656,7 @@
   {
     "productName": "Eggplant Long 长茄",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.20",
+    "salesPrice": "$5.00",
     "indent": false
   },
   {
@@ -668,7 +668,7 @@
   {
     "productName": "Eggplant Thai 泰国青圆茄",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.50",
+    "salesPrice": "$3.00",
     "indent": false
   },
   {
@@ -1010,7 +1010,7 @@
   {
     "productName": "Kailan Hong Kong 香港芥兰",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.00",
+    "salesPrice": "$4.50",
     "indent": false
   },
   {
@@ -1172,7 +1172,7 @@
   {
     "productName": "Lotus Root 莲藕",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.00",
+    "salesPrice": "$3.00",
     "indent": false
   },
   {
@@ -1982,7 +1982,7 @@
   {
     "productName": "Shanghai Green 上海青",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.20",
+    "salesPrice": "$3.50",
     "indent": false
   },
   {
@@ -2258,13 +2258,13 @@
   {
     "productName": "Yam Thai 泰国芋头",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.50",
+    "salesPrice": "$5.20",
     "indent": false
   },
   {
     "productName": "Yam Thai 泰国芋头 10KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$52.00",
+    "salesPrice": "$50.00",
     "indent": false
   },
   {
