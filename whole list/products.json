@@ -200,7 +200,7 @@
   {
     "productName": "Bean Broad 扁豆",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$6.00",
+    "salesPrice": "$6.80",
     "indent": false
   },
   {
@@ -224,7 +224,7 @@
   {
     "productName": "Bean Long 菜豆",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.00",
+    "salesPrice": "$4.50",
     "indent": false
   },
   {
@@ -266,7 +266,7 @@
   {
     "productName": "Bittergourd 苦瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.50",
+    "salesPrice": "$4.80",
     "indent": false
   },
   {
@@ -380,7 +380,7 @@
   {
     "productName": "Cauliflower China 散菜花",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.20",
+    "salesPrice": "$4.80",
     "indent": false
   },
   {
@@ -410,13 +410,13 @@
   {
     "productName": "Celery Chinese 芹菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$6.00",
+    "salesPrice": "$7.50",
     "indent": false
   },
   {
     "productName": "Celery English 西芹",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.80",
+    "salesPrice": "$3.50",
     "indent": false
   },
   {
@@ -464,7 +464,7 @@
   {
     "productName": "Chili Padi Red Stemless 去头红米椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$10.00",
+    "salesPrice": "$12.50",
     "indent": false
   },
   {
@@ -500,7 +500,7 @@
   {
     "productName": "Chye Sim Cameron 金马伦菜芯",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.80",
+    "salesPrice": "$3.00",
     "indent": false
   },
   {
@@ -560,13 +560,13 @@
   {
     "productName": "Cucumber Japanese 日本青瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.00",
+    "salesPrice": "$2.80",
     "indent": false
   },
   {
     "productName": "Cucumber Japanese 日本青瓜 10KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$28.00",
+    "salesPrice": "$26.00",
     "indent": false
   },
   {
@@ -734,19 +734,19 @@
   {
     "productName": "Ginger Flower 姜花",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$1.25",
+    "salesPrice": "$1.00",
     "indent": false
   },
   {
     "productName": "Ginger Old 老姜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.90",
+    "salesPrice": "$4.10",
     "indent": false
   },
   {
     "productName": "Ginger Old 老姜 3.5KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$12.50",
+    "salesPrice": "$13.40",
     "indent": false
   },
   {
@@ -902,7 +902,7 @@
   {
     "productName": "Herb Coriander China 中国芫茜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$8.50",
+    "salesPrice": "$8.80",
     "indent": false
   },
   {
@@ -1058,7 +1058,7 @@
   {
     "productName": "Lady's Finger 角豆",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.00",
+    "salesPrice": "$3.30",
     "indent": false
   },
   {
@@ -1112,7 +1112,7 @@
   {
     "productName": "Leek Japanese/Scallion 北葱",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.30",
+    "salesPrice": "$3.50",
     "indent": false
   },
   {
@@ -2120,7 +2120,7 @@
   {
     "productName": "Sweet Potatoes Leaf 番薯叶",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.90",
+    "salesPrice": "$3.30",
     "indent": false
   },
   {
@@ -2276,7 +2276,7 @@
   {
     "productName": "Zucchini Green 青西葫芦",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.80",
+    "salesPrice": "$5.50",
     "indent": false
   },
   {
