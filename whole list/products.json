@@ -98,13 +98,13 @@
   {
     "productName": "Asparagus Green 青芦笋",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$18.50",
+    "salesPrice": "$21.00",
     "indent": false
   },
   {
     "productName": "Asparagus Green 青芦笋 5KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$88.50",
+    "salesPrice": "$101.00",
     "indent": false
   },
   {
@@ -1154,7 +1154,7 @@
   {
     "productName": "Lettuce Iceberg 玻璃生菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.80",
+    "salesPrice": "$3.50",
     "indent": false
   },
   {
