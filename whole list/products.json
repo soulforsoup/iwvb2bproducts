@@ -428,13 +428,13 @@
   {
     "productName": "Cherries Rainer 雷尼尔樱桃",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$47.00",
+    "salesPrice": "$55.00",
     "indent": false
   },
   {
     "productName": "Cherries Red 红樱桃",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$26.50",
+    "salesPrice": "$24.50",
     "indent": false
   },
   {
@@ -2276,7 +2276,7 @@
   {
     "productName": "Zucchini Green 青西葫芦",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.50",
+    "salesPrice": "$4.50",
     "indent": false
   },
   {
