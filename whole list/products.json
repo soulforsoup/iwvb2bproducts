@@ -200,7 +200,7 @@
   {
     "productName": "Bean Broad 扁豆",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$6.00",
+    "salesPrice": "$7.20",
     "indent": false
   },
   {
@@ -746,7 +746,7 @@
   {
     "productName": "Ginger Old 老姜 3.5KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$13.05",
+    "salesPrice": "$13.40",
     "indent": false
   },
   {
@@ -1106,7 +1106,7 @@
   {
     "productName": "Leek Green 青蒜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.50",
+    "salesPrice": "$3.80",
     "indent": false
   },
   {
@@ -1688,7 +1688,7 @@
   {
     "productName": "Pepper Bell Red 红灯笼椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.30",
+    "salesPrice": "$6.00",
     "indent": false
   },
   {
@@ -2010,6 +2010,24 @@
     "indent": false
   },
   {
+    "productName": "Shredded Yusheng Carrot (CNY)",
+    "unitOfMeasure": "/KG",
+    "salesPrice": "$8.80",
+    "indent": false
+  },
+  {
+    "productName": "Shredded Yusheng Green Radish (CNY)",
+    "unitOfMeasure": "/KG",
+    "salesPrice": "$9.30",
+    "indent": false
+  },
+  {
+    "productName": "Shredded Yusheng White Radish (CNY)",
+    "unitOfMeasure": "/KG",
+    "salesPrice": "$9.80",
+    "indent": false
+  },
+  {
     "productName": "Spinach Ceylon Baby 苋菜苗",
     "unitOfMeasure": "/KG",
     "salesPrice": "$3.90",
@@ -2252,7 +2270,7 @@
   {
     "productName": "Yam Chinese 山药",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.60",
+    "salesPrice": "$3.80",
     "indent": false
   },
   {
