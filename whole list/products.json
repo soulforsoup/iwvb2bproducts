@@ -410,7 +410,7 @@
   {
     "productName": "Celery Chinese 芹菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$6.00",
+    "salesPrice": "$5.50",
     "indent": false
   },
   {
@@ -560,13 +560,13 @@
   {
     "productName": "Cucumber Japanese 日本青瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.30",
+    "salesPrice": "$3.00",
     "indent": false
   },
   {
     "productName": "Cucumber Japanese 日本青瓜 10KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$31.00",
+    "salesPrice": "$28.00",
     "indent": false
   },
   {
@@ -578,7 +578,7 @@
   {
     "productName": "Cucumber Old 老黄瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.80",
+    "salesPrice": "$2.50",
     "indent": false
   },
   {
@@ -615,6 +615,12 @@
     "productName": "Egg Century 皮蛋",
     "unitOfMeasure": "/PCS",
     "salesPrice": "$0.70",
+    "indent": false
+  },
+  {
+    "productName": "Egg Cooked & Peeled 40PCS 去皮熟鸡蛋",
+    "unitOfMeasure": "/PKT",
+    "salesPrice": "$16.00",
     "indent": false
   },
   {
@@ -1058,7 +1064,7 @@
   {
     "productName": "Lady's Finger 角豆",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.30",
+    "salesPrice": "$4.20",
     "indent": false
   },
   {
@@ -1106,7 +1112,7 @@
   {
     "productName": "Leek Green 青蒜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.80",
+    "salesPrice": "$3.30",
     "indent": false
   },
   {
@@ -1136,7 +1142,7 @@
   {
     "productName": "Lettuce Baby Romaine 罗门生菜仔",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.90",
+    "salesPrice": "$4.50",
     "indent": false
   },
   {
@@ -1676,7 +1682,7 @@
   {
     "productName": "Peas Sweet 甜豆 130G",
     "unitOfMeasure": "/PKT",
-    "salesPrice": "$1.30",
+    "salesPrice": "$1.40",
     "indent": false
   },
   {
@@ -1712,7 +1718,7 @@
   {
     "productName": "Pepper Sheep Horn 羊角椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.50",
+    "salesPrice": "$5.90",
     "indent": false
   },
   {
@@ -1904,7 +1910,7 @@
   {
     "productName": "Radish Green 青萝卜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$1.70",
+    "salesPrice": "$2.10",
     "indent": false
   },
   {
@@ -2010,19 +2016,19 @@
     "indent": false
   },
   {
-    "productName": "Shredded Yusheng Carrot (CNY)",
+    "productName": "Shredded Yusheng Carrot (CNY) 萝卜丝",
     "unitOfMeasure": "/KG",
     "salesPrice": "$8.80",
     "indent": false
   },
   {
-    "productName": "Shredded Yusheng Green Radish (CNY)",
+    "productName": "Shredded Yusheng Green Radish (CNY) 青萝卜丝",
     "unitOfMeasure": "/KG",
     "salesPrice": "$9.30",
     "indent": false
   },
   {
-    "productName": "Shredded Yusheng White Radish (CNY)",
+    "productName": "Shredded Yusheng White Radish (CNY) 白萝卜丝",
     "unitOfMeasure": "/KG",
     "salesPrice": "$9.80",
     "indent": false
@@ -2258,7 +2264,7 @@
   {
     "productName": "Xiao Bai Chye 小白菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.80",
+    "salesPrice": "$2.50",
     "indent": false
   },
   {
