@@ -128,13 +128,13 @@
   {
     "productName": "Avocados Hass Australian 澳洲牛油果",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$1.60",
+    "salesPrice": "$1.80",
     "indent": false
   },
   {
     "productName": "Avocados Hass Australian 澳洲牛油果 25-30PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$47.00",
+    "salesPrice": "$49.00",
     "indent": false
   },
   {
@@ -380,13 +380,13 @@
   {
     "productName": "Cauliflower China 散菜花",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.80",
+    "salesPrice": "$4.20",
     "indent": false
   },
   {
     "productName": "Cauliflower 菜花",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.20",
+    "salesPrice": "$2.90",
     "indent": false
   },
   {
@@ -506,7 +506,7 @@
   {
     "productName": "Chye Sim Hong Kong 香港菜心",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.00",
+    "salesPrice": "$4.50",
     "indent": false
   },
   {
@@ -1676,7 +1676,7 @@
   {
     "productName": "Peas Snow 荷兰豆 130G",
     "unitOfMeasure": "/PKT",
-    "salesPrice": "$1.30",
+    "salesPrice": "$1.40",
     "indent": false
   },
   {
@@ -1718,7 +1718,7 @@
   {
     "productName": "Pepper Sheep Horn 羊角椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.90",
+    "salesPrice": "$5.50",
     "indent": false
   },
   {
@@ -1736,7 +1736,7 @@
   {
     "productName": "Petai 臭豆 120G",
     "unitOfMeasure": "/PKT",
-    "salesPrice": "$4.00",
+    "salesPrice": "$4.50",
     "indent": false
   },
   {
