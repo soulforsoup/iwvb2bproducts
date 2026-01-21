@@ -380,7 +380,7 @@
   {
     "productName": "Cauliflower China 散菜花",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.20",
+    "salesPrice": "$4.50",
     "indent": false
   },
   {
@@ -464,7 +464,7 @@
   {
     "productName": "Chili Padi Red Stemless 去头红米椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$12.50",
+    "salesPrice": "$11.50",
     "indent": false
   },
   {
@@ -572,7 +572,7 @@
   {
     "productName": "Cucumber Local 本地青瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$1.60",
+    "salesPrice": "$1.30",
     "indent": false
   },
   {
@@ -1190,7 +1190,7 @@
   {
     "productName": "Mango Green 青芒果",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.90",
+    "salesPrice": "$4.50",
     "indent": false
   },
   {
@@ -1346,7 +1346,7 @@
   {
     "productName": "Mushroom Seafood 海鲜菇 150G",
     "unitOfMeasure": "/PKT",
-    "salesPrice": "$0.75",
+    "salesPrice": "$0.80",
     "indent": false
   },
   {
@@ -2222,13 +2222,13 @@
   {
     "productName": "Tomatoes Local 本地番茄",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.50",
+    "salesPrice": "$4.20",
     "indent": false
   },
   {
     "productName": "Tomatoes Local 本地番茄 10KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$43.00",
+    "salesPrice": "$40.00",
     "indent": false
   },
   {
