@@ -98,13 +98,13 @@
   {
     "productName": "Asparagus Green 青芦笋",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$21.00",
+    "salesPrice": "$20.00",
     "indent": false
   },
   {
     "productName": "Asparagus Green 青芦笋 5KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$101.00",
+    "salesPrice": "$96.00",
     "indent": false
   },
   {
@@ -224,7 +224,7 @@
   {
     "productName": "Bean Long 菜豆",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.20",
+    "salesPrice": "$3.80",
     "indent": false
   },
   {
@@ -446,7 +446,7 @@
   {
     "productName": "Chili Green 青辣椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$6.50",
+    "salesPrice": "$7.00",
     "indent": false
   },
   {
@@ -662,7 +662,7 @@
   {
     "productName": "Eggplant Long 长茄",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.20",
+    "salesPrice": "$4.80",
     "indent": false
   },
   {
@@ -1161,6 +1161,12 @@
     "productName": "Lettuce Iceberg 玻璃生菜",
     "unitOfMeasure": "/KG",
     "salesPrice": "$3.50",
+    "indent": false
+  },
+  {
+    "productName": "Lettuce Romaine 罗门生菜",
+    "unitOfMeasure": "/KG",
+    "salesPrice": "$3.30",
     "indent": false
   },
   {
@@ -1878,13 +1884,19 @@
     "indent": false
   },
   {
-    "productName": "Pumpkin Butternut 胡桃南瓜",
+    "productName": "Pumpkin Australian 澳洲南瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.90",
+    "salesPrice": "$2.50",
     "indent": false
   },
   {
-    "productName": "Pumpkin Local 本地金瓜",
+    "productName": "Pumpkin Butternut 胡桃南瓜",
+    "unitOfMeasure": "/KG",
+    "salesPrice": "$5.20",
+    "indent": false
+  },
+  {
+    "productName": "Pumpkin Local 本地南瓜",
     "unitOfMeasure": "/KG",
     "salesPrice": "$1.60",
     "indent": false
@@ -2216,19 +2228,19 @@
   {
     "productName": "Tomatoes Cherry Red 红樱桃番茄",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$6.00",
+    "salesPrice": "$5.50",
     "indent": false
   },
   {
     "productName": "Tomatoes Local 本地番茄",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.00",
+    "salesPrice": "$2.60",
     "indent": false
   },
   {
     "productName": "Tomatoes Local 本地番茄 10KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$28.00",
+    "salesPrice": "$24.00",
     "indent": false
   },
   {
