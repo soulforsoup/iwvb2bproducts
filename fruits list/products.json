@@ -548,7 +548,7 @@
   {
     "productName": "Orange Navel Sunkist Barnfield 新奇士橙 56/72PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$78.00",
+    "salesPrice": "$85.00",
     "indent": false
   },
   {
@@ -579,6 +579,18 @@
     "productName": "Orange Navel/Valencia 橙 72/80/88PCS",
     "unitOfMeasure": "/CTN",
     "salesPrice": "$33.00",
+    "indent": false
+  },
+  {
+    "productName": "Orange Sunkist 新奇士橙 (L) Size",
+    "unitOfMeasure": "/PCS",
+    "salesPrice": "$1.90",
+    "indent": false
+  },
+  {
+    "productName": "Orange Sunkist 新奇士橙 (S) Size",
+    "unitOfMeasure": "/PCS",
+    "salesPrice": "$1.60",
     "indent": false
   },
   {
