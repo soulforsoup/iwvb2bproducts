@@ -380,7 +380,7 @@
   {
     "productName": "Cauliflower China 散菜花",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.80",
+    "salesPrice": "$3.80",
     "indent": false
   },
   {
@@ -464,7 +464,7 @@
   {
     "productName": "Chili Padi Red Stemless 去头红米椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$10.00",
+    "salesPrice": "$8.00",
     "indent": false
   },
   {
@@ -662,7 +662,7 @@
   {
     "productName": "Eggplant Long 长茄",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.80",
+    "salesPrice": "$4.50",
     "indent": false
   },
   {
@@ -1340,7 +1340,7 @@
   {
     "productName": "Mushroom King Oyster XL Sized 特大杏鲍菇 2.5KG",
     "unitOfMeasure": "/PKT",
-    "salesPrice": "$7.50",
+    "salesPrice": "$8.00",
     "indent": false
   },
   {
@@ -1388,7 +1388,7 @@
   {
     "productName": "Nai Bai 奶白",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.80",
+    "salesPrice": "$5.50",
     "indent": false
   },
   {
@@ -1712,7 +1712,7 @@
   {
     "productName": "Pepper Bell Red 红灯笼椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$6.50",
+    "salesPrice": "$5.50",
     "indent": false
   },
   {
@@ -2246,13 +2246,13 @@
   {
     "productName": "Tomatoes Local 本地番茄",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.50",
+    "salesPrice": "$3.90",
     "indent": false
   },
   {
     "productName": "Tomatoes Local 本地番茄 10KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$33.00",
+    "salesPrice": "$37.00",
     "indent": false
   },
   {
