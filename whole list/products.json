@@ -662,7 +662,7 @@
   {
     "productName": "Eggplant Long 长茄",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.20",
+    "salesPrice": "$4.50",
     "indent": false
   },
   {
@@ -1488,12 +1488,6 @@
     "indent": false
   },
   {
-    "productName": "Orange Mandarin Papagan 耙耙柑",
-    "unitOfMeasure": "/KG",
-    "salesPrice": "$3.80",
-    "indent": false
-  },
-  {
     "productName": "Orange Mandarin Taiwan Ponkan 台湾椪柑",
     "unitOfMeasure": "/KG",
     "salesPrice": "$8.00",
@@ -2246,7 +2240,7 @@
   {
     "productName": "Tomatoes Cherry Red 红樱桃番茄",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$6.50",
+    "salesPrice": "$6.00",
     "indent": false
   },
   {
@@ -2330,13 +2324,13 @@
   {
     "productName": "Zucchini Green 青西葫芦",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.50",
+    "salesPrice": "$4.50",
     "indent": false
   },
   {
     "productName": "Zucchini Yellow 黄西葫芦",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$6.00",
+    "salesPrice": "$7.00",
     "indent": false
   }
 ]
