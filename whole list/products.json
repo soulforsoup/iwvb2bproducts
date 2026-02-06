@@ -200,7 +200,7 @@
   {
     "productName": "Bean Broad 扁豆",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$7.20",
+    "salesPrice": "$6.50",
     "indent": false
   },
   {
@@ -416,7 +416,7 @@
   {
     "productName": "Celery English 西芹",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.00",
+    "salesPrice": "$2.80",
     "indent": false
   },
   {
@@ -1436,13 +1436,13 @@
   {
     "productName": "Onion Yellow Australian 澳洲黄洋葱 20KG",
     "unitOfMeasure": "/SACK",
-    "salesPrice": "$25.00",
+    "salesPrice": "$34.00",
     "indent": false
   },
   {
     "productName": "Onion Yellow Australian/Holland 澳洲荷兰黃洋葱",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$1.40",
+    "salesPrice": "$1.80",
     "indent": false
   },
   {
@@ -2006,7 +2006,7 @@
   {
     "productName": "Shallot Peeled 葱肉 1KG",
     "unitOfMeasure": "/PKT",
-    "salesPrice": "$3.30",
+    "salesPrice": "$3.60",
     "indent": false
   },
   {
