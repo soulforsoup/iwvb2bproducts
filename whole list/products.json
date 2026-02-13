@@ -224,7 +224,7 @@
   {
     "productName": "Bean Long 菜豆",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.80",
+    "salesPrice": "$5.80",
     "indent": false
   },
   {
@@ -338,7 +338,7 @@
   {
     "productName": "Calamansi 小酸甘",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.50",
+    "salesPrice": "$4.20",
     "indent": false
   },
   {
@@ -578,7 +578,7 @@
   {
     "productName": "Cucumber Old 老黄瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.50",
+    "salesPrice": "$2.20",
     "indent": false
   },
   {
@@ -776,7 +776,7 @@
   {
     "productName": "Gourd Angled 角瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.20",
+    "salesPrice": "$2.50",
     "indent": false
   },
   {
@@ -1340,7 +1340,7 @@
   {
     "productName": "Mushroom King Oyster XL Sized 特大杏鲍菇 2.5KG",
     "unitOfMeasure": "/PKT",
-    "salesPrice": "$8.00",
+    "salesPrice": "$8.50",
     "indent": false
   },
   {
@@ -2006,7 +2006,7 @@
   {
     "productName": "Shallot Peeled 葱肉 1KG",
     "unitOfMeasure": "/PKT",
-    "salesPrice": "$3.60",
+    "salesPrice": "$3.50",
     "indent": false
   },
   {
@@ -2252,13 +2252,13 @@
   {
     "productName": "Tomatoes Local 本地番茄",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.30",
+    "salesPrice": "$2.90",
     "indent": false
   },
   {
     "productName": "Tomatoes Local 本地番茄 10KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$31.00",
+    "salesPrice": "$27.00",
     "indent": false
   },
   {
