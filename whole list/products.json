@@ -224,7 +224,7 @@
   {
     "productName": "Bean Long 菜豆",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.80",
+    "salesPrice": "$6.00",
     "indent": false
   },
   {
@@ -1136,7 +1136,7 @@
   {
     "productName": "Lemongrass 香茅",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.80",
+    "salesPrice": "$4.40",
     "indent": false
   },
   {
@@ -2252,13 +2252,13 @@
   {
     "productName": "Tomatoes Local 本地番茄",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.90",
+    "salesPrice": "$2.60",
     "indent": false
   },
   {
     "productName": "Tomatoes Local 本地番茄 10KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$27.00",
+    "salesPrice": "$24.00",
     "indent": false
   },
   {
@@ -2294,7 +2294,7 @@
   {
     "productName": "Xiao Bai Chye 小白菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.50",
+    "salesPrice": "$2.80",
     "indent": false
   },
   {
