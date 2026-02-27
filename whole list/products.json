@@ -266,7 +266,7 @@
   {
     "productName": "Bittergourd 苦瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.50",
+    "salesPrice": "$4.00",
     "indent": false
   },
   {
@@ -476,7 +476,7 @@
   {
     "productName": "Chili Red 红辣椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$9.00",
+    "salesPrice": "$6.50",
     "indent": false
   },
   {
@@ -572,13 +572,13 @@
   {
     "productName": "Cucumber Local 本地青瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$1.80",
+    "salesPrice": "$2.00",
     "indent": false
   },
   {
     "productName": "Cucumber Old 老黄瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.20",
+    "salesPrice": "$2.80",
     "indent": false
   },
   {
@@ -824,13 +824,13 @@
   {
     "productName": "Grapes Australian Red Seedless 澳洲无籽红葡萄",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$8.00",
+    "salesPrice": "$8.50",
     "indent": false
   },
   {
     "productName": "Grapes Australian Red Seedless 澳洲无籽红葡萄 9KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$68.00",
+    "salesPrice": "$72.50",
     "indent": false
   },
   {
@@ -854,25 +854,25 @@
   {
     "productName": "Grapes Green Seedless 无籽青葡萄",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$7.50",
+    "salesPrice": "$8.00",
     "indent": false
   },
   {
     "productName": "Grapes Green Seedless 无籽青葡萄 5KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$34.00",
+    "salesPrice": "$36.50",
     "indent": false
   },
   {
     "productName": "Grapes Red Seedless 无籽红葡萄",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$7.50",
+    "salesPrice": "$8.50",
     "indent": false
   },
   {
     "productName": "Grapes Red Seedless 无籽红葡萄 5KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$34.00",
+    "salesPrice": "$39.00",
     "indent": false
   },
   {
@@ -914,7 +914,7 @@
   {
     "productName": "Herb Coriander Thai 泰国芫茜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$8.80",
+    "salesPrice": "$11.00",
     "indent": false
   },
   {
@@ -1016,7 +1016,7 @@
   {
     "productName": "Kailan Hong Kong 香港芥兰",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.00",
+    "salesPrice": "$4.50",
     "indent": false
   },
   {
@@ -1064,7 +1064,7 @@
   {
     "productName": "Lady's Finger 角豆",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.80",
+    "salesPrice": "$4.40",
     "indent": false
   },
   {
@@ -1274,7 +1274,7 @@
   {
     "productName": "Melon Winter China 中国冬瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.20",
+    "salesPrice": "$2.50",
     "indent": false
   },
   {
@@ -2312,19 +2312,19 @@
   {
     "productName": "Yam Thai 泰国芋头",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.50",
+    "salesPrice": "$6.20",
     "indent": false
   },
   {
     "productName": "Yam Thai 泰国芋头 10KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$53.00",
+    "salesPrice": "$59.00",
     "indent": false
   },
   {
     "productName": "You Mai Cai 油麦菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.80",
+    "salesPrice": "$4.20",
     "indent": false
   },
   {
