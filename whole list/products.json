@@ -98,13 +98,13 @@
   {
     "productName": "Asparagus Green 青芦笋",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$20.00",
+    "salesPrice": "$18.00",
     "indent": false
   },
   {
     "productName": "Asparagus Green 青芦笋 5KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$96.00",
+    "salesPrice": "$82.00",
     "indent": false
   },
   {
@@ -290,13 +290,13 @@
   {
     "productName": "Blueberries 蓝莓 125G",
     "unitOfMeasure": "/PUN",
-    "salesPrice": "$2.90",
+    "salesPrice": "$3.20",
     "indent": false
   },
   {
     "productName": "Blueberries 蓝莓 12x125G",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$32.00",
+    "salesPrice": "$35.00",
     "indent": false
   },
   {
