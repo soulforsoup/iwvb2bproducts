@@ -872,25 +872,25 @@
   {
     "productName": "Strawberries Korean 优质韩国草莓 330G",
     "unitOfMeasure": "/BOX",
-    "salesPrice": "$12.50",
+    "salesPrice": "$11.00",
     "indent": false
   },
   {
     "productName": "Strawberries Korean 优质韩国草莓 330Gx4",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$47.00",
+    "salesPrice": "$42.00",
     "indent": false
   },
   {
     "productName": "Strawberries Korean 韩国草莓 250G",
     "unitOfMeasure": "/BOX",
     "salesPrice": "$8.00",
-    "indent": true
+    "indent": false
   },
   {
     "productName": "Strawberries Korean 韩国草莓 250Gx8",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$57.00",
+    "salesPrice": "$52.00",
     "indent": false
   },
   {
@@ -902,19 +902,19 @@
   {
     "productName": "Strawberries USA 美国草莓 500Gx8",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$62.00",
+    "salesPrice": "$68.00",
     "indent": false
   },
   {
     "productName": "Strawberries 草莓 250G",
     "unitOfMeasure": "/BOX",
-    "salesPrice": "$4.20",
+    "salesPrice": "$4.50",
     "indent": false
   },
   {
     "productName": "Strawberries 草莓 500G",
     "unitOfMeasure": "/BOX",
-    "salesPrice": "$8.00",
+    "salesPrice": "$9.00",
     "indent": false
   },
   {
