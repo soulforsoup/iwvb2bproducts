@@ -2,7 +2,7 @@
   {
     "productName": "Apple China Fuji 中国富士苹果 (L) Size",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$1.05",
+    "salesPrice": "$0.90",
     "indent": false
   },
   {
@@ -20,7 +20,7 @@
   {
     "productName": "Apple China Fuji 中国富士苹果 88/100/113PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$49.00",
+    "salesPrice": "$50.00",
     "indent": false
   },
   {
@@ -32,19 +32,19 @@
   {
     "productName": "Apple Envy New Zealand XL Size 爱妃新西兰苹果 30PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$79.00",
+    "salesPrice": "$88.00",
     "indent": false
   },
   {
     "productName": "Apple Envy New Zealand 爱妃新西兰苹果 (L) Size",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$1.80",
+    "salesPrice": "$2.00",
     "indent": false
   },
   {
     "productName": "Apple Envy New Zealand 爱妃新西兰苹果 (XL) Size",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$2.80",
+    "salesPrice": "$3.20",
     "indent": false
   },
   {
@@ -128,19 +128,19 @@
   {
     "productName": "Avocados Hass Mexico 墨西哥牛油果 60/70PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$105.00",
+    "salesPrice": "$100.00",
     "indent": false
   },
   {
     "productName": "Avocados Shepard Australian 优质澳洲牛油果",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$2.10",
+    "salesPrice": "$2.00",
     "indent": false
   },
   {
     "productName": "Avocados Shepard Australian 优质澳洲牛油果 28-30PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$55.00",
+    "salesPrice": "$53.00",
     "indent": false
   },
   {
@@ -170,7 +170,7 @@
   {
     "productName": "Banana Cavendish Sunpride 香蕉 15KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$36.00",
+    "salesPrice": "$38.00",
     "indent": false
   },
   {
@@ -188,7 +188,7 @@
   {
     "productName": "Blueberries Jumbo 蓝莓珍宝 125G",
     "unitOfMeasure": "/PUN",
-    "salesPrice": "$3.50",
+    "salesPrice": "$3.90",
     "indent": false
   },
   {
@@ -212,7 +212,7 @@
   {
     "productName": "Cherries Red 红樱桃",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$24.50",
+    "salesPrice": "$24.00",
     "indent": false
   },
   {
@@ -242,7 +242,7 @@
   {
     "productName": "Dragon Fruit Red 红肉火龙果",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.50",
+    "salesPrice": "$3.80",
     "indent": false
   },
   {
@@ -260,13 +260,13 @@
   {
     "productName": "Dragon Fruit White 白火龙果 14-18PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$18.00",
+    "salesPrice": "$20.00",
     "indent": false
   },
   {
     "productName": "Dragon Fruit Yellow 黄肉火龙果 5-8PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$49.00",
+    "salesPrice": "$39.00",
     "indent": false
   },
   {
@@ -320,7 +320,7 @@
   {
     "productName": "Grapes Black Seedless 无籽黑葡萄 5KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$34.00",
+    "salesPrice": "$35.00",
     "indent": false
   },
   {
@@ -338,25 +338,25 @@
   {
     "productName": "Grapes Green Seedless 无籽青葡萄 5KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$36.50",
+    "salesPrice": "$37.50",
     "indent": false
   },
   {
     "productName": "Grapes Red Seedless 无籽红葡萄",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$8.50",
+    "salesPrice": "$8.00",
     "indent": false
   },
   {
     "productName": "Grapes Red Seedless 无籽红葡萄 5KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$39.00",
+    "salesPrice": "$37.50",
     "indent": false
   },
   {
     "productName": "Guava Luohan 罗汉番石榴",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$1.20",
+    "salesPrice": "$1.00",
     "indent": false
   },
   {
@@ -374,7 +374,7 @@
   {
     "productName": "Jackfruit Peeled 去皮波萝蜜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$12.00",
+    "salesPrice": "$11.00",
     "indent": false
   },
   {
@@ -416,13 +416,13 @@
   {
     "productName": "Lemon 柠檬 80/88/100/113PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$52.00",
+    "salesPrice": "$50.00",
     "indent": false
   },
   {
     "productName": "Lime 青柠",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.50",
+    "salesPrice": "$3.20",
     "indent": false
   },
   {
@@ -440,7 +440,7 @@
   {
     "productName": "Mango Green 青芒果",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.00",
+    "salesPrice": "$3.00",
     "indent": false
   },
   {
@@ -494,7 +494,7 @@
   {
     "productName": "Mangosteen 山竹        ",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.50",
+    "salesPrice": "$5.00",
     "indent": false
   },
   {
@@ -554,13 +554,13 @@
   {
     "productName": "Orange Navel/Valencia 橙 (L) Size",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$1.00",
+    "salesPrice": "$0.90",
     "indent": false
   },
   {
     "productName": "Orange Navel/Valencia 橙 (S) Size",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$0.60",
+    "salesPrice": "$0.50",
     "indent": false
   },
   {
@@ -572,7 +572,7 @@
   {
     "productName": "Orange Navel/Valencia 橙 45/50/55PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$42.00",
+    "salesPrice": "$40.00",
     "indent": false
   },
   {
@@ -596,7 +596,7 @@
   {
     "productName": "Papaya Dole 多尔木瓜",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$3.60",
+    "salesPrice": "$3.20",
     "indent": false
   },
   {
@@ -608,7 +608,7 @@
   {
     "productName": "Papaya Green 青木瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$1.40",
+    "salesPrice": "$1.30",
     "indent": false
   },
   {
@@ -638,7 +638,7 @@
   {
     "productName": "Peach White 白桃",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$7.50",
+    "salesPrice": "$7.00",
     "indent": false
   },
   {
@@ -656,7 +656,7 @@
   {
     "productName": "Pear Forelle Blush 红耙梨",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$1.00",
+    "salesPrice": "$0.90",
     "indent": false
   },
   {
@@ -668,7 +668,7 @@
   {
     "productName": "Pear Fragrant 香梨",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.80",
+    "salesPrice": "$5.50",
     "indent": false
   },
   {
@@ -692,7 +692,7 @@
   {
     "productName": "Pear Nam Shui 南水梨",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$2.30",
+    "salesPrice": "$2.20",
     "indent": false
   },
   {
@@ -704,19 +704,19 @@
   {
     "productName": "Pear Packham 青啤梨",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$0.70",
+    "salesPrice": "$0.60",
     "indent": false
   },
   {
     "productName": "Pear Packham 青啤梨 45/48/52PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$30.00",
+    "salesPrice": "$32.00",
     "indent": false
   },
   {
     "productName": "Pear Packham 青啤梨 70/90PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$40.00",
+    "salesPrice": "$38.00",
     "indent": false
   },
   {
@@ -746,13 +746,13 @@
   {
     "productName": "Pineapple Honey 水晶蜂蜜黄梨",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$2.20",
+    "salesPrice": "$2.10",
     "indent": false
   },
   {
     "productName": "Pineapple Local 本地黄梨",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$2.20",
+    "salesPrice": "$2.10",
     "indent": false
   },
   {
@@ -818,7 +818,7 @@
   {
     "productName": "Raspberries 覆盆子",
     "unitOfMeasure": "/PUN",
-    "salesPrice": "$6.80",
+    "salesPrice": "$6.50",
     "indent": false
   },
   {
@@ -902,7 +902,7 @@
   {
     "productName": "Strawberries USA 美国草莓 500Gx8",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$68.00",
+    "salesPrice": "$65.00",
     "indent": false
   },
   {
@@ -914,7 +914,7 @@
   {
     "productName": "Strawberries 草莓 500G",
     "unitOfMeasure": "/BOX",
-    "salesPrice": "$9.00",
+    "salesPrice": "$8.80",
     "indent": false
   },
   {
