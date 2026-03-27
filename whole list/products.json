@@ -98,13 +98,13 @@
   {
     "productName": "Asparagus Green 青芦笋",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$18.00",
+    "salesPrice": "$18.50",
     "indent": false
   },
   {
     "productName": "Asparagus Green 青芦笋 5KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$83.00",
+    "salesPrice": "$86.00",
     "indent": false
   },
   {
@@ -806,7 +806,7 @@
   {
     "productName": "Grapes Australian Black Seedless 澳洲无籽黑葡萄 9KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$70.00",
+    "salesPrice": "$6.10",
     "indent": false
   },
   {
@@ -1119,6 +1119,12 @@
     "productName": "Leek Japanese/Scallion 北葱",
     "unitOfMeasure": "/KG",
     "salesPrice": "$3.50",
+    "indent": false
+  },
+  {
+    "productName": "Lemon Sunkist 新奇柠檬",
+    "unitOfMeasure": "/PCS",
+    "salesPrice": "$0.70",
     "indent": false
   },
   {
@@ -2259,6 +2265,18 @@
     "productName": "Tomatoes Local 本地番茄 10KG",
     "unitOfMeasure": "/CTN",
     "salesPrice": "$20.00",
+    "indent": false
+  },
+  {
+    "productName": "Tomatoes Roma 罗马蕃茄",
+    "unitOfMeasure": "/KG",
+    "salesPrice": "$18.00",
+    "indent": false
+  },
+  {
+    "productName": "Tomatoes Roma 罗马蕃茄 3KG",
+    "unitOfMeasure": "/CTN",
+    "salesPrice": "$49.00",
     "indent": false
   },
   {
