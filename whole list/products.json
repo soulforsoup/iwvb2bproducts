@@ -266,7 +266,7 @@
   {
     "productName": "Bittergourd 苦瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.00",
+    "salesPrice": "$4.20",
     "indent": false
   },
   {
@@ -302,7 +302,7 @@
   {
     "productName": "Broccoli 西兰花",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.00",
+    "salesPrice": "$3.30",
     "indent": false
   },
   {
@@ -728,7 +728,7 @@
   {
     "productName": "Garlic Shoot 蒜花",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.20",
+    "salesPrice": "$5.50",
     "indent": false
   },
   {
@@ -1328,13 +1328,13 @@
   {
     "productName": "Mushroom Hon-Shimeji Brown 黑玉菇 150G",
     "unitOfMeasure": "/PKT",
-    "salesPrice": "$0.90",
+    "salesPrice": "$0.85",
     "indent": false
   },
   {
     "productName": "Mushroom Hon-Shimeji White 白玉菇 150G",
     "unitOfMeasure": "/PKT",
-    "salesPrice": "$0.85",
+    "salesPrice": "$0.80",
     "indent": false
   },
   {
@@ -1730,7 +1730,7 @@
   {
     "productName": "Pepper Bell Yellow 黄灯笼椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.50",
+    "salesPrice": "$5.00",
     "indent": false
   },
   {
@@ -2012,7 +2012,7 @@
   {
     "productName": "Shallot Peeled 葱肉 1KG",
     "unitOfMeasure": "/PKT",
-    "salesPrice": "$3.30",
+    "salesPrice": "$3.50",
     "indent": false
   },
   {
