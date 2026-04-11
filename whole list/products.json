@@ -560,13 +560,13 @@
   {
     "productName": "Cucumber Japanese 日本青瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.90",
+    "salesPrice": "$3.50",
     "indent": false
   },
   {
     "productName": "Cucumber Japanese 日本青瓜 10KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$28.00",
+    "salesPrice": "$33.00",
     "indent": false
   },
   {
@@ -702,13 +702,13 @@
     "indent": false
   },
   {
-    "productName": "Garlic Clove 蒜瓣",
+    "productName": "Garlic 蒜瓣",
     "unitOfMeasure": "/KG",
     "salesPrice": "$3.50",
     "indent": false
   },
   {
-    "productName": "Garlic Clove 蒜瓣 2.5KG",
+    "productName": "Garlic 蒜瓣 2.5KG",
     "unitOfMeasure": "/SACK",
     "salesPrice": "$7.80",
     "indent": false
@@ -1136,7 +1136,7 @@
   {
     "productName": "Lemon 柠檬 80/88/100/113PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$50.00",
+    "salesPrice": "$53.00",
     "indent": false
   },
   {
