@@ -134,7 +134,7 @@
   {
     "productName": "Avocados Hass Australian 澳洲牛油果 25-30PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$49.00",
+    "salesPrice": "$45.00",
     "indent": false
   },
   {
@@ -146,7 +146,7 @@
   {
     "productName": "Avocados Hass Mexico 墨西哥牛油果 60/70PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$100.00",
+    "salesPrice": "$88.00",
     "indent": false
   },
   {
@@ -158,7 +158,7 @@
   {
     "productName": "Avocados Shepard Australian 优质澳洲牛油果 28-30PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$53.00",
+    "salesPrice": "$52.00",
     "indent": false
   },
   {
@@ -224,7 +224,7 @@
   {
     "productName": "Bean Long 菜豆",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.20",
+    "salesPrice": "$3.50",
     "indent": false
   },
   {
@@ -380,7 +380,7 @@
   {
     "productName": "Cauliflower China 散菜花",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.50",
+    "salesPrice": "$4.00",
     "indent": false
   },
   {
@@ -500,7 +500,7 @@
   {
     "productName": "Chye Sim Cameron 金马伦菜芯",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.50",
+    "salesPrice": "$2.80",
     "indent": false
   },
   {
@@ -560,13 +560,13 @@
   {
     "productName": "Cucumber Japanese 日本青瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.90",
+    "salesPrice": "$4.50",
     "indent": false
   },
   {
     "productName": "Cucumber Japanese 日本青瓜 10KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$28.00",
+    "salesPrice": "$43.00",
     "indent": false
   },
   {
@@ -702,13 +702,13 @@
     "indent": false
   },
   {
-    "productName": "Garlic Clove 蒜瓣",
+    "productName": "Garlic 蒜瓣",
     "unitOfMeasure": "/KG",
     "salesPrice": "$3.50",
     "indent": false
   },
   {
-    "productName": "Garlic Clove 蒜瓣 2.5KG",
+    "productName": "Garlic 蒜瓣 2.5KG",
     "unitOfMeasure": "/SACK",
     "salesPrice": "$7.80",
     "indent": false
@@ -1136,7 +1136,7 @@
   {
     "productName": "Lemon 柠檬 80/88/100/113PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$50.00",
+    "salesPrice": "$53.00",
     "indent": false
   },
   {
@@ -2162,7 +2162,7 @@
   {
     "productName": "Strawberries USA 美国草莓 500Gx8",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$62.00",
+    "salesPrice": "$65.00",
     "indent": false
   },
   {
@@ -2312,7 +2312,7 @@
   {
     "productName": "Xiao Bai Chye 小白菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.50",
+    "salesPrice": "$2.80",
     "indent": false
   },
   {
