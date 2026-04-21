@@ -98,13 +98,13 @@
   {
     "productName": "Asparagus Green 青芦笋",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$18.50",
+    "salesPrice": "$20.00",
     "indent": false
   },
   {
     "productName": "Asparagus Green 青芦笋 5KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$86.00",
+    "salesPrice": "$97.00",
     "indent": false
   },
   {
@@ -500,7 +500,7 @@
   {
     "productName": "Chye Sim Cameron 金马伦菜芯",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.80",
+    "salesPrice": "$2.50",
     "indent": false
   },
   {
@@ -560,19 +560,19 @@
   {
     "productName": "Cucumber Japanese 日本青瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.50",
+    "salesPrice": "$3.90",
     "indent": false
   },
   {
     "productName": "Cucumber Japanese 日本青瓜 10KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$43.00",
+    "salesPrice": "$37.00",
     "indent": false
   },
   {
     "productName": "Cucumber Local 本地青瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$1.80",
+    "salesPrice": "$2.00",
     "indent": false
   },
   {
@@ -2162,7 +2162,7 @@
   {
     "productName": "Strawberries USA 美国草莓 500Gx8",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$65.00",
+    "salesPrice": "$66.00",
     "indent": false
   },
   {
@@ -2174,7 +2174,7 @@
   {
     "productName": "Strawberries 草莓 500G",
     "unitOfMeasure": "/BOX",
-    "salesPrice": "$8.80",
+    "salesPrice": "$9.00",
     "indent": false
   },
   {
