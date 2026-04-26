@@ -98,13 +98,13 @@
   {
     "productName": "Asparagus Green 青芦笋",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$20.50",
+    "salesPrice": "$18.50",
     "indent": false
   },
   {
     "productName": "Asparagus Green 青芦笋 5KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$99.50",
+    "salesPrice": "$86.00",
     "indent": false
   },
   {
@@ -224,7 +224,7 @@
   {
     "productName": "Bean Long 菜豆",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.20",
+    "salesPrice": "$3.50",
     "indent": false
   },
   {
@@ -266,7 +266,7 @@
   {
     "productName": "Bittergourd 苦瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.80",
+    "salesPrice": "$4.20",
     "indent": false
   },
   {
@@ -338,7 +338,7 @@
   {
     "productName": "Calamansi 小酸甘",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.50",
+    "salesPrice": "$3.50",
     "indent": false
   },
   {
@@ -458,7 +458,7 @@
   {
     "productName": "Chili Padi Green 青米椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$6.20",
+    "salesPrice": "$5.50",
     "indent": false
   },
   {
@@ -500,7 +500,7 @@
   {
     "productName": "Chye Sim Cameron 金马伦菜芯",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.00",
+    "salesPrice": "$2.80",
     "indent": false
   },
   {
@@ -560,19 +560,19 @@
   {
     "productName": "Cucumber Japanese 日本青瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.70",
+    "salesPrice": "$4.50",
     "indent": false
   },
   {
     "productName": "Cucumber Japanese 日本青瓜 10KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$35.00",
+    "salesPrice": "$43.00",
     "indent": false
   },
   {
     "productName": "Cucumber Local 本地青瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$1.50",
+    "salesPrice": "$1.80",
     "indent": false
   },
   {
@@ -662,7 +662,7 @@
   {
     "productName": "Eggplant Long 长茄",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.20",
+    "salesPrice": "$4.00",
     "indent": false
   },
   {
@@ -1112,13 +1112,13 @@
   {
     "productName": "Leek Green 青蒜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.80",
+    "salesPrice": "$3.30",
     "indent": false
   },
   {
     "productName": "Leek Japanese/Scallion 北葱",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.80",
+    "salesPrice": "$3.50",
     "indent": false
   },
   {
@@ -1154,13 +1154,13 @@
   {
     "productName": "Lettuce Coral Green 青生菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$6.00",
+    "salesPrice": "$4.50",
     "indent": false
   },
   {
     "productName": "Lettuce Coral Red 红生菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.50",
+    "salesPrice": "$5.00",
     "indent": false
   },
   {
@@ -1400,7 +1400,7 @@
   {
     "productName": "Onion Red Peeled 去皮红葱 1KG",
     "unitOfMeasure": "/PKT",
-    "salesPrice": "$1.80",
+    "salesPrice": "$2.00",
     "indent": false
   },
   {
@@ -1424,13 +1424,13 @@
   {
     "productName": "Onion Spring Malaysia 马来西亚青葱",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$7.50",
+    "salesPrice": "$6.20",
     "indent": false
   },
   {
     "productName": "Onion Spring Thai 泰国青葱",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$7.50",
+    "salesPrice": "$6.20",
     "indent": false
   },
   {
@@ -2024,7 +2024,7 @@
   {
     "productName": "Shanghai Green 上海青",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.90",
+    "salesPrice": "$3.40",
     "indent": false
   },
   {
@@ -2162,7 +2162,7 @@
   {
     "productName": "Strawberries USA 美国草莓 500Gx8",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$66.00",
+    "salesPrice": "$65.00",
     "indent": false
   },
   {
@@ -2174,7 +2174,7 @@
   {
     "productName": "Strawberries 草莓 500G",
     "unitOfMeasure": "/BOX",
-    "salesPrice": "$9.00",
+    "salesPrice": "$8.80",
     "indent": false
   },
   {
@@ -2186,7 +2186,7 @@
   {
     "productName": "Sweet Potatoes Leaf 番薯叶",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.30",
+    "salesPrice": "$3.00",
     "indent": false
   },
   {
@@ -2318,7 +2318,7 @@
   {
     "productName": "Xiao Bai Chye 小白菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.90",
+    "salesPrice": "$2.80",
     "indent": false
   },
   {
