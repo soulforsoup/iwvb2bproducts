@@ -212,7 +212,7 @@
   {
     "productName": "Cherries Red 红樱桃",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$24.00",
+    "salesPrice": "$30.00",
     "indent": false
   },
   {
@@ -267,6 +267,12 @@
     "productName": "Dragon Fruit Yellow 黄肉火龙果 5-8PCS",
     "unitOfMeasure": "/CTN",
     "salesPrice": "$39.00",
+    "indent": false
+  },
+  {
+    "productName": "Fig 无花果",
+    "unitOfMeasure": "/PUN",
+    "salesPrice": "$4.90",
     "indent": false
   },
   {
