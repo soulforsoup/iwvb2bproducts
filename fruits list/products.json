@@ -212,7 +212,7 @@
   {
     "productName": "Cherries Red 红樱桃",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$30.00",
+    "salesPrice": "$29.00",
     "indent": false
   },
   {
@@ -362,7 +362,7 @@
   {
     "productName": "Guava Luohan 罗汉番石榴",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$1.00",
+    "salesPrice": "$1.20",
     "indent": false
   },
   {
@@ -422,7 +422,7 @@
   {
     "productName": "Lemon 柠檬 80/88/100/113PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$53.00",
+    "salesPrice": "$52.00",
     "indent": false
   },
   {
@@ -512,13 +512,13 @@
   {
     "productName": "Melon Rock 哈密瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.80",
+    "salesPrice": "$4.00",
     "indent": false
   },
   {
     "productName": "Melon Rock 哈密瓜 5/6/7PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$47.00",
+    "salesPrice": "$52.00",
     "indent": false
   },
   {
