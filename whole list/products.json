@@ -98,13 +98,13 @@
   {
     "productName": "Asparagus Green 青芦笋",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$20.50",
+    "salesPrice": "$20.00",
     "indent": false
   },
   {
     "productName": "Asparagus Green 青芦笋 5KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$99.50",
+    "salesPrice": "$97.00",
     "indent": false
   },
   {
@@ -224,7 +224,7 @@
   {
     "productName": "Bean Long 菜豆",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.20",
+    "salesPrice": "$4.50",
     "indent": false
   },
   {
@@ -338,7 +338,7 @@
   {
     "productName": "Calamansi 小酸甘",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.50",
+    "salesPrice": "$4.00",
     "indent": false
   },
   {
@@ -434,7 +434,7 @@
   {
     "productName": "Cherries Red 红樱桃",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$24.00",
+    "salesPrice": "$29.00",
     "indent": false
   },
   {
@@ -690,6 +690,12 @@
     "indent": false
   },
   {
+    "productName": "Fig 无花果",
+    "unitOfMeasure": "/PUN",
+    "salesPrice": "$4.90",
+    "indent": false
+  },
+  {
     "productName": "Frisée Yellow 黄皱叶菊苣",
     "unitOfMeasure": "/KG",
     "salesPrice": "$20.00",
@@ -926,7 +932,7 @@
   {
     "productName": "Herb Fennel 茴香",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$9.50",
+    "salesPrice": "$12.00",
     "indent": false
   },
   {
@@ -998,13 +1004,13 @@
   {
     "productName": "Jiu Bai Chye 九白菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.50",
+    "salesPrice": "$2.90",
     "indent": false
   },
   {
     "productName": "Jiu Bai Chye 九白菜 10KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$23.00",
+    "salesPrice": "$27.00",
     "indent": false
   },
   {
@@ -1136,7 +1142,7 @@
   {
     "productName": "Lemon 柠檬 80/88/100/113PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$53.00",
+    "salesPrice": "$52.00",
     "indent": false
   },
   {
@@ -1148,19 +1154,19 @@
   {
     "productName": "Lettuce Baby Romaine 罗门生菜仔",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.80",
+    "salesPrice": "$4.60",
     "indent": false
   },
   {
     "productName": "Lettuce Coral Green 青生菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$6.50",
+    "salesPrice": "$6.90",
     "indent": false
   },
   {
     "productName": "Lettuce Coral Red 红生菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.50",
+    "salesPrice": "$5.90",
     "indent": false
   },
   {
@@ -1268,13 +1274,13 @@
   {
     "productName": "Melon Rock 哈密瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.80",
+    "salesPrice": "$4.00",
     "indent": false
   },
   {
     "productName": "Melon Rock 哈密瓜 5/6/7PCS",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$47.00",
+    "salesPrice": "$52.00",
     "indent": false
   },
   {
