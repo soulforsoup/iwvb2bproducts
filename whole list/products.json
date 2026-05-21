@@ -224,7 +224,7 @@
   {
     "productName": "Bean Long 菜豆",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.80",
+    "salesPrice": "$4.00",
     "indent": false
   },
   {
@@ -260,7 +260,7 @@
   {
     "productName": "Beetroot 甜菜根",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.50",
+    "salesPrice": "$3.00",
     "indent": false
   },
   {
@@ -314,7 +314,7 @@
   {
     "productName": "Cabbage Beijing 北京包菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$1.50",
+    "salesPrice": "$1.30",
     "indent": false
   },
   {
@@ -338,7 +338,7 @@
   {
     "productName": "Calamansi 小酸甘",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.00",
+    "salesPrice": "$4.20",
     "indent": false
   },
   {
@@ -380,13 +380,13 @@
   {
     "productName": "Cauliflower China 散菜花",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.00",
+    "salesPrice": "$4.50",
     "indent": false
   },
   {
     "productName": "Cauliflower 菜花",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.20",
+    "salesPrice": "$3.70",
     "indent": false
   },
   {
@@ -416,7 +416,7 @@
   {
     "productName": "Celery English 西芹",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.50",
+    "salesPrice": "$2.20",
     "indent": false
   },
   {
@@ -500,7 +500,7 @@
   {
     "productName": "Chye Sim Cameron 金马伦菜芯",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.50",
+    "salesPrice": "$3.00",
     "indent": false
   },
   {
@@ -896,13 +896,13 @@
   {
     "productName": "Herb Arugula Australian 澳洲火箭菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$25.00",
+    "salesPrice": "$24.00",
     "indent": true
   },
   {
     "productName": "Herb Arugula Cameron Highlands 金马伦火箭菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$25.00",
+    "salesPrice": "$24.00",
     "indent": false
   },
   {
@@ -944,7 +944,7 @@
   {
     "productName": "Herb Leaf Mint Malaysia 马来西亚薄荷叶",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$8.00",
+    "salesPrice": "$9.00",
     "indent": false
   },
   {
@@ -1022,7 +1022,7 @@
   {
     "productName": "Kailan Hong Kong 香港芥兰",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.20",
+    "salesPrice": "$4.80",
     "indent": false
   },
   {
@@ -1052,13 +1052,13 @@
   {
     "productName": "Kiwifruit Green Zespri 佳沛青奇异果",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$1.20",
+    "salesPrice": "$1.30",
     "indent": false
   },
   {
     "productName": "Kiwifruit Green Zespri 佳沛青奇异果 70/74PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$75.00",
+    "salesPrice": "$79.00",
     "indent": false
   },
   {
@@ -1154,19 +1154,19 @@
   {
     "productName": "Lettuce Baby Romaine 罗门生菜仔",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.60",
+    "salesPrice": "$4.20",
     "indent": false
   },
   {
     "productName": "Lettuce Coral Green 青生菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$6.90",
+    "salesPrice": "$6.00",
     "indent": false
   },
   {
     "productName": "Lettuce Coral Red 红生菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$6.90",
+    "salesPrice": "$7.00",
     "indent": false
   },
   {
@@ -1730,7 +1730,7 @@
   {
     "productName": "Peas Sweet 甜豆 130G",
     "unitOfMeasure": "/PKT",
-    "salesPrice": "$1.00",
+    "salesPrice": "$1.10",
     "indent": false
   },
   {
@@ -2048,13 +2048,13 @@
   {
     "productName": "Shine Muscat China 中国阳光玫瑰",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$7.00",
+    "salesPrice": "$7.50",
     "indent": false
   },
   {
     "productName": "Shine Muscat China 中国阳光玫瑰 5KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$30.00",
+    "salesPrice": "$33.00",
     "indent": false
   },
   {
@@ -2282,13 +2282,13 @@
   {
     "productName": "Tomatoes Local 本地番茄",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.00",
+    "salesPrice": "$2.50",
     "indent": false
   },
   {
     "productName": "Tomatoes Local 本地番茄 10KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$28.00",
+    "salesPrice": "$23.00",
     "indent": false
   },
   {
