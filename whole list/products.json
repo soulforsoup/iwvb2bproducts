@@ -98,13 +98,13 @@
   {
     "productName": "Asparagus Green 青芦笋",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$21.00",
+    "salesPrice": "$19.00",
     "indent": false
   },
   {
     "productName": "Asparagus Green 青芦笋 5KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$101.00",
+    "salesPrice": "$91.00",
     "indent": false
   },
   {
@@ -1934,7 +1934,7 @@
   {
     "productName": "Pumpkin Butternut 胡桃南瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.90",
+    "salesPrice": "$5.50",
     "indent": false
   },
   {
