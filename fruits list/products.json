@@ -512,13 +512,13 @@
   {
     "productName": "Melon Rock 哈密瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.20",
+    "salesPrice": "$5.80",
     "indent": false
   },
   {
     "productName": "Melon Rock 哈密瓜 5/6/7PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$55.00",
+    "salesPrice": "$72.00",
     "indent": false
   },
   {
@@ -938,7 +938,7 @@
   {
     "productName": "Watermelon 西瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$1.50",
+    "salesPrice": "$1.65",
     "indent": false
   }
 ]
