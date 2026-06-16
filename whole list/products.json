@@ -1224,19 +1224,19 @@
     "indent": false
   },
   {
-    "productName": "Mango R2E2/Keitt Australian 澳洲芒果",
+    "productName": "Mango R2E2 蘋果芒果",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$6.50",
+    "salesPrice": "$4.80",
     "indent": false
   },
   {
-    "productName": "Mango R2E2/Keitt Australian 澳洲芒果 9KG",
+    "productName": "Mango R2E2 蘋果芒果 9KG",
     "unitOfMeasure": "/CTN",
     "salesPrice": "$43.00",
     "indent": false
   },
   {
-    "productName": "Mango Thai Gold 泰国金芒果",
+    "productName": "Mango Thai Honey 泰国蜂蜜芒果",
     "unitOfMeasure": "/KG",
     "salesPrice": "$5.50",
     "indent": false
@@ -1250,13 +1250,13 @@
   {
     "productName": "Mango Thai Milk 泰国牛奶芒果 18KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$55.00",
+    "salesPrice": "$49.00",
     "indent": false
   },
   {
     "productName": "Mango Thai Rainbow 泰国彩虹芒果",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.30",
+    "salesPrice": "$4.00",
     "indent": false
   },
   {
