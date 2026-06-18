@@ -224,7 +224,7 @@
   {
     "productName": "Bean Long 菜豆",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.50",
+    "salesPrice": "$3.80",
     "indent": false
   },
   {
@@ -266,7 +266,7 @@
   {
     "productName": "Bittergourd 苦瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.80",
+    "salesPrice": "$3.50",
     "indent": false
   },
   {
@@ -386,7 +386,7 @@
   {
     "productName": "Cauliflower 菜花",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.80",
+    "salesPrice": "$3.30",
     "indent": false
   },
   {
@@ -410,7 +410,7 @@
   {
     "productName": "Celery Chinese 芹菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$7.00",
+    "salesPrice": "$7.50",
     "indent": false
   },
   {
@@ -572,13 +572,13 @@
   {
     "productName": "Cucumber Local 本地青瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$1.70",
+    "salesPrice": "$1.30",
     "indent": false
   },
   {
     "productName": "Cucumber Old 老黄瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.60",
+    "salesPrice": "$2.80",
     "indent": false
   },
   {
@@ -668,7 +668,7 @@
   {
     "productName": "Eggplant Pearl 珍珠红茄",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.50",
+    "salesPrice": "$3.80",
     "indent": false
   },
   {
@@ -914,13 +914,13 @@
   {
     "productName": "Herb Coriander China 中国芫茜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$8.00",
+    "salesPrice": "$9.50",
     "indent": false
   },
   {
     "productName": "Herb Coriander Thai 泰国芫茜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$7.50",
+    "salesPrice": "$9.50",
     "indent": false
   },
   {
@@ -1124,7 +1124,7 @@
   {
     "productName": "Leek Japanese/Scallion 北葱",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.50",
+    "salesPrice": "$3.00",
     "indent": false
   },
   {
@@ -1166,7 +1166,7 @@
   {
     "productName": "Lettuce Coral Red 红生菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.50",
+    "salesPrice": "$7.50",
     "indent": false
   },
   {
@@ -1218,27 +1218,27 @@
     "indent": false
   },
   {
-    "productName": "Mango Honey China 中国蜂蜜芒果 9/10KG",
+    "productName": "Mango Honey China 中国蜂蜜芒果 20-24PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$40.00",
+    "salesPrice": "$52.00",
     "indent": false
   },
   {
-    "productName": "Mango R2E2 蘋果芒果",
+    "productName": "Mango R2E2/Keitt Australian 澳洲芒果",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.80",
+    "salesPrice": "$6.50",
     "indent": false
   },
   {
-    "productName": "Mango R2E2 蘋果芒果 9KG",
+    "productName": "Mango R2E2/Keitt Australian 澳洲芒果 9KG",
     "unitOfMeasure": "/CTN",
     "salesPrice": "$43.00",
     "indent": false
   },
   {
-    "productName": "Mango Thai Honey 泰国蜂蜜芒果",
+    "productName": "Mango Thai Gold 泰国金芒果",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.50",
+    "salesPrice": "$5.20",
     "indent": false
   },
   {
@@ -1250,13 +1250,13 @@
   {
     "productName": "Mango Thai Milk 泰国牛奶芒果 18KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$49.00",
+    "salesPrice": "$55.00",
     "indent": false
   },
   {
     "productName": "Mango Thai Rainbow 泰国彩虹芒果",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.00",
+    "salesPrice": "$4.30",
     "indent": false
   },
   {
@@ -1338,13 +1338,13 @@
     "indent": false
   },
   {
-    "productName": "Mushroom Hon-Shimeiji Brown 黑玉菇 150G",
+    "productName": "Mushroom Hon-Shimeji Brown 黑玉菇 150G",
     "unitOfMeasure": "/PKT",
     "salesPrice": "$0.80",
     "indent": false
   },
   {
-    "productName": "Mushroom Hon-Shimeiji White 白玉菇 150G",
+    "productName": "Mushroom Hon-Shimeji White 白玉菇 150G",
     "unitOfMeasure": "/PKT",
     "salesPrice": "$0.70",
     "indent": false
@@ -1374,13 +1374,13 @@
     "indent": false
   },
   {
-    "productName": "Mushroom Shiitake 香菇",
+    "productName": "Mushroom Shiitake 新香菇",
     "unitOfMeasure": "/KG",
     "salesPrice": "$8.00",
     "indent": false
   },
   {
-    "productName": "Mushroom Shiitake 香菇 5KG",
+    "productName": "Mushroom Shiitake 新香菇 5KG",
     "unitOfMeasure": "/CTN",
     "salesPrice": "$38.00",
     "indent": false
@@ -1766,7 +1766,7 @@
   {
     "productName": "Pepper Sheep Horn 羊角椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.20",
+    "salesPrice": "$4.50",
     "indent": false
   },
   {
@@ -2016,12 +2016,6 @@
     "indent": false
   },
   {
-    "productName": "Salad Mesclun Premium 优质彩叶沙拉 500G",
-    "unitOfMeasure": "/PKT",
-    "salesPrice": "$10.50",
-    "indent": false
-  },
-  {
     "productName": "Salad Pea Tendrils / Pea Shoot Salad Cress (HTND) 100G/PUN",
     "unitOfMeasure": "/PUN",
     "salesPrice": "$9.90",
@@ -2048,7 +2042,7 @@
   {
     "productName": "Shanghai Green 上海青",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.30",
+    "salesPrice": "$2.80",
     "indent": false
   },
   {
@@ -2282,19 +2276,19 @@
   {
     "productName": "Tomatoes Cherry Red 红樱桃番茄",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.80",
+    "salesPrice": "$4.50",
     "indent": false
   },
   {
     "productName": "Tomatoes Local 本地番茄",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.50",
+    "salesPrice": "$3.00",
     "indent": false
   },
   {
     "productName": "Tomatoes Local 本地番茄 10KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$33.00",
+    "salesPrice": "$28.00",
     "indent": false
   },
   {
@@ -2312,7 +2306,7 @@
   {
     "productName": "Turnip 沙葛",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.20",
+    "salesPrice": "$2.50",
     "indent": false
   },
   {
@@ -2330,7 +2324,7 @@
   {
     "productName": "Watermelon 西瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$1.55",
+    "salesPrice": "$1.65",
     "indent": false
   },
   {
@@ -2372,7 +2366,7 @@
   {
     "productName": "You Mai Cai 油麦菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.50",
+    "salesPrice": "$4.00",
     "indent": false
   },
   {
