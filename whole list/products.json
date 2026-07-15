@@ -138,13 +138,13 @@
     "indent": false
   },
   {
-    "productName": "Avocados Hass Mexico 墨西哥牛油果",
+    "productName": "Avocados Hass Australian/Mexican 澳洲墨西哥牛油果",
     "unitOfMeasure": "/PCS",
     "salesPrice": "$1.70",
     "indent": false
   },
   {
-    "productName": "Avocados Hass Mexico 墨西哥牛油果 60/70PCS",
+    "productName": "Avocados Hass Australian/Mexican 澳洲墨西哥牛油果 60/70PCS",
     "unitOfMeasure": "/CTN",
     "salesPrice": "$88.00",
     "indent": false
@@ -410,7 +410,7 @@
   {
     "productName": "Celery Chinese 芹菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$7.00",
+    "salesPrice": "$6.50",
     "indent": false
   },
   {
@@ -572,7 +572,7 @@
   {
     "productName": "Cucumber Local 本地青瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$1.30",
+    "salesPrice": "$1.60",
     "indent": false
   },
   {
@@ -1172,7 +1172,7 @@
   {
     "productName": "Lettuce Iceberg 玻璃生菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.50",
+    "salesPrice": "$4.20",
     "indent": false
   },
   {
@@ -1532,7 +1532,7 @@
   {
     "productName": "Orange Navel/Valencia 橙 (L) Size",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$0.90",
+    "salesPrice": "$1.00",
     "indent": false
   },
   {
@@ -1550,7 +1550,7 @@
   {
     "productName": "Orange Navel/Valencia 橙 45/50/55PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$40.00",
+    "salesPrice": "$45.00",
     "indent": false
   },
   {
@@ -1586,7 +1586,7 @@
   {
     "productName": "Papaya Green 青木瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$1.70",
+    "salesPrice": "$2.00",
     "indent": false
   },
   {
@@ -1754,7 +1754,7 @@
   {
     "productName": "Pepper Green Screw 螺丝椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.50",
+    "salesPrice": "$4.80",
     "indent": false
   },
   {
@@ -2288,13 +2288,13 @@
   {
     "productName": "Tomatoes Local 本地番茄",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.70",
+    "salesPrice": "$3.90",
     "indent": false
   },
   {
     "productName": "Tomatoes Local 本地番茄 10KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$35.00",
+    "salesPrice": "$37.00",
     "indent": false
   },
   {
@@ -2336,7 +2336,7 @@
   {
     "productName": "Wawa Cai 娃娃菜 300G",
     "unitOfMeasure": "/PKT",
-    "salesPrice": "$1.30",
+    "salesPrice": "$1.40",
     "indent": false
   },
   {

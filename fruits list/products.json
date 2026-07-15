@@ -120,13 +120,13 @@
     "indent": false
   },
   {
-    "productName": "Avocados Hass Mexico 墨西哥牛油果",
+    "productName": "Avocados Hass Australian/Mexican 澳洲墨西哥牛油果",
     "unitOfMeasure": "/PCS",
     "salesPrice": "$1.70",
     "indent": false
   },
   {
-    "productName": "Avocados Hass Mexico 墨西哥牛油果 60/70PCS",
+    "productName": "Avocados Hass Australian/Mexican 澳洲墨西哥牛油果 60/70PCS",
     "unitOfMeasure": "/CTN",
     "salesPrice": "$88.00",
     "indent": false
@@ -566,7 +566,7 @@
   {
     "productName": "Orange Navel/Valencia 橙 (L) Size",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$0.90",
+    "salesPrice": "$1.00",
     "indent": false
   },
   {
@@ -584,7 +584,7 @@
   {
     "productName": "Orange Navel/Valencia 橙 45/50/55PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$40.00",
+    "salesPrice": "$45.00",
     "indent": false
   },
   {
@@ -620,7 +620,7 @@
   {
     "productName": "Papaya Green 青木瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$1.70",
+    "salesPrice": "$2.00",
     "indent": false
   },
   {
