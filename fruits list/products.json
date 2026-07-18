@@ -98,13 +98,13 @@
   {
     "productName": "Avocados Hass Australian 澳洲牛油果",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$1.90",
+    "salesPrice": "$1.80",
     "indent": false
   },
   {
     "productName": "Avocados Hass Australian 澳洲牛油果 25-30PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$50.00",
+    "salesPrice": "$48.00",
     "indent": false
   },
   {
@@ -120,13 +120,13 @@
     "indent": false
   },
   {
-    "productName": "Avocados Hass Australian/Mexican 澳洲墨西哥牛油果",
+    "productName": "Avocados Hass Mexico 墨西哥牛油果",
     "unitOfMeasure": "/PCS",
     "salesPrice": "$1.70",
     "indent": false
   },
   {
-    "productName": "Avocados Hass Australian/Mexican 澳洲墨西哥牛油果 60/70PCS",
+    "productName": "Avocados Hass Mexico 墨西哥牛油果 60/70PCS",
     "unitOfMeasure": "/CTN",
     "salesPrice": "$88.00",
     "indent": false
@@ -180,9 +180,9 @@
     "indent": false
   },
   {
-    "productName": "Blueberries Jumbo Premium 优质蓝莓珍宝 200G",
+    "productName": "Blueberries Jumbo Premium 优质蓝莓珍宝 150G",
     "unitOfMeasure": "/PUN",
-    "salesPrice": "$6.20",
+    "salesPrice": "$4.90",
     "indent": false
   },
   {
@@ -290,7 +290,7 @@
   {
     "productName": "Grapes Australian Black Seedless 澳洲无籽黑葡萄 9KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$120.00",
+    "salesPrice": "$6.10",
     "indent": false
   },
   {
@@ -330,9 +330,9 @@
     "indent": false
   },
   {
-    "productName": "Grapes Candy/Gum Drops Red Seedless 糖果脆葡萄",
+    "productName": "Grapes Candy Snaps Red Seedless 糖果脆葡萄",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$13.80",
+    "salesPrice": "$11.00",
     "indent": false
   },
   {
@@ -374,7 +374,7 @@
   {
     "productName": "Honeydew 甘露",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.30",
+    "salesPrice": "$2.00",
     "indent": false
   },
   {
@@ -456,27 +456,27 @@
     "indent": false
   },
   {
-    "productName": "Mango Honey China 中国蜂蜜芒果 9/10KG",
+    "productName": "Mango Honey China 中国蜂蜜芒果 20-24PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$40.00",
+    "salesPrice": "$52.00",
     "indent": false
   },
   {
-    "productName": "Mango R2E2 蘋果芒果",
+    "productName": "Mango R2E2/Keitt Australian 澳洲芒果",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.80",
+    "salesPrice": "$6.50",
     "indent": false
   },
   {
-    "productName": "Mango R2E2 蘋果芒果 9KG",
+    "productName": "Mango R2E2/Keitt Australian 澳洲芒果 9KG",
     "unitOfMeasure": "/CTN",
     "salesPrice": "$43.00",
     "indent": false
   },
   {
-    "productName": "Mango Thai Honey 泰国蜂蜜芒果",
+    "productName": "Mango Thai Gold 泰国金芒果",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.50",
+    "salesPrice": "$5.20",
     "indent": false
   },
   {
@@ -488,13 +488,13 @@
   {
     "productName": "Mango Thai Milk 泰国牛奶芒果 18KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$49.00",
+    "salesPrice": "$55.00",
     "indent": false
   },
   {
     "productName": "Mango Thai Rainbow 泰国彩虹芒果",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.00",
+    "salesPrice": "$4.30",
     "indent": false
   },
   {
@@ -512,13 +512,13 @@
   {
     "productName": "Melon Rock 哈密瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.20",
+    "salesPrice": "$5.80",
     "indent": false
   },
   {
     "productName": "Melon Rock 哈密瓜 5/6/7PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$56.00",
+    "salesPrice": "$72.00",
     "indent": false
   },
   {
@@ -566,7 +566,7 @@
   {
     "productName": "Orange Navel/Valencia 橙 (L) Size",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$1.00",
+    "salesPrice": "$0.90",
     "indent": false
   },
   {
@@ -584,7 +584,7 @@
   {
     "productName": "Orange Navel/Valencia 橙 45/50/55PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$45.00",
+    "salesPrice": "$40.00",
     "indent": false
   },
   {
@@ -620,7 +620,7 @@
   {
     "productName": "Papaya Green 青木瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.00",
+    "salesPrice": "$1.70",
     "indent": false
   },
   {
@@ -650,7 +650,7 @@
   {
     "productName": "Peach White 白桃",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$10.00",
+    "salesPrice": "$7.00",
     "indent": false
   },
   {
@@ -938,7 +938,7 @@
   {
     "productName": "Watermelon 西瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$1.70",
+    "salesPrice": "$1.65",
     "indent": false
   }
 ]
