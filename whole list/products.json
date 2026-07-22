@@ -224,7 +224,7 @@
   {
     "productName": "Bean Long 菜豆",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.00",
+    "salesPrice": "$3.50",
     "indent": false
   },
   {
@@ -266,7 +266,7 @@
   {
     "productName": "Bittergourd 苦瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.20",
+    "salesPrice": "$3.80",
     "indent": false
   },
   {
@@ -320,7 +320,7 @@
   {
     "productName": "Cabbage Long Chinese 大白菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$1.40",
+    "salesPrice": "$1.60",
     "indent": false
   },
   {
@@ -422,7 +422,7 @@
   {
     "productName": "Celtuce 三清莴笋",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.80",
+    "salesPrice": "$4.00",
     "indent": false
   },
   {
@@ -500,7 +500,7 @@
   {
     "productName": "Chye Sim Cameron 金马伦菜芯",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.00",
+    "salesPrice": "$2.70",
     "indent": false
   },
   {
@@ -788,7 +788,7 @@
   {
     "productName": "Gourd Hairy 毛瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.00",
+    "salesPrice": "$3.50",
     "indent": false
   },
   {
@@ -914,7 +914,7 @@
   {
     "productName": "Herb Coriander China 中国芫茜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$8.00",
+    "salesPrice": "$7.50",
     "indent": false
   },
   {
@@ -1412,7 +1412,7 @@
   {
     "productName": "Onion Red Peeled 去皮红葱 1KG",
     "unitOfMeasure": "/PKT",
-    "salesPrice": "$1.80",
+    "salesPrice": "$2.00",
     "indent": false
   },
   {
@@ -1442,7 +1442,7 @@
   {
     "productName": "Onion Spring Thai 泰国青葱",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$6.90",
+    "salesPrice": "$6.20",
     "indent": false
   },
   {
@@ -1586,7 +1586,7 @@
   {
     "productName": "Papaya Green 青木瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$1.90",
+    "salesPrice": "$2.00",
     "indent": false
   },
   {
@@ -1724,7 +1724,7 @@
   {
     "productName": "Peas Snow 荷兰豆 130G",
     "unitOfMeasure": "/PKT",
-    "salesPrice": "$1.10",
+    "salesPrice": "$1.20",
     "indent": false
   },
   {
