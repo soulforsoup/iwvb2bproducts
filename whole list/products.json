@@ -200,7 +200,7 @@
   {
     "productName": "Bean Broad 扁豆",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.30",
+    "salesPrice": "$4.80",
     "indent": false
   },
   {
@@ -266,7 +266,7 @@
   {
     "productName": "Bittergourd 苦瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.80",
+    "salesPrice": "$3.00",
     "indent": false
   },
   {
@@ -416,7 +416,7 @@
   {
     "productName": "Celery Chinese 芹菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$8.00",
+    "salesPrice": "$6.50",
     "indent": false
   },
   {
@@ -452,7 +452,7 @@
   {
     "productName": "Chili Green 青辣椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$6.00",
+    "salesPrice": "$6.80",
     "indent": false
   },
   {
@@ -482,7 +482,7 @@
   {
     "productName": "Chili Red 红辣椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$6.00",
+    "salesPrice": "$6.50",
     "indent": false
   },
   {
@@ -716,13 +716,13 @@
   {
     "productName": "Garlic 蒜瓣",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.80",
+    "salesPrice": "$4.50",
     "indent": false
   },
   {
     "productName": "Garlic 蒜瓣 2.5KG",
     "unitOfMeasure": "/SACK",
-    "salesPrice": "$11.00",
+    "salesPrice": "$10.80",
     "indent": false
   },
   {
@@ -920,13 +920,13 @@
   {
     "productName": "Herb Coriander China 中国芫茜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$8.00",
+    "salesPrice": "$9.50",
     "indent": false
   },
   {
     "productName": "Herb Coriander Thai 泰国芫茜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$10.00",
+    "salesPrice": "$11.00",
     "indent": false
   },
   {
@@ -981,6 +981,12 @@
     "productName": "Herb Rosemary 迷迭香 50G",
     "unitOfMeasure": "/PKT",
     "salesPrice": "$3.50",
+    "indent": false
+  },
+  {
+    "productName": "Herb Tarragon 龙蒿草 50G",
+    "unitOfMeasure": "/PKT",
+    "salesPrice": "$4.00",
     "indent": false
   },
   {
@@ -1424,7 +1430,7 @@
   {
     "productName": "Onion Red 红葱",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$1.70",
+    "salesPrice": "$1.80",
     "indent": false
   },
   {
@@ -1742,13 +1748,13 @@
   {
     "productName": "Pepper Bell Green 青灯笼椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.00",
+    "salesPrice": "$4.80",
     "indent": false
   },
   {
     "productName": "Pepper Bell Red 红灯笼椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.50",
+    "salesPrice": "$5.30",
     "indent": false
   },
   {
@@ -1884,7 +1890,7 @@
     "indent": false
   },
   {
-    "productName": "Potatoes Local 本地马铃薯 9KG",
+    "productName": "Potatoes Local 本地马铃薯 10KG",
     "unitOfMeasure": "/SACK",
     "salesPrice": "$11.50",
     "indent": false
@@ -2150,7 +2156,7 @@
   {
     "productName": "Strawberries Aust/SF 澳洲非洲草莓 250Gx15/16",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$68.00",
+    "salesPrice": "$66.00",
     "indent": false
   },
   {
@@ -2366,13 +2372,13 @@
   {
     "productName": "Yam Thai 泰国芋头",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.50",
+    "salesPrice": "$4.80",
     "indent": false
   },
   {
     "productName": "Yam Thai 泰国芋头 10KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$43.00",
+    "salesPrice": "$46.00",
     "indent": false
   },
   {
