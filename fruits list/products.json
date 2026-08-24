@@ -446,7 +446,7 @@
   {
     "productName": "Mango Green 青芒果",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.50",
+    "salesPrice": "$4.00",
     "indent": false
   },
   {
@@ -482,13 +482,13 @@
   {
     "productName": "Mango Thai Milk 泰国牛奶芒果",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.00",
+    "salesPrice": "$4.50",
     "indent": false
   },
   {
     "productName": "Mango Thai Milk 泰国牛奶芒果 18KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$60.00",
+    "salesPrice": "$68.00",
     "indent": false
   },
   {
@@ -626,7 +626,7 @@
   {
     "productName": "Papaya Local 本地木瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$1.80",
+    "salesPrice": "$2.40",
     "indent": false
   },
   {
@@ -830,7 +830,7 @@
   {
     "productName": "Rambutan 红毛丹        ",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.90",
+    "salesPrice": "$5.50",
     "indent": false
   },
   {
@@ -848,13 +848,13 @@
   {
     "productName": "Shine Muscat China 中国阳光玫瑰",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$7.50",
+    "salesPrice": "$6.00",
     "indent": false
   },
   {
     "productName": "Shine Muscat China 中国阳光玫瑰 5KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$33.00",
+    "salesPrice": "$25.00",
     "indent": false
   },
   {
@@ -878,7 +878,7 @@
   {
     "productName": "Strawberries Aust/SF 澳洲非洲草莓 250Gx15/16",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$58.00",
+    "salesPrice": "$66.00",
     "indent": false
   },
   {
