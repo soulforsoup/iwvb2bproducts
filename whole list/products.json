@@ -200,7 +200,7 @@
   {
     "productName": "Bean Broad 扁豆",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.90",
+    "salesPrice": "$4.20",
     "indent": false
   },
   {
@@ -386,13 +386,13 @@
   {
     "productName": "Cauliflower China 散菜花",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.40",
+    "salesPrice": "$4.80",
     "indent": false
   },
   {
     "productName": "Cauliflower 菜花",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.00",
+    "salesPrice": "$2.80",
     "indent": false
   },
   {
@@ -512,7 +512,7 @@
   {
     "productName": "Chye Sim Hong Kong 香港菜心",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.50",
+    "salesPrice": "$5.50",
     "indent": false
   },
   {
@@ -1040,7 +1040,7 @@
   {
     "productName": "Kailan Hong Kong 香港芥兰",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.50",
+    "salesPrice": "$5.50",
     "indent": false
   },
   {
@@ -1172,7 +1172,7 @@
   {
     "productName": "Lettuce Baby Romaine 罗门生菜仔",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.80",
+    "salesPrice": "$3.50",
     "indent": false
   },
   {
@@ -1358,19 +1358,19 @@
   {
     "productName": "Mushroom Hon-Shimeiji Brown 黑玉菇 150G",
     "unitOfMeasure": "/PKT",
-    "salesPrice": "$0.90",
+    "salesPrice": "$0.85",
     "indent": false
   },
   {
     "productName": "Mushroom Hon-Shimeiji White 白玉菇 150G",
     "unitOfMeasure": "/PKT",
-    "salesPrice": "$0.80",
+    "salesPrice": "$0.75",
     "indent": false
   },
   {
     "productName": "Mushroom King Oyster Small 小杏鲍菇 200G",
     "unitOfMeasure": "/PKT",
-    "salesPrice": "$0.95",
+    "salesPrice": "$0.85",
     "indent": false
   },
   {
@@ -1760,19 +1760,19 @@
   {
     "productName": "Pepper Bell Red 红灯笼椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.30",
+    "salesPrice": "$5.00",
     "indent": false
   },
   {
     "productName": "Pepper Bell Yellow 黄灯笼椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.80",
+    "salesPrice": "$5.30",
     "indent": false
   },
   {
     "productName": "Pepper Green Screw 螺丝椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.80",
+    "salesPrice": "$5.50",
     "indent": false
   },
   {
@@ -1784,7 +1784,7 @@
   {
     "productName": "Pepper Sheep Horn 羊角椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.00",
+    "salesPrice": "$5.50",
     "indent": false
   },
   {
@@ -1896,7 +1896,7 @@
     "indent": false
   },
   {
-    "productName": "Potatoes Local 本地马铃薯 10KG",
+    "productName": "Potatoes Local 本地马铃薯 9KG",
     "unitOfMeasure": "/SACK",
     "salesPrice": "$11.50",
     "indent": false
@@ -2306,13 +2306,13 @@
   {
     "productName": "Tomatoes Local 本地番茄",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.00",
+    "salesPrice": "$3.30",
     "indent": false
   },
   {
     "productName": "Tomatoes Local 本地番茄 10KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$38.00",
+    "salesPrice": "$31.00",
     "indent": false
   },
   {
