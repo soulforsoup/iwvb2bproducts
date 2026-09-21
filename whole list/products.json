@@ -926,13 +926,13 @@
   {
     "productName": "Herb Coriander China 中国芫茜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$9.50",
+    "salesPrice": "$10.50",
     "indent": false
   },
   {
     "productName": "Herb Coriander Thai 泰国芫茜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$9.50",
+    "salesPrice": "$10.00",
     "indent": false
   },
   {
@@ -1214,7 +1214,7 @@
   {
     "productName": "Lotus Root 莲藕",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.50",
+    "salesPrice": "$4.80",
     "indent": false
   },
   {
@@ -2162,7 +2162,7 @@
   {
     "productName": "Strawberries Aust/SF 澳洲非洲草莓 250Gx15/16",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$62.00",
+    "salesPrice": "$63.00",
     "indent": false
   },
   {
