@@ -128,13 +128,13 @@
   {
     "productName": "Avocados Hass Australian 澳洲牛油果",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$1.90",
+    "salesPrice": "$2.05",
     "indent": false
   },
   {
     "productName": "Avocados Hass Australian 澳洲牛油果 25-30PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$50.00",
+    "salesPrice": "$55.00",
     "indent": false
   },
   {
@@ -926,13 +926,13 @@
   {
     "productName": "Herb Coriander China 中国芫茜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$10.50",
+    "salesPrice": "$9.50",
     "indent": false
   },
   {
     "productName": "Herb Coriander Thai 泰国芫茜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$10.00",
+    "salesPrice": "$9.50",
     "indent": false
   },
   {
@@ -1004,7 +1004,7 @@
   {
     "productName": "Honeydew 甘露",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.30",
+    "salesPrice": "$1.60",
     "indent": false
   },
   {
@@ -1214,7 +1214,7 @@
   {
     "productName": "Lotus Root 莲藕",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.80",
+    "salesPrice": "$4.50",
     "indent": false
   },
   {
@@ -1610,7 +1610,7 @@
   {
     "productName": "Papaya Local 本地木瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.40",
+    "salesPrice": "$2.00",
     "indent": false
   },
   {
@@ -2162,7 +2162,7 @@
   {
     "productName": "Strawberries Aust/SF 澳洲非洲草莓 250Gx15/16",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$63.00",
+    "salesPrice": "$62.00",
     "indent": false
   },
   {
@@ -2348,7 +2348,7 @@
   {
     "productName": "Watermelon 西瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$1.60",
+    "salesPrice": "$1.40",
     "indent": false
   },
   {
