@@ -350,13 +350,13 @@
   {
     "productName": "Carrot Australian 澳洲红萝卜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$1.90",
+    "salesPrice": "$1.60",
     "indent": false
   },
   {
     "productName": "Carrot Australian 澳洲红萝卜 10KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$18.00",
+    "salesPrice": "$14.00",
     "indent": false
   },
   {
@@ -404,13 +404,13 @@
   {
     "productName": "Celery Australian 澳洲西芹",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.30",
+    "salesPrice": "$2.90",
     "indent": false
   },
   {
-    "productName": "Celery Australian 澳洲西芹 12/15KG",
+    "productName": "Celery Australian 澳洲西芹 15KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$48.00",
+    "salesPrice": "$39.00",
     "indent": false
   },
   {
