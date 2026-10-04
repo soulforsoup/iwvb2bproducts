@@ -98,13 +98,13 @@
   {
     "productName": "Asparagus Green 青芦笋",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$21.00",
+    "salesPrice": "$19.00",
     "indent": false
   },
   {
     "productName": "Asparagus Green 青芦笋 5KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$100.00",
+    "salesPrice": "$90.00",
     "indent": false
   },
   {
@@ -128,13 +128,13 @@
   {
     "productName": "Avocados Hass Australian 澳洲牛油果",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$1.90",
+    "salesPrice": "$2.05",
     "indent": false
   },
   {
     "productName": "Avocados Hass Australian 澳洲牛油果 25-30PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$50.00",
+    "salesPrice": "$55.00",
     "indent": false
   },
   {
@@ -350,13 +350,13 @@
   {
     "productName": "Carrot Australian 澳洲红萝卜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$1.90",
+    "salesPrice": "$1.60",
     "indent": false
   },
   {
     "productName": "Carrot Australian 澳洲红萝卜 10KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$18.00",
+    "salesPrice": "$14.00",
     "indent": false
   },
   {
@@ -404,13 +404,13 @@
   {
     "productName": "Celery Australian 澳洲西芹",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.30",
+    "salesPrice": "$2.90",
     "indent": false
   },
   {
-    "productName": "Celery Australian 澳洲西芹 12/15KG",
+    "productName": "Celery Australian 澳洲西芹 15KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$48.00",
+    "salesPrice": "$39.00",
     "indent": false
   },
   {
@@ -506,7 +506,7 @@
   {
     "productName": "Chye Sim Cameron 金马伦菜芯",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.50",
+    "salesPrice": "$3.60",
     "indent": false
   },
   {
@@ -566,13 +566,13 @@
   {
     "productName": "Cucumber Japanese 日本青瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.50",
+    "salesPrice": "$3.50",
     "indent": false
   },
   {
     "productName": "Cucumber Japanese 日本青瓜 10KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$23.00",
+    "salesPrice": "$33.00",
     "indent": false
   },
   {
@@ -668,19 +668,19 @@
   {
     "productName": "Eggplant Long 长茄",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.80",
+    "salesPrice": "$3.50",
     "indent": false
   },
   {
     "productName": "Eggplant Pearl 珍珠红茄",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.50",
+    "salesPrice": "$3.90",
     "indent": false
   },
   {
     "productName": "Eggplant Thai 泰国青圆茄",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.50",
+    "salesPrice": "$3.80",
     "indent": false
   },
   {
@@ -926,13 +926,13 @@
   {
     "productName": "Herb Coriander China 中国芫茜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$10.50",
+    "salesPrice": "$9.50",
     "indent": false
   },
   {
     "productName": "Herb Coriander Thai 泰国芫茜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$10.00",
+    "salesPrice": "$9.50",
     "indent": false
   },
   {
@@ -1004,7 +1004,7 @@
   {
     "productName": "Honeydew 甘露",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.30",
+    "salesPrice": "$1.60",
     "indent": false
   },
   {
@@ -1214,7 +1214,7 @@
   {
     "productName": "Lotus Root 莲藕",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.80",
+    "salesPrice": "$4.50",
     "indent": false
   },
   {
@@ -1236,9 +1236,9 @@
     "indent": false
   },
   {
-    "productName": "Mango Honey China 中国蜂蜜芒果 9/10KG",
+    "productName": "Mango Honey China 中国蜂蜜芒果 13/14KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$40.00",
+    "salesPrice": "$56.00",
     "indent": false
   },
   {
@@ -1610,7 +1610,7 @@
   {
     "productName": "Papaya Local 本地木瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.40",
+    "salesPrice": "$1.80",
     "indent": false
   },
   {
@@ -1754,19 +1754,19 @@
   {
     "productName": "Pepper Bell Green 青灯笼椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.80",
+    "salesPrice": "$4.50",
     "indent": false
   },
   {
     "productName": "Pepper Bell Red 红灯笼椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.00",
+    "salesPrice": "$4.80",
     "indent": false
   },
   {
     "productName": "Pepper Bell Yellow 黄灯笼椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.30",
+    "salesPrice": "$5.00",
     "indent": false
   },
   {
@@ -2162,7 +2162,7 @@
   {
     "productName": "Strawberries Aust/SF 澳洲非洲草莓 250Gx15/16",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$63.00",
+    "salesPrice": "$62.00",
     "indent": false
   },
   {
@@ -2246,7 +2246,7 @@
   {
     "productName": "Tau Kwa Fortune 豆干 2PCS",
     "unitOfMeasure": "/PKT",
-    "salesPrice": "$1.30",
+    "salesPrice": "$1.15",
     "indent": false
   },
   {
@@ -2276,7 +2276,7 @@
   {
     "productName": "Tofu Silken Fortune 豆腐盒",
     "unitOfMeasure": "/BOX",
-    "salesPrice": "$0.90",
+    "salesPrice": "$0.80",
     "indent": false
   },
   {
@@ -2300,19 +2300,19 @@
   {
     "productName": "Tomatoes Cherry Red 红樱桃番茄",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.90",
+    "salesPrice": "$4.30",
     "indent": false
   },
   {
     "productName": "Tomatoes Local 本地番茄",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.30",
+    "salesPrice": "$2.90",
     "indent": false
   },
   {
     "productName": "Tomatoes Local 本地番茄 10KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$31.00",
+    "salesPrice": "$27.00",
     "indent": false
   },
   {
@@ -2348,7 +2348,7 @@
   {
     "productName": "Watermelon 西瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$1.60",
+    "salesPrice": "$1.40",
     "indent": false
   },
   {
@@ -2360,7 +2360,7 @@
   {
     "productName": "Xiao Bai Chye 小白菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.50",
+    "salesPrice": "$3.60",
     "indent": false
   },
   {
