@@ -128,13 +128,13 @@
   {
     "productName": "Avocados Hass Australian 澳洲牛油果",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$1.90",
+    "salesPrice": "$2.05",
     "indent": false
   },
   {
     "productName": "Avocados Hass Australian 澳洲牛油果 25-30PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$52.00",
+    "salesPrice": "$55.00",
     "indent": false
   },
   {
@@ -512,7 +512,7 @@
   {
     "productName": "Chye Sim Hong Kong 香港菜心",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.50",
+    "salesPrice": "$5.50",
     "indent": false
   },
   {
@@ -566,13 +566,13 @@
   {
     "productName": "Cucumber Japanese 日本青瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.60",
+    "salesPrice": "$3.50",
     "indent": false
   },
   {
     "productName": "Cucumber Japanese 日本青瓜 10KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$24.00",
+    "salesPrice": "$33.00",
     "indent": false
   },
   {
@@ -830,13 +830,13 @@
   {
     "productName": "Grapes Australian Green Seedless 澳洲无籽青葡萄",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$15.00",
+    "salesPrice": "$13.00",
     "indent": false
   },
   {
     "productName": "Grapes Australian Green Seedless 澳洲无籽青葡萄 9KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$144.00",
+    "salesPrice": "$124.00",
     "indent": false
   },
   {
@@ -1040,7 +1040,7 @@
   {
     "productName": "Kailan Hong Kong 香港芥兰",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.50",
+    "salesPrice": "$5.50",
     "indent": false
   },
   {
@@ -1172,13 +1172,13 @@
   {
     "productName": "Lettuce Baby Romaine 罗门生菜仔",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.90",
+    "salesPrice": "$3.50",
     "indent": false
   },
   {
     "productName": "Lettuce Coral Green 青生菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$6.00",
+    "salesPrice": "$4.80",
     "indent": false
   },
   {
@@ -2300,19 +2300,19 @@
   {
     "productName": "Tomatoes Cherry Red 红樱桃番茄",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.80",
+    "salesPrice": "$4.30",
     "indent": false
   },
   {
     "productName": "Tomatoes Local 本地番茄",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.60",
+    "salesPrice": "$2.90",
     "indent": false
   },
   {
     "productName": "Tomatoes Local 本地番茄 10KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$24.00",
+    "salesPrice": "$27.00",
     "indent": false
   },
   {
@@ -2360,7 +2360,7 @@
   {
     "productName": "Xiao Bai Chye 小白菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.90",
+    "salesPrice": "$3.60",
     "indent": false
   },
   {
@@ -2390,7 +2390,7 @@
   {
     "productName": "You Mai Cai 油麦菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.80",
+    "salesPrice": "$5.50",
     "indent": false
   },
   {
