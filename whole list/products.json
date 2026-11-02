@@ -128,13 +128,13 @@
   {
     "productName": "Avocados Hass Australian 澳洲牛油果",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$2.05",
+    "salesPrice": "$1.90",
     "indent": false
   },
   {
     "productName": "Avocados Hass Australian 澳洲牛油果 25-30PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$55.00",
+    "salesPrice": "$52.00",
     "indent": false
   },
   {
@@ -224,7 +224,7 @@
   {
     "productName": "Bean Long 菜豆",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.40",
+    "salesPrice": "$3.80",
     "indent": false
   },
   {
@@ -260,13 +260,13 @@
   {
     "productName": "Beetroot 甜菜根",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.30",
+    "salesPrice": "$2.90",
     "indent": false
   },
   {
     "productName": "Bittergourd 苦瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.80",
+    "salesPrice": "$3.50",
     "indent": false
   },
   {
@@ -422,7 +422,7 @@
   {
     "productName": "Celery English 西芹",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$1.90",
+    "salesPrice": "$2.50",
     "indent": false
   },
   {
@@ -506,7 +506,7 @@
   {
     "productName": "Chye Sim Cameron 金马伦菜芯",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.00",
+    "salesPrice": "$3.40",
     "indent": false
   },
   {
@@ -578,7 +578,7 @@
   {
     "productName": "Cucumber Local 本地青瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.20",
+    "salesPrice": "$1.50",
     "indent": false
   },
   {
@@ -668,7 +668,7 @@
   {
     "productName": "Eggplant Long 长茄",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.80",
+    "salesPrice": "$3.50",
     "indent": false
   },
   {
@@ -746,7 +746,7 @@
   {
     "productName": "Ginger Blue 南姜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.50",
+    "salesPrice": "$3.90",
     "indent": false
   },
   {
@@ -1034,7 +1034,7 @@
   {
     "productName": "Kailan Baby 芥兰仔 150G",
     "unitOfMeasure": "/PKT",
-    "salesPrice": "$1.30",
+    "salesPrice": "$1.60",
     "indent": false
   },
   {
@@ -1166,7 +1166,7 @@
   {
     "productName": "Lemongrass 香茅",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.90",
+    "salesPrice": "$4.00",
     "indent": false
   },
   {
@@ -1178,19 +1178,19 @@
   {
     "productName": "Lettuce Coral Green 青生菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$6.00",
+    "salesPrice": "$5.00",
     "indent": false
   },
   {
     "productName": "Lettuce Coral Red 红生菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$6.50",
+    "salesPrice": "$5.50",
     "indent": false
   },
   {
     "productName": "Lettuce Iceberg 玻璃生菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.00",
+    "salesPrice": "$4.90",
     "indent": false
   },
   {
@@ -1280,7 +1280,7 @@
   {
     "productName": "Mangosteen 山竹        ",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.50",
+    "salesPrice": "$5.00",
     "indent": false
   },
   {
@@ -2060,7 +2060,7 @@
   {
     "productName": "Shallot 小葱头",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.80",
+    "salesPrice": "$4.00",
     "indent": false
   },
   {
@@ -2150,7 +2150,7 @@
   {
     "productName": "Sprouts Brussels 抱子甘蓝",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$8.50",
+    "salesPrice": "$10.00",
     "indent": false
   },
   {
@@ -2306,13 +2306,13 @@
   {
     "productName": "Tomatoes Local 本地番茄",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.30",
+    "salesPrice": "$2.90",
     "indent": false
   },
   {
     "productName": "Tomatoes Local 本地番茄 10KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$31.00",
+    "salesPrice": "$27.00",
     "indent": false
   },
   {
@@ -2348,7 +2348,7 @@
   {
     "productName": "Watermelon 西瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$1.30",
+    "salesPrice": "$1.40",
     "indent": false
   },
   {
@@ -2360,7 +2360,7 @@
   {
     "productName": "Xiao Bai Chye 小白菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.00",
+    "salesPrice": "$3.40",
     "indent": false
   },
   {
