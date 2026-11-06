@@ -212,13 +212,13 @@
   {
     "productName": "Bean French 四季豆",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$6.50",
+    "salesPrice": "$6.00",
     "indent": false
   },
   {
     "productName": "Bean French 四季豆 250G",
     "unitOfMeasure": "/PKT",
-    "salesPrice": "$1.65",
+    "salesPrice": "$1.50",
     "indent": false
   },
   {
@@ -290,19 +290,19 @@
   {
     "productName": "Blueberries 蓝莓 125G",
     "unitOfMeasure": "/PUN",
-    "salesPrice": "$3.20",
+    "salesPrice": "$2.90",
     "indent": false
   },
   {
     "productName": "Blueberries 蓝莓 12x125G",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$35.00",
+    "salesPrice": "$33.00",
     "indent": false
   },
   {
     "productName": "Broccoli 西兰花",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.30",
+    "salesPrice": "$3.10",
     "indent": false
   },
   {
@@ -452,7 +452,7 @@
   {
     "productName": "Chili Green 青辣椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$6.00",
+    "salesPrice": "$5.50",
     "indent": false
   },
   {
@@ -482,7 +482,7 @@
   {
     "productName": "Chili Red 红辣椒",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$6.00",
+    "salesPrice": "$5.50",
     "indent": false
   },
   {
@@ -602,13 +602,13 @@
   {
     "productName": "Dragon Fruit White 白火龙果",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.50",
+    "salesPrice": "$2.70",
     "indent": false
   },
   {
     "productName": "Dragon Fruit White 白火龙果 14-18PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$20.00",
+    "salesPrice": "$22.00",
     "indent": false
   },
   {
@@ -680,7 +680,7 @@
   {
     "productName": "Eggplant Thai 泰国青圆茄",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.80",
+    "salesPrice": "$4.80",
     "indent": false
   },
   {
@@ -1004,7 +1004,7 @@
   {
     "productName": "Honeydew 甘露",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$1.60",
+    "salesPrice": "$1.80",
     "indent": false
   },
   {
@@ -1136,13 +1136,13 @@
   {
     "productName": "Leek Green 青蒜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.80",
+    "salesPrice": "$4.50",
     "indent": false
   },
   {
     "productName": "Leek Japanese/Scallion 北葱",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.50",
+    "salesPrice": "$3.20",
     "indent": false
   },
   {
@@ -1166,7 +1166,7 @@
   {
     "productName": "Lemongrass 香茅",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.90",
+    "salesPrice": "$3.50",
     "indent": false
   },
   {
@@ -1226,7 +1226,7 @@
   {
     "productName": "Mango Green 青芒果",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.90",
+    "salesPrice": "$4.50",
     "indent": false
   },
   {
@@ -1244,13 +1244,13 @@
   {
     "productName": "Mango R2E2 蘋果芒果",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$7.50",
+    "salesPrice": "$6.80",
     "indent": false
   },
   {
     "productName": "Mango R2E2 蘋果芒果 9KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$63.00",
+    "salesPrice": "$55.00",
     "indent": false
   },
   {
@@ -1460,7 +1460,7 @@
   {
     "productName": "Onion Spring Thai 泰国青葱",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$7.90",
+    "salesPrice": "$8.90",
     "indent": false
   },
   {
@@ -1550,7 +1550,7 @@
   {
     "productName": "Orange Navel/Valencia 橙 (L) Size",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$1.00",
+    "salesPrice": "$0.80",
     "indent": false
   },
   {
@@ -1568,7 +1568,7 @@
   {
     "productName": "Orange Navel/Valencia 橙 45/50/55PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$45.00",
+    "salesPrice": "$39.00",
     "indent": false
   },
   {
@@ -1616,7 +1616,7 @@
   {
     "productName": "Passionfruit Golden 黄金百香果",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$43.00",
+    "salesPrice": "$40.00",
     "indent": false
   },
   {
@@ -1742,13 +1742,13 @@
   {
     "productName": "Peas Snow 荷兰豆 130G",
     "unitOfMeasure": "/PKT",
-    "salesPrice": "$1.20",
+    "salesPrice": "$1.40",
     "indent": false
   },
   {
     "productName": "Peas Sweet 甜豆 130G",
     "unitOfMeasure": "/PKT",
-    "salesPrice": "$1.10",
+    "salesPrice": "$1.40",
     "indent": false
   },
   {
@@ -1802,7 +1802,7 @@
   {
     "productName": "Petai 臭豆 120G",
     "unitOfMeasure": "/PKT",
-    "salesPrice": "$3.50",
+    "salesPrice": "$4.00",
     "indent": false
   },
   {
@@ -1880,7 +1880,7 @@
   {
     "productName": "Potato Russet USA 美国马铃薯",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.30",
+    "salesPrice": "$2.10",
     "indent": false
   },
   {
@@ -2354,7 +2354,7 @@
   {
     "productName": "Wawa Cai 娃娃菜 300G",
     "unitOfMeasure": "/PKT",
-    "salesPrice": "$1.60",
+    "salesPrice": "$1.80",
     "indent": false
   },
   {
@@ -2372,19 +2372,19 @@
   {
     "productName": "Yam Chinese 山药",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.00",
+    "salesPrice": "$3.90",
     "indent": false
   },
   {
     "productName": "Yam Thai 泰国芋头",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.80",
+    "salesPrice": "$5.50",
     "indent": false
   },
   {
     "productName": "Yam Thai 泰国芋头 10KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$46.00",
+    "salesPrice": "$53.00",
     "indent": false
   },
   {
