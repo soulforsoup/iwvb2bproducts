@@ -132,7 +132,7 @@
     "indent": false
   },
   {
-    "productName": "Avocados Hass Australian/Mexican 澳洲墨西哥牛油果 25-30PCS",
+    "productName": "Avocados Hass Australian 澳洲牛油果 25-30PCS",
     "unitOfMeasure": "/CTN",
     "salesPrice": "$55.00",
     "indent": false
@@ -140,7 +140,7 @@
   {
     "productName": "Avocados Hass Australian/Mexican 澳洲墨西哥牛油果",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$2.05",
+    "salesPrice": "$1.70",
     "indent": false
   },
   {
@@ -212,13 +212,13 @@
   {
     "productName": "Bean French 四季豆",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.50",
+    "salesPrice": "$6.00",
     "indent": false
   },
   {
     "productName": "Bean French 四季豆 250G",
     "unitOfMeasure": "/PKT",
-    "salesPrice": "$1.40",
+    "salesPrice": "$1.50",
     "indent": false
   },
   {
@@ -506,7 +506,7 @@
   {
     "productName": "Chye Sim Cameron 金马伦菜芯",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.00",
+    "salesPrice": "$2.50",
     "indent": false
   },
   {
@@ -1172,7 +1172,7 @@
   {
     "productName": "Lettuce Baby Romaine 罗门生菜仔",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.90",
+    "salesPrice": "$4.50",
     "indent": false
   },
   {
@@ -1190,7 +1190,7 @@
   {
     "productName": "Lettuce Iceberg 玻璃生菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.40",
+    "salesPrice": "$4.00",
     "indent": false
   },
   {
@@ -1250,7 +1250,7 @@
   {
     "productName": "Mango R2E2 蘋果芒果 9KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$58.00",
+    "salesPrice": "$55.00",
     "indent": false
   },
   {
@@ -2360,7 +2360,7 @@
   {
     "productName": "Xiao Bai Chye 小白菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.80",
+    "salesPrice": "$3.00",
     "indent": false
   },
   {
