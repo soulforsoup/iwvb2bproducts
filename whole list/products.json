@@ -2,25 +2,25 @@
   {
     "productName": "Apple China Fuji 中国富士苹果 (L) Size",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$0.80",
+    "salesPrice": "$0.90",
     "indent": false
   },
   {
     "productName": "Apple China Fuji 中国富士苹果 (S) Size",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$0.50",
+    "salesPrice": "$0.60",
     "indent": false
   },
   {
     "productName": "Apple China Fuji 中国富士苹果 56/64/72PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$49.00",
+    "salesPrice": "$55.00",
     "indent": false
   },
   {
     "productName": "Apple China Fuji 中国富士苹果 88/100/113PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$45.00",
+    "salesPrice": "$50.00",
     "indent": false
   },
   {
@@ -74,13 +74,13 @@
   {
     "productName": "Apple Rockit 5S 新西兰苹果",
     "unitOfMeasure": "/BOX",
-    "salesPrice": "$7.90",
+    "salesPrice": "$8.20",
     "indent": false
   },
   {
     "productName": "Apple Rockit 5S 新西兰苹果 16ROLLS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$122.00",
+    "salesPrice": "$130.00",
     "indent": false
   },
   {
@@ -104,7 +104,7 @@
   {
     "productName": "Asparagus Green 青芦笋 5KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$70.00",
+    "salesPrice": "$65.00",
     "indent": false
   },
   {
@@ -132,7 +132,7 @@
     "indent": false
   },
   {
-    "productName": "Avocados Hass Australian/Mexican 澳洲墨西哥牛油果 25-30PCS",
+    "productName": "Avocados Hass Australian 澳洲牛油果 25-30PCS",
     "unitOfMeasure": "/CTN",
     "salesPrice": "$55.00",
     "indent": false
@@ -140,7 +140,7 @@
   {
     "productName": "Avocados Hass Australian/Mexican 澳洲墨西哥牛油果",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$2.05",
+    "salesPrice": "$1.70",
     "indent": false
   },
   {
@@ -212,13 +212,13 @@
   {
     "productName": "Bean French 四季豆",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.50",
+    "salesPrice": "$6.00",
     "indent": false
   },
   {
     "productName": "Bean French 四季豆 250G",
     "unitOfMeasure": "/PKT",
-    "salesPrice": "$1.40",
+    "salesPrice": "$1.50",
     "indent": false
   },
   {
@@ -248,7 +248,7 @@
   {
     "productName": "Bean Winged 四方豆",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.80",
+    "salesPrice": "$6.50",
     "indent": false
   },
   {
@@ -374,13 +374,13 @@
   {
     "productName": "Carrot 红萝卜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$1.20",
+    "salesPrice": "$1.30",
     "indent": false
   },
   {
     "productName": "Carrot 红萝卜 10KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$11.00",
+    "salesPrice": "$12.00",
     "indent": false
   },
   {
@@ -494,7 +494,7 @@
   {
     "productName": "Chives Garlic Malaysia 马来韭菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.90",
+    "salesPrice": "$4.40",
     "indent": false
   },
   {
@@ -506,7 +506,7 @@
   {
     "productName": "Chye Sim Cameron 金马伦菜芯",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.00",
+    "salesPrice": "$2.50",
     "indent": false
   },
   {
@@ -584,7 +584,7 @@
   {
     "productName": "Cucumber Old 老黄瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.20",
+    "salesPrice": "$3.90",
     "indent": false
   },
   {
@@ -758,7 +758,7 @@
   {
     "productName": "Ginger Old 老姜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.50",
+    "salesPrice": "$3.80",
     "indent": false
   },
   {
@@ -770,7 +770,7 @@
   {
     "productName": "Ginger Old 老姜 10KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$30.00",
+    "salesPrice": "$26.00",
     "indent": false
   },
   {
@@ -788,7 +788,7 @@
   {
     "productName": "Ginger Young 仔姜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.00",
+    "salesPrice": "$5.50",
     "indent": false
   },
   {
@@ -872,25 +872,25 @@
   {
     "productName": "Grapes Green Seedless 无籽青葡萄",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$7.50",
+    "salesPrice": "$8.00",
     "indent": false
   },
   {
     "productName": "Grapes Green Seedless 无籽青葡萄 5KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$35.00",
+    "salesPrice": "$37.50",
     "indent": false
   },
   {
     "productName": "Grapes Red Seedless 无籽红葡萄",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$7.50",
+    "salesPrice": "$8.00",
     "indent": false
   },
   {
     "productName": "Grapes Red Seedless 无籽红葡萄 5KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$35.00",
+    "salesPrice": "$37.50",
     "indent": false
   },
   {
@@ -926,13 +926,13 @@
   {
     "productName": "Herb Coriander China 中国芫茜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$7.00",
+    "salesPrice": "$9.50",
     "indent": false
   },
   {
     "productName": "Herb Coriander Thai 泰国芫茜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$7.00",
+    "salesPrice": "$9.50",
     "indent": false
   },
   {
@@ -1034,7 +1034,7 @@
   {
     "productName": "Kailan Baby 芥兰仔 150G",
     "unitOfMeasure": "/PKT",
-    "salesPrice": "$1.20",
+    "salesPrice": "$1.30",
     "indent": false
   },
   {
@@ -1154,13 +1154,13 @@
   {
     "productName": "Lemon 柠檬",
     "unitOfMeasure": "/PCS",
-    "salesPrice": "$0.45",
+    "salesPrice": "$0.50",
     "indent": false
   },
   {
     "productName": "Lemon 柠檬 80/88/100/113PCS",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$40.00",
+    "salesPrice": "$45.00",
     "indent": false
   },
   {
@@ -1172,7 +1172,7 @@
   {
     "productName": "Lettuce Baby Romaine 罗门生菜仔",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.90",
+    "salesPrice": "$4.50",
     "indent": false
   },
   {
@@ -1190,7 +1190,7 @@
   {
     "productName": "Lettuce Iceberg 玻璃生菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.40",
+    "salesPrice": "$4.00",
     "indent": false
   },
   {
@@ -1250,7 +1250,7 @@
   {
     "productName": "Mango R2E2 蘋果芒果 9KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$58.00",
+    "salesPrice": "$55.00",
     "indent": false
   },
   {
@@ -1394,13 +1394,13 @@
   {
     "productName": "Mushroom Shiitake 香菇",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$7.80",
+    "salesPrice": "$8.50",
     "indent": false
   },
   {
     "productName": "Mushroom Shiitake 香菇 5KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$36.00",
+    "salesPrice": "$40.00",
     "indent": false
   },
   {
@@ -1424,7 +1424,7 @@
   {
     "productName": "Nai Bai 奶白",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.90",
+    "salesPrice": "$5.00",
     "indent": false
   },
   {
@@ -1436,7 +1436,7 @@
   {
     "productName": "Onion Red 红葱",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$1.60",
+    "salesPrice": "$1.70",
     "indent": false
   },
   {
@@ -1454,13 +1454,13 @@
   {
     "productName": "Onion Spring Malaysia 马来西亚青葱",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.80",
+    "salesPrice": "$5.50",
     "indent": false
   },
   {
     "productName": "Onion Spring Thai 泰国青葱",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$7.20",
+    "salesPrice": "$8.90",
     "indent": false
   },
   {
@@ -1494,9 +1494,9 @@
     "indent": false
   },
   {
-    "productName": "Onion Yellow 黄洋葱 9/10KG",
+    "productName": "Onion Yellow 黄洋葱 10KG",
     "unitOfMeasure": "/SACK",
-    "salesPrice": "$10.50",
+    "salesPrice": "$11.00",
     "indent": false
   },
   {
@@ -1604,7 +1604,7 @@
   {
     "productName": "Papaya Green 青木瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$1.80",
+    "salesPrice": "$2.00",
     "indent": false
   },
   {
@@ -1922,7 +1922,7 @@
   {
     "productName": "Potatoes Sweet Japanese 日本番薯",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.60",
+    "salesPrice": "$3.50",
     "indent": false
   },
   {
@@ -1940,7 +1940,7 @@
   {
     "productName": "Potatoes White Washed Australia 澳洲白马铃薯",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.60",
+    "salesPrice": "$2.80",
     "indent": false
   },
   {
@@ -2006,13 +2006,13 @@
   {
     "productName": "Raspberries 覆盆子",
     "unitOfMeasure": "/PUN",
-    "salesPrice": "$6.20",
+    "salesPrice": "$6.50",
     "indent": false
   },
   {
     "productName": "Raspberries 覆盆子 125Gx12",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$62.00",
+    "salesPrice": "$69.00",
     "indent": false
   },
   {
@@ -2126,7 +2126,7 @@
   {
     "productName": "Spinach Chinese 中国菠菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.50",
+    "salesPrice": "$6.00",
     "indent": false
   },
   {
@@ -2162,7 +2162,7 @@
   {
     "productName": "Strawberries Aust/SF 澳洲非洲草莓 250Gx15/16",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$60.00",
+    "salesPrice": "$62.00",
     "indent": false
   },
   {
@@ -2348,7 +2348,7 @@
   {
     "productName": "Watermelon 西瓜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$1.50",
+    "salesPrice": "$1.60",
     "indent": false
   },
   {
@@ -2360,7 +2360,7 @@
   {
     "productName": "Xiao Bai Chye 小白菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.80",
+    "salesPrice": "$3.00",
     "indent": false
   },
   {
