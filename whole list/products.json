@@ -506,7 +506,7 @@
   {
     "productName": "Chye Sim Cameron 金马伦菜芯",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.00",
+    "salesPrice": "$2.50",
     "indent": false
   },
   {
@@ -1178,7 +1178,7 @@
   {
     "productName": "Lettuce Baby Romaine 罗门生菜仔",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.90",
+    "salesPrice": "$3.50",
     "indent": false
   },
   {
@@ -1190,7 +1190,7 @@
   {
     "productName": "Lettuce Coral Red 红生菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$7.00",
+    "salesPrice": "$6.50",
     "indent": false
   },
   {
@@ -1250,13 +1250,13 @@
   {
     "productName": "Mango R2E2 蘋果芒果",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$6.80",
+    "salesPrice": "$7.50",
     "indent": false
   },
   {
-    "productName": "Mango R2E2 蘋果芒果 9KG",
+    "productName": "Mango R2E2 蘋果芒果 7KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$58.00",
+    "salesPrice": "$49.00",
     "indent": false
   },
   {
@@ -1460,7 +1460,7 @@
   {
     "productName": "Onion Spring Malaysia 马来西亚青葱",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.80",
+    "salesPrice": "$5.50",
     "indent": false
   },
   {
@@ -2312,13 +2312,13 @@
   {
     "productName": "Tomatoes Local 本地番茄",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.80",
+    "salesPrice": "$3.00",
     "indent": false
   },
   {
     "productName": "Tomatoes Local 本地番茄 10KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$26.00",
+    "salesPrice": "$28.00",
     "indent": false
   },
   {
@@ -2366,7 +2366,7 @@
   {
     "productName": "Xiao Bai Chye 小白菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.80",
+    "salesPrice": "$2.50",
     "indent": false
   },
   {
