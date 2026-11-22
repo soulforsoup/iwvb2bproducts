@@ -98,13 +98,13 @@
   {
     "productName": "Asparagus Green 青芦笋",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$16.00",
+    "salesPrice": "$17.50",
     "indent": false
   },
   {
     "productName": "Asparagus Green 青芦笋 5KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$70.00",
+    "salesPrice": "$79.00",
     "indent": false
   },
   {
@@ -314,7 +314,13 @@
   {
     "productName": "Cabbage Beijing 北京包菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$1.35",
+    "salesPrice": "$1.30",
+    "indent": false
+  },
+  {
+    "productName": "Cabbage Beijing 北京包菜 13KG",
+    "unitOfMeasure": "/CTN",
+    "salesPrice": "$14.90",
     "indent": false
   },
   {
@@ -2174,7 +2180,7 @@
   {
     "productName": "Strawberries Egypt/Ethopia 埃及埃塞草莓 250Gx10",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$36.00",
+    "salesPrice": "$43.00",
     "indent": false
   },
   {
