@@ -200,7 +200,7 @@
   {
     "productName": "Blueberries 蓝莓 12x125G",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$32.00",
+    "salesPrice": "$33.00",
     "indent": false
   },
   {
@@ -464,13 +464,13 @@
   {
     "productName": "Mango R2E2 蘋果芒果",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$7.50",
+    "salesPrice": "$6.80",
     "indent": false
   },
   {
-    "productName": "Mango R2E2 蘋果芒果 7KG",
+    "productName": "Mango R2E2 蘋果芒果 9KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$49.00",
+    "salesPrice": "$58.00",
     "indent": false
   },
   {
@@ -884,7 +884,7 @@
   {
     "productName": "Strawberries Egypt/Ethopia 埃及埃塞草莓 250Gx10",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$43.00",
+    "salesPrice": "$36.00",
     "indent": false
   },
   {
@@ -902,13 +902,13 @@
   {
     "productName": "Strawberries Korean 韩国草莓 250G",
     "unitOfMeasure": "/BOX",
-    "salesPrice": "$10.20",
+    "salesPrice": "$8.00",
     "indent": false
   },
   {
     "productName": "Strawberries Korean 韩国草莓 250Gx8",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$75.00",
+    "salesPrice": "$52.00",
     "indent": false
   },
   {
