@@ -98,13 +98,13 @@
   {
     "productName": "Asparagus Green 青芦笋",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$17.50",
+    "salesPrice": "$16.00",
     "indent": false
   },
   {
     "productName": "Asparagus Green 青芦笋 5KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$79.00",
+    "salesPrice": "$70.00",
     "indent": false
   },
   {
@@ -296,7 +296,7 @@
   {
     "productName": "Blueberries 蓝莓 12x125G",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$32.00",
+    "salesPrice": "$33.00",
     "indent": false
   },
   {
@@ -314,13 +314,7 @@
   {
     "productName": "Cabbage Beijing 北京包菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$1.30",
-    "indent": false
-  },
-  {
-    "productName": "Cabbage Beijing 北京包菜 13KG",
-    "unitOfMeasure": "/CTN",
-    "salesPrice": "$14.90",
+    "salesPrice": "$1.35",
     "indent": false
   },
   {
@@ -512,7 +506,7 @@
   {
     "productName": "Chye Sim Cameron 金马伦菜芯",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.50",
+    "salesPrice": "$3.00",
     "indent": false
   },
   {
@@ -1034,13 +1028,13 @@
   {
     "productName": "Jiu Bai Chye 九白菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$2.90",
+    "salesPrice": "$2.50",
     "indent": false
   },
   {
     "productName": "Jiu Bai Chye 九白菜 10KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$27.00",
+    "salesPrice": "$23.00",
     "indent": false
   },
   {
@@ -1184,7 +1178,7 @@
   {
     "productName": "Lettuce Baby Romaine 罗门生菜仔",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.50",
+    "salesPrice": "$4.90",
     "indent": false
   },
   {
@@ -1196,13 +1190,13 @@
   {
     "productName": "Lettuce Coral Red 红生菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$6.50",
+    "salesPrice": "$7.00",
     "indent": false
   },
   {
     "productName": "Lettuce Iceberg 玻璃生菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.20",
+    "salesPrice": "$4.50",
     "indent": false
   },
   {
@@ -1256,13 +1250,13 @@
   {
     "productName": "Mango R2E2 蘋果芒果",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$7.50",
+    "salesPrice": "$6.80",
     "indent": false
   },
   {
-    "productName": "Mango R2E2 蘋果芒果 7KG",
+    "productName": "Mango R2E2 蘋果芒果 9KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$49.00",
+    "salesPrice": "$58.00",
     "indent": false
   },
   {
@@ -1466,7 +1460,7 @@
   {
     "productName": "Onion Spring Malaysia 马来西亚青葱",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$5.50",
+    "salesPrice": "$5.80",
     "indent": false
   },
   {
@@ -2180,7 +2174,7 @@
   {
     "productName": "Strawberries Egypt/Ethopia 埃及埃塞草莓 250Gx10",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$43.00",
+    "salesPrice": "$36.00",
     "indent": false
   },
   {
@@ -2198,13 +2192,13 @@
   {
     "productName": "Strawberries Korean 韩国草莓 250G",
     "unitOfMeasure": "/BOX",
-    "salesPrice": "$10.20",
+    "salesPrice": "$8.00",
     "indent": false
   },
   {
     "productName": "Strawberries Korean 韩国草莓 250Gx8",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$75.00",
+    "salesPrice": "$52.00",
     "indent": false
   },
   {
@@ -2316,21 +2310,15 @@
     "indent": false
   },
   {
-    "productName": "Tomatoes Cherry Red 红樱桃番茄 10KG",
-    "unitOfMeasure": "/CTN",
-    "salesPrice": "$37.00",
-    "indent": false
-  },
-  {
     "productName": "Tomatoes Local 本地番茄",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.40",
+    "salesPrice": "$2.80",
     "indent": false
   },
   {
     "productName": "Tomatoes Local 本地番茄 10KG",
     "unitOfMeasure": "/CTN",
-    "salesPrice": "$32.00",
+    "salesPrice": "$26.00",
     "indent": false
   },
   {
@@ -2378,7 +2366,7 @@
   {
     "productName": "Xiao Bai Chye 小白菜",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$3.50",
+    "salesPrice": "$3.80",
     "indent": false
   },
   {
@@ -2414,7 +2402,7 @@
   {
     "productName": "Zucchini Green 青西葫芦",
     "unitOfMeasure": "/KG",
-    "salesPrice": "$4.50",
+    "salesPrice": "$5.50",
     "indent": false
   },
   {
